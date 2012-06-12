@@ -1,0 +1,134 @@
+Here's a simple program that will display the contents of the file log.txt, and assumes that the first line of the file is its title:
+
+open my $logfile, 'log.txt' or die "I couldn't get at log.txt: $!";
+
+my $title = <$logfile>;
+print "Report Title: $title";
+
+print while <$logfile>;
+close $logfile;
+
+
+open my $overwrite, '>', 'overwrite.txt' or die "error trying to overwrite: $!";
+# Wave goodbye to the original contents.
+
+open my $append, '>>', 'append.txt' or die "error trying to append: $!";
+# Original contents still there; add to the end of the file
+
+Once your filehandle is open, use the humble print or say operator to write to it. Specify the filehandle you want to write to and a list of values you want to write:
+
+use 5.010;
+
+say $overwrite 'This is the new content';
+print $append "We're adding to the end here.\n", "And here too.\n";
+
+
+
+Regular Expressions
+
+
+use 5.010;
+
+my $user_location = "I see thirteen black cats under a ladder.";
+$user_location =~ /thirteen/;
+
+for my $line (<$urllist>) {
+    # "If the line starts with http: and ends with html...."
+    print $line if $line =~ /^http:/ and $line =~ /html$/;
+}
+
+Wildcard (.)
+In Perl, the generic wildcard character is .. A period inside a regular expression will match any character, except a newline. For example, the regexp /a.b/ will match anything that contains a, another character that's not a newline, followed by b -- "aab," "a3b," "a b," and so forth.
+
+Back Slash (\)
+To match a literal metacharacter, escape it with a backslash. The regex /Mr./ matches anything that contains "Mr" followed by another character. If you only want to match a string that actually contains "Mr.," use /Mr\./.
+
+Wildcard (+)
+It means to match the immediately preceding character or metacharacter one or more times. The regular expression /ab+c/ will match "abc," "abbc," "abbbc", and so on.
+
+Wildcard (*)
+The * quantifier matches the immediately preceding character or metacharacter zero or more times. /ab*c/ will match "abc," "abbc," and so on, just like /ab+c/ did, but it'll also match "ac," because there are zero occurences of b in that string.
+
+Wildcard (?)
+The ? quantifier will match the preceding character zero or one times. The regex /ab?c/ will match "ac" (zero occurences of b) and "abc" (one occurence of b). It won't match "abbc," "abbbc", and so on.
+
+
+for my $line (<$urllist>) {
+    print $line if $line =~ /^http:.+html$/;
+}
+
+
+Special Characters
+d - Digits
+w - single word character
+s - Whitespace character 
+
+All those \d metacharacters make the regex hard to read. Fortunately, Perl can do better. Use numbers inside curly braces to indicate a quantity you want to match:
+
+say "Not a phone number!" unless $phone =~ /\d{3}-\d{4}/;
+
+
+The string \d{3} means to match exactly three numbers, and \d{4} matches exactly four digits. To use a range of numbers, you can separate them with a comma; leaving out the second number makes the range open-ended. \d{2,5} will match two to five digits, and \w{3,} will match a word that's at least three characters long.
+
+You can also invert the \d, \s and \w metacharacters to refer to anything but that type of character. \D matches nondigits; \W matches any character that isn't a letter, digit, or underscore; and \S matches anything that isn't whitespace.
+
+
+Flags 
+
+You can place flags after a regexp to modify their behaviour. The most commonly used flag is i, which makes a match case-insensitive:
+
+use 5.010;
+
+my $greet = "Hey everybody, it's Bob and David!";
+    say "Hi, Bob!" if $greet =~ /bob/i;
+
+Using the g flag with your regex. This flag will tell Perl to remember where it was in the string when it returns to it (due to a while loop).
+
+The x flag allows you to use whitespace and comments within regexps, without it being significant to the pattern:
+
+
+Pipes (|)
+
+# In reality, @email_lines would come from your email text,
+# but here we'll just provide some convenient filler.
+my @email_lines = ("Dear idiot:",
+                   "I hate you, you twit.  You're a dope.",
+                   "I bet you mistreat your llama.",
+                   "Signed, Doug");
+
+for my $check_line (@email_lines) {
+   if ($check_line =~ /idiot|dope|twit|llama/) {
+       say "Be careful!  This line might contain something offensive:\n$check_line";
+   }
+
+The matching expression /idiot|dope|twit|llama/ will be true if "idiot," "dope," "twit" or "llama" show up anywhere in the string.
+
+
+Command Line Arguments
+
+#!/usr/bin/perl -w
+
+# (1) quit unless we have the correct number of command-line args
+$num_args = $#ARGV + 1;
+if ($num_args != 2) {
+  print "\nUsage: name.pl first_name last_name\n";
+  exit;
+}
+
+# (2) we got two command line args, so assume they are the
+# first name and last name
+$first_name=$ARGV[0];
+$last_name=$ARGV[1];
+
+print "Hello, $first_name $last_name\n";	
+
+Replacement String
+
+you've probably used its search-and-replace function. Perl's regexp facilities include something similar, the s/// operator: s/regex/replacement string/. If the string you're testing matches regex, then whatever matched is replaced with the contents of replacement string. For instance, this code will change a cat into a dog:
+
+use 5.010;
+my $pet = "I love my cat.";
+$pet =~ s/cat/dog/;
+say $pet;
+
+
