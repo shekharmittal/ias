@@ -1,12 +1,11 @@
 #!/usr/local/bin/perl
+# this is a code that works. Just need to change the page numbers and file names # and it should be good to go. Be very careful while making any modifications 
+
 use strict;
 use warnings;
-#use Hash::Case::higher;
 
-#my $TxtFile = "..\data\LokSabhaWinners1980.txt"; #@ARGV[0];
-#my $CsvFile = "..\data\MPs.txt"; #@ARGV[1];
 
-# step 1: open file
+# step 1: Create a hash of arrays for hte constituencies
 open (FILE, '../data/constituencies.csv');
 #Fill everything into a hash
 my %hash;
@@ -34,7 +33,7 @@ open (ERRORFILE, '>../data/errorlog.txt');
 open (CSVFILE, '>../data/MPs.txt');
  
 while (<FILE>){
-    chomp();
+    chomp($_);
 #    print " the string is $_\n";
     if ($_ =~/^\D/){
 #        print "ERROR: in place 1 \n";
@@ -45,9 +44,14 @@ while (<FILE>){
 #        print "ERROR: in place 2 \n";
         print ERRORFILE "$_\n";
     }elsif($_ =~/^\d+\./){
-#        $_=~m/(\(.*\))%/;
-        $_=~/^\d+\.\s([\w]+)(.*)\s([\w\(\)]*)$/;
-        print "NO ERROR: in place 3, key value 1 is $1 \n";
+#         $_=~/(\([\w]*\)).$/;
+#        $_=~/^\d+\.\s([\w]+)(.*)(\s)([\w\(\)]*)$/;
+        $_=~/^\d+\.\s([\w]+)(.*)\s([\w\)\(]*).$/;
+       if ($3){
+            print "NO ERROR: in place 3, key value 1 is |$3| \n";
+       }else{
+           print "ERROR: in place 3, key value 1 is NULL \n";
+       }
         my $key1 = $1;
         if (exists $hash{$key1}){
 #            print "NO ERROR: in place 5 \n";
@@ -60,7 +64,7 @@ while (<FILE>){
                 next;
             }
 	}
-        $_=~/^\d+\.\s([\w]+\s[\(\)\w]*)(.*)\s([\w\(\)]*)$/;
+        $_=~/^\d+\.\s([\w]+\s[\(\)\w]*)(.*)\s([\w\(\)]*).$/;
 #        print "NO ERROR: in place 6, key value is $1 \n";
 #        print "$1\n";
         my $key2 = $1;
