@@ -10,7 +10,7 @@ open (FILE, '../data/constituencies.csv');
 my %hash;
 while (<FILE>){
     chomp;
-     my ($const, $state) = split(":");
+     my ($const, $state) = split(",");
      my $value = $hash{"$const"};
      if ($value){
          print "ERROR: Hash already exists:$const:$state:$hash{$const} \n";           }
@@ -18,8 +18,7 @@ while (<FILE>){
     push($hash{$const}, $state);
 }
 close (FILE);
-open (FILE, '../data/loksabhawinners1984.txt');
-
+open (FILE, '../data/loksabhawinners1991.txt');
 #Now start matching the constituencies to the hash and writing it into a text fil
 open (ERRORFILE, '>../data/errorlog.txt');
 open (CSVFILE, '>../data/MPs.txt');
