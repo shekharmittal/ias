@@ -18,7 +18,7 @@ while (<FILE>){
     push($hash{$const}, $state);
 }
 close (FILE);
-open (FILE, '../data/loksabhawinners1991.txt');
+open (FILE, '../data/loksabhawinners1996.txt');
 #Now start matching the constituencies to the hash and writing it into a text fil
 open (ERRORFILE, '>../data/errorlog.txt');
 open (CSVFILE, '>../data/MPs.txt');
