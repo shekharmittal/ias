@@ -1,20 +1,20 @@
-Kasaragod
-Cannanore
-Badagara
-Calicut
-Manjeri
-Ponnani
-Palghat
-Ottapalam (SC)
-Trichur
-Mukundapuram
-Ernakulam
-Muvattupuzha
-Kottayam
-Idukki
-Alleppey
-Mavelikara
-Adoor (SC)
-Quilon
-Chirayinkil
-Trivandrum
+KASARAGOD,Kerala
+CANNANORE,Kerala
+BADAGARA,Kerala
+CALICUT,Kerala
+MANJERI,Kerala
+PONNANI,Kerala
+PALGHAT,Kerala
+OTTAPALAM (SC),Kerala
+TRICHUR,Kerala
+MUKUNDAPURAM,Kerala
+ERNAKULAM,Kerala
+MUVATTUPUZHA,Kerala
+KOTTAYAM,Kerala
+IDUKKI,Kerala
+ALLEPPEY,Kerala
+MAVELIKARA,Kerala
+ADOOR (SC),Kerala
+QUILON,Kerala
+CHIRAYINKIL,Kerala
+TRIVANDRUM,Kerala

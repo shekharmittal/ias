@@ -1,40 +1,40 @@
-Bagaha (SC)
-Bettiah
-Motihari
-Gopalganj
-Siwan
-Maharajganj
-Chapra
-Hajipur (SC)
-Vaishali
-Muzaffarpur
-Sitamarhi
-Sheohar
-Madhubani
-Jhanjharpur
-Darbhanga
-Rosera (SC)
-Samastipur
-Barh
-Balia
-Saharsa
-Madhepura
-Araria (SC)
-Kishanganj
-Purnea
-Katihar
-Banka
-Bhagalpur
-Khagaria
-Monghyr
-Begusarai
-Nalanda
-Patna
-Arrah
-Buxar
-Sasaram (SC)
-Bikramganj
-Aurangabad
-Jahanabad
-Nawada (SC)
-Gaya (SC)
+BAGAHA (SC),Bihar
+BETTIAH,Bihar
+MOTIHARI,Bihar
+GOPALGANJ,Bihar
+SIWAN,Bihar
+MAHARAJGANJ,Bihar
+CHAPRA,Bihar
+HAJIPUR (SC),Bihar
+VAISHALI,Bihar
+MUZAFFARPUR,Bihar
+SITAMARHI,Bihar
+SHEOHAR,Bihar
+MADHUBANI,Bihar
+JHANJHARPUR,Bihar
+DARBHANGA,Bihar
+ROSERA (SC),Bihar
+SAMASTIPUR,Bihar
+BARH,Bihar
+BALIA,Bihar
+SAHARSA,Bihar
+MADHEPURA,Bihar
+ARARIA (SC),Bihar
+KISHANGANJ,Bihar
+PURNEA,Bihar
+KATIHAR,Bihar
+BANKA,Bihar
+BHAGALPUR,Bihar
+KHAGARIA,Bihar
+MONGHYR,Bihar
+BEGUSARAI,Bihar
+NALANDA,Bihar
+PATNA,Bihar
+ARRAH,Bihar
+BUXAR,Bihar
+SASARAM (SC),Bihar
+BIKRAMGANJ,Bihar
+AURANGABAD,Bihar
+JAHANABAD,Bihar
+NAWADA (SC),Bihar
+GAYA (SC),Bihar

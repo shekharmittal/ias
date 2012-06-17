@@ -1,0 +1,368 @@
+Nagarkurnool,Andhra Pradesh,Dr. Manda Jagannath,INC
+Nalgonda,Andhra Pradesh,Gutha Sukender Reddy,INC
+Warangal,Andhra Pradesh,Rajaiah Siricilla,INC
+Khammam,Andhra Pradesh,Nama Nageswara Rao,TDP
+Srikakulam,Andhra Pradesh,Killi Krupa Rani,INC
+Visakhapatnam,Andhra Pradesh,Daggubati Purandeswari,INC
+Anakapalli,Andhra Pradesh,Sabbam Hari,INC
+Kakinada,Andhra Pradesh,M.M.Pallamraju,INC
+Amalapuram,Andhra Pradesh,G.V.Harsha Kumar,INC
+Rajahmundry,Andhra Pradesh,Aruna Kumar Vundavalli,INC
+Eluru,Andhra Pradesh,Kavuri Sambasiva Rao,INC
+Machilipatnam,Andhra Pradesh,Konakalla Narayana Rao,TDP
+Vijayawada,Andhra Pradesh,Lagadapati Raja Gopal,INC
+Guntur,Andhra Pradesh,Rayapati Sambasiva Rao,INC
+Narasaraopet,Andhra Pradesh,Modugula Venugopala Reddy,TDP
+Bapatla,Andhra Pradesh,Panabaka Lakshmi,INC
+Ongole,Andhra Pradesh,Magunta Srinivasulu Reddy,INC
+Nandyal,Andhra Pradesh,S.P.Y.Reddy,INC
+Kurnool,Andhra Pradesh,Kotla Jaya Surya Prakash Reddy,INC
+Anantapur,Andhra Pradesh,Anantha Venkata Rami Reddy,INC
+Hindupur,Andhra Pradesh,Kristappa Nimmala,TDP
+Nellore,Andhra Pradesh,Mekapati Rajamohan Reddy,INC
+Rajampet,Andhra Pradesh,Annayyagari Sai Prathap,INC
+Chittoor,Andhra Pradesh,Naramalli Sivaprasad,TDP
+Adilabad,Andhra Pradesh,Rathod Ramesh,TDP
+Karimnagar,Andhra Pradesh,Ponnam Prabhakar,INC
+Nizamabad,Andhra Pradesh,Madhu Yaskhi Goud,INC
+Medak,Andhra Pradesh,Vijaya Shanthi .M,TRS
+Hyderabad,Andhra Pradesh,Asaduddin Owaisi,AIMIM
+Sheohar,Bihar,Rama Devi,BJP
+Sitamarhi,Bihar,Arjun Roy,JD(U)
+Madhubani,Bihar,Hukmadeo Narayan Yadav,BJP
+Jhanjharpur,Bihar,Mangani Lal Mandal,JD(U)
+Araria,Bihar,Pradeep Kumar Singh,BJP
+Kishanganj,Bihar,Mohammad Asrarul Haque,INC
+Katihar,Bihar,Nikhil Kumar Choudhary,BJP
+Madhepura,Bihar,Sharad Yadav,JD(U)
+Darbhanga,Bihar,Kirti Azad,BJP
+Muzaffarpur,Bihar,Captain Jai Narayan Prasad Nishad,JD(U)
+Vaishali,Bihar,Raghuvansh Prasad Singh,RJD
+Gopalganj,Bihar,Purnmasi Ram,JD(U)
+Siwan,Bihar,Om Prakash Yadav,IND
+Maharajganj,Bihar,Uma Shanaker Singh,RJD
+Hajipur,Bihar,Ram Sundar Das,JD(U)
+Samastipur,Bihar,Maheshwar Hazari,JD(U)
+Begusarai,Bihar,Dr. Monazir Hassan,JD(U)
+Khagaria,Bihar,Dinesh Chandra Yadav,JD(U)
+Bhagalpur,Bihar,Syed Shahnawaz Hussain,BJP
+Banka,Bihar,Digvijay Singh,IND
+Nalanda,Bihar,Kaushalendra Kumar,JD(U)
+Patna,Bihar,Sahib Shatrughan Sinha,BJP
+Arrah,Bihar,Meena Singh,JD(U)
+Buxar,Bihar,Jagada Nand Singh,RJD
+Sasaram,Bihar,Meira Kumar,INC
+Jahanabad,Bihar,Jagdish Sharma,JD(U)
+Aurangabad,Bihar,Sushil Kumar Singh,JD(U)
+Gaya,Bihar,Hari Manjhi,BJP
+Nawada,Bihar,Bhola Singh,BJP
+Banaskantha,Gujarat,Gadhvi Mukeshkumar Bheiravdanji,INC
+Patan,Gujarat,Jagdish Thakor,INC
+Sabarkantha,Gujarat,Chauhan Mahendrasinh,BJP
+Gandhinagar,Gujarat,L.K.Advani,BJP
+Ahmedabad,Gujarat,East Harin Pathak,BJP
+Surendranagar,Gujarat,Koli Patel Somabhai Gandalal,INC
+Rajkot,Gujarat,Kuvarjibhai Mohanbhai Bavalia,INC
+Porbandar,Gujarat,Radadiya Vitthalbhai Hansrajbhai,INC
+Jamnagar,Gujarat,Ahir Vikrambhai Arjanbhai Madam,INC
+Junagadh,Gujarat,Solanki Dinubhai Boghabhai,BJP
+Amreli,Gujarat,Kachhadia Naranbhai,BJP
+Bhavnagar,Gujarat,Rajendrasinh Ghanshyamsinh Rana (Rajubhai Rana),BJP
+Anand,Gujarat,Solanki Bharatbhai Madhavsinh,INC
+Chhota Udaipur,Gujarat, Rathwa Ramsingbhai Patalbhai,BJP
+Surat,Gujarat,Shrimati Darshana Vikram Jardosh,BJP
+Kurukshetra,Haryana,Naveen Jindal,INC
+Sirsa,Haryana,Ashok Tanwar,INC
+Karnal,Haryana,Arvind Kumar Sharma,INC
+Rohtak,Haryana,Deepender Singh,INC
+Faridabad,Haryana,Avtar Singh Bhadana,INC
+Kangra,Himachal Pradesh,Dr. Rajan Sushant,BJP
+Mandi,Himachal Pradesh,Virbhadra Singh,INC
+Hamirpur,Himachal Pradesh,Anurag Singh Thakur,BJP
+Chikkodi,Karnataka,Katti Ramesh Vishwanath,BJP
+Belgaum,Karnataka,Angadi Suresh Channabasappa,BJP
+Bagalkot,Karnataka,Gaddigoudar P.C.,BJP
+Bijapur,Karnataka,Ramesh Chandappa Jigajinagi,BJP
+Gulbarga,Karnataka,Mallikarjun Kharge,INC
+Raichur,Karnataka,Pakkirappa.S. BJP,152
+Bidar,Karnataka,N.Dharam Singh,INC
+Koppal,Karnataka,Shivaramagouda Shivanagouda,BJP
+Bellary,Karnataka,J. Shantha,BJP
+Shimoga,Karnataka,B.Y. Raghavendra,BJP
+Udupi,Karnataka,Chikmagalur D.V.Sadananda Gowda,BJP
+Hassan,Karnataka,H. D. Devegowda,JD(S)
+Chitradurga,Karnataka,Janardhana Swamy,BJP
+Tumkur,Karnataka,G.S. Basavaraj,BJP
+Mandya,Karnataka,N Cheluvaraya Swamy @Swamygowda,JD(S)
+Mysore,Karnataka,Adagur H Vishwanath,INC
+Chamarajanagar,Karnataka,R.Dhruvanarayana,INC
+Bangalore North,Karnataka, D. B. Chandre Gowda,BJP
+Bangalore South,Karnataka, Ananth Kumar,BJP
+Kolar,Karnataka,K.H.Muniyappa,INC
+Kasaragod,Kerala,P Karunakaran,CPM
+Ponnani,Kerala,E.T. Muhammed Basheer,MUL
+Ernakulam,Kerala,Prof. K V Thomas,INC
+Idukki,Kerala,Adv. P.T Thomas,INC
+Kottayam,Kerala,Jose K.Mani (Karingozheckal),KEC(M)
+Morena,Madhya Pradesh,Narendra Singh Tomar,BJP
+Bhind,Madhya Pradesh,Ashok Argal,BJP
+Gwalior,Madhya Pradesh,Yashodhara Raje Scindia,BJP
+Guna,Madhya Pradesh,Jyotiraditya Madhavrao Scindia,INC
+Sagar,Madhya Pradesh,Bhupendra Singh,BJP
+Damoh,Madhya Pradesh,Shivraj Bhaiya,BJP
+Khajuraho,Madhya Pradesh,Jeetendra Singh Bundela,BJP
+Satna,Madhya Pradesh,Ganesh Singh,BJP
+Rewa,Madhya Pradesh,Deoraj Singh Patel,BSP
+Sidhi,Madhya Pradesh,Govind Prasad Mishra,BJP
+Shahdol,Madhya Pradesh,Rajesh Nandini Singh,INC
+Jabalpur,Madhya Pradesh,Rakesh Singh,BJP
+Mandla,Madhya Pradesh,Basori Singh Masram,INC
+Balaghat,Madhya Pradesh,K. D. Deshmukh,BJP
+Chhindwara,Madhya Pradesh,Kamal Nath,INC
+Hoshangabad,Madhya Pradesh,Uday Pratap Singh,INC
+Vidisha,Madhya Pradesh,Sushma Swaraj,BJP
+Bhopal,Madhya Pradesh,Kailash Joshi,BJP
+Rajgarh,Madhya Pradesh,Narayansingh Amlabe,INC
+Ujjain,Madhya Pradesh,Guddu Premchand,INC
+Dhar,Madhya Pradesh,Gajendra Singh Rajukhedi,INC
+Indore,Madhya Pradesh,Sumitra Mahajan (Tai),BJP
+Khargone,Madhya Pradesh,Makansingh Solanki (Babuji),BJP
+Khandwa,Madhya Pradesh,Arun Subhashchandra Yadav,INC
+Betul,Madhya Pradesh,Jyoti Dhurve,BJP
+Nandurbar,Maharashtra,Gavit Manikrao Hodlya,INC
+Dhule,Maharashtra,Sonawane Pratap Narayanrao,BJP
+Jalgaon,Maharashtra,A.T. Nana Patil,BJP
+Raver,Maharashtra,Haribhau Madhav Jawale,BJP
+Buldhana,Maharashtra,Jadhav Prataprao Ganpatrao,SHS
+Akola,Maharashtra,Dhotre Sanjay Shamrao,BJP
+Amravati,Maharashtra,Adsul Anandrao Vithoba,SHS
+Wardha,Maharashtra,Datta Meghe,INC
+Ramtek,Maharashtra,Wasnik Mukul Balkrishna,INC
+Nagpur,Maharashtra,Muttemwar Vilasrao Baburaoji,INC
+Bhandara-Gondiya,Maharashtra,Patel Praful Manoharbhai,NCP
+Gadchiroli-Chimur,Maharashtra,Kowase Marotrao Sainuji,INC
+Chandrapur,Maharashtra,Ahir Hansaraj Gangaram,BJP
+Yavatmal-Washim,Maharashtra,Bhavana Gawali (Patil),SHS
+Hingoli,Maharashtra,Subhash Bapurao Wankhede,SHS
+Nanded,Maharashtra,Khatgaonkar Patil Bhaskarrao Bapurao,INC
+Parbhani,Maharashtra,Adv. Dudhgaonkar Ganeshrao Nagorao,SHS
+Jalna,Maharashtra,Danve Raosaheb Dadarao,BJP
+Aurangabad,Maharashtra,Chandrakant Khaire,SHS
+Dindori,Maharashtra,Chavan Harishchandra Deoram,BJP
+Nashik,Maharashtra,Sameer Bhujbal,NCP
+Palghar,Maharashtra,Jadhav Baliram Sukur,BVA
+Bhiwandi,Maharashtra,Taware Suresh Kashinath,INC
+Kalyan,Maharashtra,Anand Prakash Paranjape,SHS
+Thane,Maharashtra,Dr.Sanjeev Ganesh Naik,NCP
+Mumbai North,Maharashtra, Sanjay Brijkishorlal Nirupam,INC
+Mumbai North-West,Maharashtra, Ad.Kamat Gurudas Vasant,INC
+Mumbai North-East,Maharashtra, Sanjay Dina Patil,NCP
+Mumbai North-Central,Maharashtra, Dutt Priya Sunil,INC
+Mumbai South-Central,Maharashtra, Eknath M. Gaikwad,INC
+Mumbai South,Maharashtra, Deora Milind Murli,INC
+Raigad,Maharashtra,Anant Geete,SHS
+Maval,Maharashtra,Babar Gajanan Dharmshi,SHS
+Pune,Maharashtra,Kalmadi Suresh,INC
+Baramati,Maharashtra,Supriya Sule,NCP
+Shirur,Maharashtra,Adhalrao Shivaji Dattatray,SHS
+Shirdi,Maharashtra,Wakchaure Bhausaheb Rajaram,SHS
+Beed,Maharashtra,Munde Gopinathrao Pandurang,BJP
+Osmanabad,Maharashtra,Patil Padamsinha Bajirao,NCP
+Latur,Maharashtra,Awale Jaywant Gangaram,INC
+Solapur,Maharashtra,Shinde Sushilkumar Sambhajirao,INC
+Madha,Maharashtra,Pawar Sharadchandra Govindrao,NCP
+Sangli,Maharashtra,Pratik Prakashbapu Patil,INC
+Satara,Maharashtra,Bhonsle Shrimant Chh. Udyanraje Pratapsinhmaharaj,NCP
+Ratnagiri-Sindhudurg,Maharashtra,Dr.Nilesh Narayan Rane,INC
+Kolhapur,Maharashtra,Sadashivrao Dadoba Mandlik,IND
+Hatkanangle,Maharashtra,Shetti Raju Alias Devappa Anna,SWP
+Sundargarh,Orissa,Hemanand Biswal,INC
+Sambalpur,Orissa,Amarnath Pradhan,INC
+Keonjhar,Orissa,Yashbant Narayan Singh Laguri,BJD
+Mayurbhanj,Orissa,Laxman Tudu,BJD
+Balasore,Orissa,Srikant Kumar Jena,INC
+Bhadrak,Orissa,Arjun Charan Sethi,BJD
+Jajpur,Orissa,Mohan Jena,BJD
+Dhenkanal,Orissa,Tathagata Satpathy,BJD
+Bolangir,Orissa,Kalikesh Narayan Singh Deo,BJD
+Kalahandi,Orissa,Bhakta Charan Das,INC
+Cuttack,Orissa,Bhartruhari Mahtab,BJD
+Kendrapara,Orissa,Baijayant Panda,BJD
+Jagatsinghpur,Orissa,Bibhu Prasad Tarai,CPI
+Puri,Orissa,Pinaki Misra,BJD
+Bhubaneswar,Orissa,Prasanna Kumar Patasani,BJD
+Aska,Orissa,Nityananda Pradhan,BJD
+Berhampur,Orissa,Sidhant Mohapatra,BJD
+Koraput,Orissa,Jayaram Pangi,BJD
+Gurdaspur,Punjab,Partap Singh Bajwa,INC
+Amritsar,Punjab,Navjot Singh Sidhu,BJP
+Hoshiarpur,Punjab,Santosh Chowdhary,INC
+Ludhiana,Punjab,Manish Tewari,INC
+Faridkot,Punjab,Paramjit Kaur Gulshan,SAD
+Sangrur,Punjab,Vijay Inder Singla INC,310
+Patiala,Punjab,Preneet Kaur,INC
+Ganganagar,Rajasthan,Bharat Ram Meghwal,INC
+Bikaner,Rajasthan,Arjun Ram Meghwal,BJP
+Churu,Rajasthan,Ram Singh Kaswan,BJP
+Jhunjhunu,Rajasthan,Sheesh Ram Ola,INC
+Sikar,Rajasthan,Mahadev Singh,INC
+Jaipur,Rajasthan,Rural Lal Chand Kataria,INC
+Alwar,Rajasthan,Jitendra Singh,INC
+Bharatpur,Rajasthan,Ratan Singh,INC
+Dausa,Rajasthan,Kirodi Lal,IND
+Ajmer,Rajasthan,Sachin Pilot,INC
+Nagaur,Rajasthan,Dr. Jyoti Mirdha,INC
+Pali,Rajasthan,Badri Ram Jakhar,INC
+Jodhpur,Rajasthan,Chandresh Kumari,INC
+Barmer,Rajasthan,Harish Choudhary,INC
+Jalore,Rajasthan,Devji Patel,BJP
+Udaipur,Rajasthan,Raghuvir Singh Meena,INC
+Banswara,Rajasthan,Tarachand Bhagora,INC
+Chittorgarh,Rajasthan,(Dr.)Girija Vyas,INC
+Bhilwara,Rajasthan,Dr. C. P. Joshi,INC
+Kota,Rajasthan,Ijyaraj Singh,INC
+Sriperumbudur,Tamil Nadu,Baalu T R,DMK
+Arakkonam,Tamil Nadu,Jagathrakshakan,DMK
+Vellore,Tamil Nadu,Abdul Rahman,DMK
+Krishnagiri,Tamil Nadu,Sugavanam. E.G.,DMK
+Dharmapuri,Tamil Nadu,Thamaraiselvan. R,DMK
+Salem,Tamil Nadu,Semmalai S,ADMK
+Nilgiris,Tamil Nadu,Raja A,DMK
+Coimbatore,Tamil Nadu,Natarajan.P.R.,CPM
+Pollachi,Tamil Nadu,Sugumar.K,ADMK
+Dindigul,Tamil Nadu,Chitthan N S V,INC
+Karur,Tamil Nadu,Thambidurai.M,ADMK
+Tiruchirappalli,Tamil Nadu,Kumar.P,ADMK
+Perambalur,Tamil Nadu,Napoleon,D.,DMK
+Cuddalore,Tamil Nadu,Alagiri S,INC
+Chidambaram,Tamil Nadu,Thirumaavalavan, Thol,VCK
+Nagapattinam,Tamil Nadu,Vijayan A K S,DMK
+Thanjavur,Tamil Nadu,Palanimanickam.S.S,DMK
+Sivaganga,Tamil Nadu,Chidambaram  P,INC
+Madurai,Tamil Nadu,Alagiri M.K,DMK
+Ramanathapuram,Tamil Nadu,Sivakumar @ J.K. Ritheesh. K,DMK
+Tenkasi,Tamil Nadu,Lingam P,CPI
+Tirunelveli,Tamil Nadu,Ramasubbu S,INC
+Saharanpur,Uttar Pradesh,Jagdish Singh Rana,BSP
+Kairana,Uttar Pradesh,Tabassum Begum,BSP
+Muzaffarnagar,Uttar Pradesh,Kadir Rana,BSP
+Bijnor,Uttar Pradesh,Sanjay Singh Chauhan,RLD
+Moradabad,Uttar Pradesh,Mohammed Azharuddin,INC
+Rampur,Uttar Pradesh,Jaya Prada Nahata,SP
+Sambhal,Uttar Pradesh,Dr. Shafiqur Rahman Barq,BSP
+Amroha,Uttar Pradesh,Devendra Nagpal,RLD
+Meerut,Uttar Pradesh,Rajendra Agarwal,BJP
+Baghpat,Uttar Pradesh,Ajit Singh,RLD
+Bulandshahr,Uttar Pradesh,Kamlesh,SP
+Aligarh,Uttar Pradesh,Raj Kumari Chauhan,BSP
+Hathras,Uttar Pradesh,Sarika Singh,RLD
+Mathura,Uttar Pradesh,Jayant Chaudhary,RLD
+Agra,Uttar Pradesh,Dr. Ramshankar,BJP
+Fatehpur,Uttar Pradesh,Sikri Seema Upadhyay,BSP
+Firozabad,Uttar Pradesh,Akhilesh Yadav,SP
+Mainpuri,Uttar Pradesh,Mulayam Singh Yadav,SP
+Etah,Uttar Pradesh,Kalyan Singh R O Madholi,IND
+Aonla,Uttar Pradesh,Menka Gandhi,BJP
+Bareilly,Uttar Pradesh,Praveen Singh Aron,INC
+Pilibhit,Uttar Pradesh,Feroze Varun Gandhi,BJP
+Shahjahanpur,Uttar Pradesh,Mithlesh SP,405
+Kheri,Uttar Pradesh,Zafar Ali Naqvi,INC
+Sitapur,Uttar Pradesh,Kaisar Jahan,BSP
+Hardoi,Uttar Pradesh,Usha Verma,SP
+Misrikh,Uttar Pradesh,Ashok Kumar Rawat,BSP
+Unnao,Uttar Pradesh,Annutandon,INC
+Mohanlalganj,Uttar Pradesh,Sushila Saroj,SP
+Lucknow,Uttar Pradesh,Lal Ji Tandon,BJP
+Rae Bareli,Uttar Pradesh, Sonia Gandhi,INC
+Amethi,Uttar Pradesh,Rahul Gandhi,INC
+Sultanpur,Uttar Pradesh,Dr. Sanjay Singh,INC
+Pratapgarh,Uttar Pradesh,Rajkumari Ratna Singh,INC
+Farrukhabad,Uttar Pradesh,Salman Khursheed,INC
+Etawah,Uttar Pradesh,Premdas,SP
+Kannauj,Uttar Pradesh,Akhilesh Yadav,SP
+Kanpur,Uttar Pradesh,Sri Prakash Jaiswal,INC
+Akbarpur,Uttar Pradesh,Rajaram Pal,INC
+Jalaun,Uttar Pradesh,Ghansyam Anuragi,SP
+Jhansi,Uttar Pradesh,Pradeep Kumar Jain (Aditya),INC
+Hamirpur,Uttar Pradesh,Vijay Bahadur Singh,BSP
+Banda,Uttar Pradesh,R. K. Singh Patel,SP
+Phulpur,Uttar Pradesh,Kapil Muni Karwariya,BSP
+Allahabad,Uttar Pradesh,Kunwar Rewati Raman Singh Alias Mani Ji,SP
+Faizabad,Uttar Pradesh,Nirmal Khatri,INC
+Bahraich,Uttar Pradesh,Kamal Kishor,INC
+Kaiserganj,Uttar Pradesh,Brijbhushan Sharan Singh,SP
+Gonda,Uttar Pradesh,Beni Prasad Verma,INC
+Basti,Uttar Pradesh,Arvind Kumar Chaudhary,BSP
+Maharajganj,Uttar Pradesh,Harsh Vardhan,INC
+Gorakhpur,Uttar Pradesh,Adityanath,BJP
+Deoria,Uttar Pradesh,Gorakh Prasad Jaiswal,BSP
+Bansgaon,Uttar Pradesh,Kamlesh Paswan,BJP
+Lalganj,Uttar Pradesh,Dr. Baliram,BSP
+Azamgarh,Uttar Pradesh,Ramakant Yadav,BJP
+Ghosi,Uttar Pradesh,Dara Singh Chauhan,BSP
+Salempur,Uttar Pradesh,Ramashankar Rajbhar,BSP
+Ballia,Uttar Pradesh,Neeraj Shekhar,SP
+Jaunpur,Uttar Pradesh,Dhananjay Singh,BSP
+Machhlishahr,Uttar Pradesh,Tufani Saroj,SP
+Ghazipur,Uttar Pradesh,Radhey Mohan Singh,SP
+Chandauli,Uttar Pradesh,Ramkishun,SP
+Varanasi,Uttar Pradesh,Dr. Murli Manohar Joshi,BJP
+Mirzapur,Uttar Pradesh,Bal Kumar Patel,SP
+Robertsganj,Uttar Pradesh,Pakauri Lal,SP
+Cooch Behar,West Bengal, Nripendra Nath Roy,AIFB
+Alipurduars,West Bengal,Manohar Tirkey,RSP
+Jalpaiguri,West Bengal,Mahendra Kumar Roy,CPM
+Darjeeling,West Bengal,Jaswant Singh,BJP
+Raiganj,West Bengal,Deepa Dasmunsi,INC
+Balurghat,West Bengal,Prasanta Kumar Majumdar,RSP
+Jangipur,West Bengal,Pranab Mukherjee,INC
+Murshidabad,West Bengal,Abdul Mannan Hossain,INC
+Barrackpore,West Bengal,Dinesh Trivedi,AITC
+Dum Dum,West Bengal, Sougata Ray,AITC
+Barasat,West Bengal,Kakali Ghosh Dastidar,AITC
+Basirhat,West Bengal,Sk. Nurul Islam,AITC
+Joynagar,West Bengal,Dr. Tarun Mondal,IND
+Mathurapur,West Bengal,Choudhury Mohan Jatua,AITC
+Diamond Harbour,West Bengal, Somendra Nath Mitra,AITC
+Jadavpur,West Bengal,Kabir Suman,AITC
+Howrah,West Bengal,Ambica Banerjee,AITC
+Uluberia,West Bengal,Sultan Ahmed,AITC
+Hooghly,West Bengal,Dr. Ratna De (Nag),AITC
+Arambagh,West Bengal,Malik Sakti Mohan,CPM
+Tamluk,West Bengal,Adhikari Suvendu,AITC
+Jhargram,West Bengal,Pulin Bihari Baske,CPM
+Purulia,West Bengal,Narahari Mahato,AIFB
+Bankura,West Bengal,Acharia Basudeb,CPM
+Asansol,West Bengal,Bansa Gopal Chowdhury,CPM
+Bolpur,West Bengal,Doctor Ram Chandra Dome,CPM
+Birbhum,West Bengal,Satabdi Roy,AITC
+Raigarh,Chattisgarh,Vishnu Deo Sai,BJP
+Bilaspur,Chattisgarh,Dilip Singh Judev,BJP
+Rajnandgaon,Chattisgarh,Madhusudan Yadav,BJP
+Durg,Chattisgarh,Saroj Pandey,BJP
+Raipur,Chattisgarh,Ramesh Bais,BJP
+Mahasamund,Chattisgarh,Chandulal Sahu (Chandu Bhaiya),BJP
+Bastar,Chattisgarh,Baliram Kashyap,BJP
+Kanker,Chattisgarh,Sohan Potai,BJP
+Rajmahal,Jharkhand,Devidhan Besra,BJP
+Dumka,Jharkhand,Shibu Soren,JMM
+Godda,Jharkhand,Nishikant Dubey,BJP
+Chatra,Jharkhand,Inder Singh Namdhari,IND
+Kodarma,Jharkhand,Babulal Marandi,JVM
+Giridih,Jharkhand,Ravindra Kumar Pandey,BJP
+Dhanbad,Jharkhand,Pashupati Nath Singh,BJP
+Ranchi,Jharkhand,Subodh Kant Sahay,INC
+Jamshedpur,Jharkhand,Arjun Munda,BJP
+Singhbhum,Jharkhand,Madhu Kora,IND
+Khunti,Jharkhand,Karia Munda,BJP
+Lohardaga,Jharkhand,Sudarshan Bhagat,BJP
+Hazaribagh,Jharkhand,Yashwant Sinha,BJP
+Tehri Garhwal,Uttaranchal, Vijay Bahuguna,INC
+Garhwal,Uttaranchal,Satpal Maharaj,INC
+Almora,Uttaranchal,Pradeep Tamta,INC
+Hardwar,Uttaranchal,Harish Rawat,INC
+Chandni Chowk,Delhi, Kapil Sibal,INC
+North-East Delhi,Delhi, Jai Prakash Agarwal,INC
+East Delhi,Delhi, Sandeep Dikshit,INC
+West Delhi,Delhi, Mahabal Mishra,INC
+South Delhi,Delhi, Ramesh Kumar,INC

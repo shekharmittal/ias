@@ -1,7 +1,7 @@
-New Delhi
-South Delhi
-Outer Delhi
-East Delhi
-Chandni Chowk
-Delhi Sadar
-Karol Bagh (SC)
+NEW DELHI,Delhi
+SOUTH DELHI,Delhi
+OUTER DELHI,Delhi
+EAST DELHI,Delhi
+CHANDNI CHOWK,Delhi
+DELHI SADAR,Delhi
+KAROL BAGH (SC),Delhi

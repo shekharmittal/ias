@@ -1,5 +1,5 @@
-Tehri Garhwal
-Garhwal
-Almora
-Nainital
-Hardwar (SC)
+TEHRI GARHWAL,Uttaranchal
+GARHWAL,Uttaranchal
+ALMORA,Uttaranchal
+NAINITAL,Uttaranchal
+HARDWAR (SC),Uttaranchal

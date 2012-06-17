@@ -1,4 +1,4 @@
-Simla (SC)
-Mandi
-Kangra
-Hamirpur
+SIMLA (SC),Himachal Pradesh
+MANDI,Himachal Pradesh
+KANGRA,Himachal Pradesh
+HAMIRPUR,Himachal Pradesh

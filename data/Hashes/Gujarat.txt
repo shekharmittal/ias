@@ -1,26 +1,26 @@
-Kutch
-Surendranagar
-Jamnagar
-Rajkot
-Porbandar
-Junagadh
-Amreli
-Bhavnagar
-Dhandhuka (SC)
-Ahmedabad
-Gandhinagar
-Mehsana
-Patan (SC)
-Banaskantha
-Sabarkantha
-Kapadvanj
-Dohad (ST)
-Godhra
-Kaira
-Anand
-Chhota Udaipur (ST)
-Baroda
-Broach
-Surat
-Mandvi (ST)
-Bulsar (ST)
+KUTCH,Gujarat
+SURENDRANAGAR,Gujarat
+JAMNAGAR,Gujarat
+RAJKOT,Gujarat
+PORBANDAR,Gujarat
+JUNAGADH,Gujarat
+AMRELI,Gujarat
+BHAVNAGAR,Gujarat
+DHANDHUKA (SC),Gujarat
+AHMEDABAD,Gujarat
+GANDHINAGAR,Gujarat
+MEHSANA,Gujarat
+PATAN (SC),Gujarat
+BANASKANTHA,Gujarat
+SABARKANTHA,Gujarat
+KAPADVANJ,Gujarat
+DOHAD (ST),Gujarat
+GODHRA,Gujarat
+KAIRA,Gujarat
+ANAND,Gujarat
+CHHOTA UDAIPUR (ST),Gujarat
+BARODA,Gujarat
+BROACH,Gujarat
+SURAT,Gujarat
+MANDVI (ST),Gujarat
+BULSAR (ST),Gujarat

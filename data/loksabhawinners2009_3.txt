@@ -1,0 +1,501 @@
+Warangal Rajaiah Siricilla INC 4
+Mahabubabad P. Balram INC 5
+Khammam Nama Nageswara Rao TDP 6
+Aruku Kishore Chandra Suryanarayana Deo Vyricherla INC 7
+Srikakulam Killi Krupa Rani INC 8
+Vizianagaram Jhansi Lakshmi Botcha INC 9
+Visakhapatnam Daggubati Purandeswari INC 10
+Anakapalli Sabbam Hari INC 11
+Kakinada M.M.Pallamraju INC 12
+Amalapuram G.V.Harsha Kumar INC 13
+Rajahmundry Aruna Kumar Vundavalli INC 14
+Narsapuram Bapiraju Kanumuru INC 15
+Eluru Kavuri Sambasiva Rao INC 16
+Machilipatnam Konakalla Narayana Rao TDP 17
+Vijayawada Lagadapati Raja Gopal INC 18
+Guntur Rayapati Sambasiva Rao INC 19
+Narasaraopet Modugula Venugopala Reddy TDP 20
+Bapatla Panabaka Lakshmi INC 21
+Ongole Magunta Srinivasulu Reddy INC 22
+Nandyal S.P.Y.Reddy INC 23
+Kurnool Kotla Jaya Surya Prakash Reddy INC 24
+Anantapur Anantha Venkata Rami Reddy INC 25
+Hindupur Kristappa Nimmala TDP 26
+Kadapa Y.S. Jagan Mohan Reddy INC 27
+Nellore Mekapati Rajamohan Reddy INC 28
+Tirupati Chinta Mohan INC 29
+Rajampet Annayyagari Sai Prathap INC 30
+Chittoor Naramalli Sivaprasad TDP 31
+Adilabad Rathod Ramesh TDP 32
+Peddapalle Dr.G.Vivekanand INC 33
+Karimnagar Ponnam Prabhakar INC 34
+Nizamabad Madhu Yaskhi Goud INC 35
+Zahirabad Suresh Kumar Shetkar INC 36
+Medak Vijaya Shanthi .M TRS 37
+Malkajgiri Sarvey Sathyanarayana INC 38
+Secundrabad Anjan Kumar Yadav M INC 39
+Hyderabad Asaduddin Owaisi AIMIM 40
+Chelvella Jaipal Reddy Sudini INC 41
+Mahbubnagar K. Chandrasekhar Rao TRS 42
+Valmiki Nagar Baidyanath Prasad Mahto JD(U) 59
+Paschim Champaran Dr. Sanjay Jaiswal BJP 60
+Purvi Champaran Radha Mohan Singh BJP 61
+Sheohar Rama Devi BJP 62
+Sitamarhi Arjun Roy JD(U) 63
+Madhubani Hukmadeo Narayan Yadav BJP 64
+Jhanjharpur Mangani Lal Mandal JD(U) 65
+Supaul Vishwa Mohan Kumar JD(U) 66
+Araria Pradeep Kumar Singh BJP 67
+Kishanganj Mohammad Asrarul Haque INC 68
+Katihar Nikhil Kumar Choudhary BJP 69
+Purnia Uday Singh Alias Pappu Singh BJP 70
+Madhepura Sharad Yadav JD(U) 71
+Darbhanga Kirti Azad BJP 72
+Muzaffarpur Captain Jai Narayan Prasad Nishad JD(U) 73
+Vaishali Raghuvansh Prasad Singh RJD 74
+Gopalganj Purnmasi Ram JD(U) 75
+Siwan Om Prakash Yadav IND 76
+Maharajganj Uma Shanaker Singh RJD 77
+Saran Lalu Prasad RJD 78
+Hajipur Ram Sundar Das JD(U) 79
+Ujiarpur Aswamedh Devi JD(U) 80
+Samastipur Maheshwar Hazari JD(U) 81
+Begusarai Dr. Monazir Hassan JD(U) 82
+Khagaria Dinesh Chandra Yadav JD(U) 83
+Bhagalpur Syed Shahnawaz Hussain BJP 84
+Banka Digvijay Singh IND 85
+Munger Rajiv Ranjan Singh Alias Lalan Singh JD(U) 86
+Nalanda Kaushalendra Kumar JD(U) 87
+Patna Sahib Shatrughan Sinha BJP 88
+Pataliputra Ranjan Prasad Yadav JD(U) 89
+Arrah Meena Singh JD(U) 90
+Buxar Jagada Nand Singh RJD 91
+Sasaram Meira Kumar INC 92
+Karakat Mahabali Singh JD(U) 93
+Jahanabad Jagdish Sharma JD(U) 94
+Aurangabad Sushil Kumar Singh JD(U) 95
+Gaya Hari Manjhi BJP 96
+Nawada Bhola Singh BJP 97
+Jamui Bhudeo Choudhary JD(U) 98
+Kachchh Jat Poonamben Veljibhai BJP 101
+Banaskantha Gadhvi Mukeshkumar Bheiravdanji INC 102
+Patan Jagdish Thakor INC 103
+Mahesana Patel Jayshreeben Kanubhai BJP 104
+Sabarkantha Chauhan Mahendrasinh BJP 105
+Gandhinagar L.K.Advani BJP 106
+Ahmedabad East Harin Pathak BJP 107
+Ahmedabad West Dr. Solanki Kiritbhai Premajibhai BJP 108
+Surendranagar Koli Patel Somabhai Gandalal INC 109
+Rajkot Kuvarjibhai Mohanbhai Bavalia INC 110
+Porbandar Radadiya Vitthalbhai Hansrajbhai INC 111
+Jamnagar Ahir Vikrambhai Arjanbhai Madam INC 112
+Junagadh Solanki Dinubhai Boghabhai BJP 113
+Amreli Kachhadia Naranbhai BJP 114
+Bhavnagar Rajendrasinh Ghanshyamsinh Rana (Rajubhai Rana) BJP 115
+Anand Solanki Bharatbhai Madhavsinh INC 116
+Kheda Dinsha Patel INC 117
+Panchmahal Chauhan Prabhatsinh Pratapsinh BJP 118
+Dahod Dr. Prabha Kishor Taviad INC 119
+Vadodara Balkrishna Khanderao Shukla (Balu Shukla) BJP 120
+Chhota Udaipur Rathwa Ramsingbhai Patalbhai BJP 121
+Bharuch Mansukhbhai Dhanjibhai Vasava BJP 122
+Bardoli Chaudhari Tusharbhai Amrasinhbhai INC 123
+Surat Shrimati Darshana Vikram Jardosh BJP 124
+Navsari C. R. Patil BJP 125
+Valsad Kishanbhai Vestabhai Patel INC 126
+Ambala Selja INC 127 
+Kurukshetra Naveen Jindal INC 128
+Sirsa Ashok Tanwar INC 129
+Hisar Bhajan Lal S/O Kheraj HJCBL 130
+Karnal Arvind Kumar Sharma INC 131
+Sonipat Jitender Singh INC 132
+Rohtak Deepender Singh INC 133
+Bhiwani-Mahendragarh Shruti Choudhry INC 134
+Gurgaon Inderjit Singh INC 135
+Faridabad Avtar Singh Bhadana INC 136
+Kangra Dr. Rajan Sushant BJP 137
+Mandi Virbhadra Singh INC 138
+Hamirpur Anurag Singh Thakur BJP 139
+Shimla Virender Kashyap BJP 140
+Chikkodi Katti Ramesh Vishwanath BJP 147
+Belgaum Angadi Suresh Channabasappa BJP 148
+Bagalkot Gaddigoudar P.C. BJP 149
+Bijapur Ramesh Chandappa Jigajinagi BJP 150
+Gulbarga Mallikarjun Kharge INC 151
+Raichur Pakkirappa.S. BJP 152 5
+Bidar N.Dharam Singh INC 153
+Koppal Shivaramagouda Shivanagouda BJP 154
+Bellary J. Shantha BJP 155
+Haveri Udasi Shivkumar Chanabasappa BJP 156
+Dharwad Pralhad Joshi BJP 157
+Uttara Kannada Anantkumar Hegde BJP 158
+Davanagere G.M. Siddeswara BJP 159
+Shimoga B.Y. Raghavendra BJP 160
+Udupi Chikmagalur D.V.Sadananda Gowda BJP 161
+Hassan H. D. Devegowda JD(S) 162
+Dakshina Kannada Nalin Kumar Kateel BJP 163
+Chitradurga Janardhana Swamy BJP 164
+Tumkur G.S. Basavaraj BJP 165
+Mandya N Cheluvaraya Swamy @Swamygowda JD(S) 166
+Mysore Adagur H Vishwanath INC 167
+Chamarajanagar R.Dhruvanarayana INC 168
+Bangalore Rural H.D.Kumaraswamy JD(S) 169
+Bangalore North D. B. Chandre Gowda BJP 170
+Bangalore Central P. C. Mohan BJP 171
+Bangalore South Ananth Kumar BJP 172
+Chikkballapur M.Veerappa Moily INC 173
+Kolar K.H.Muniyappa INC 174
+Kasaragod P Karunakaran CPM 175
+Kannur K. Sudhakaran INC 176
+Vadakara Mullappally Ramachandran INC 177
+Wayanad M.I. Shanavas INC 178
+Kozhikode M.K. Raghavan INC 179
+Malappuram E. Ahamed MUL 180
+Ponnani E.T. Muhammed Basheer MUL 181
+Palakkad M.B. Rajesh CPM 182
+Alathur P.K Biju CPM 183
+Thrissur P C Chacko INC 184
+Chalakudy K.P. Dhanapalan INC 185
+Ernakulam Prof. K V Thomas INC 186
+Idukki Adv. P.T Thomas INC 187
+Kottayam Jose K.Mani (Karingozheckal) KEC(M) 188
+Alappuzha K.C Venugopal INC 189
+Mavelikkara Kodikkunnil Suresh INC 190
+Pathanamthitta Anto Antony Punnathaniyil INC 191
+Kollam N.Peethambarakurup INC 192
+Attingal Adv. A Sampath CPM 193
+Thiruvananthapuram Shashi Tharoor INC 194
+Morena Narendra Singh Tomar BJP 195
+Bhind Ashok Argal BJP 196
+Gwalior Yashodhara Raje Scindia BJP 197
+Guna Jyotiraditya Madhavrao Scindia INC 198
+Sagar Bhupendra Singh BJP 199
+Tikamgarh Virendra Kumar BJP 200
+Damoh Shivraj Bhaiya BJP 201
+Khajuraho Jeetendra Singh Bundela BJP 202
+Satna Ganesh Singh BJP 203
+Rewa Deoraj Singh Patel BSP 204
+Sidhi Govind Prasad Mishra BJP 205
+Shahdol Rajesh Nandini Singh INC 206
+Jabalpur Rakesh Singh BJP 207
+Mandla Basori Singh Masram INC 208
+Balaghat K. D. Deshmukh BJP 209
+Chhindwara Kamal Nath INC 210
+Hoshangabad Uday Pratap Singh INC 211
+Vidisha Sushma Swaraj BJP 212
+Bhopal Kailash Joshi BJP 213
+Rajgarh Narayansingh Amlabe INC 214
+Dewas Sajjan Singh Verma INC 215
+Ujjain Guddu Premchand INC 216
+Mandsour Meenakshi Natrajan INC 217
+Ratlam Kantilal Bhuria INC 218
+Dhar Gajendra Singh Rajukhedi INC 219
+Indore Sumitra Mahajan (Tai) BJP 220
+Khargone Makansingh Solanki (Babuji) BJP 221
+Khandwa Arun Subhashchandra Yadav INC 222
+Betul Jyoti Dhurve BJP 223
+Nandurbar Gavit Manikrao Hodlya INC 224
+Dhule Sonawane Pratap Narayanrao BJP 225
+Jalgaon A.T. Nana Patil BJP 226
+Raver Haribhau Madhav Jawale BJP 227
+Buldhana Jadhav Prataprao Ganpatrao SHS 228
+Akola Dhotre Sanjay Shamrao BJP 229
+Amravati Adsul Anandrao Vithoba SHS 230
+Wardha Datta Meghe INC 231
+Ramtek Wasnik Mukul Balkrishna INC 232
+Nagpur Muttemwar Vilasrao Baburaoji INC 233
+Bhandara-Gondiya Patel Praful Manoharbhai NCP 234
+Gadchiroli-Chimur Kowase Marotrao Sainuji INC 235
+Chandrapur Ahir Hansaraj Gangaram BJP 236
+Yavatmal-Washim Bhavana Gawali (Patil) SHS 237
+Hingoli Subhash Bapurao Wankhede SHS 238
+Nanded Khatgaonkar Patil Bhaskarrao Bapurao INC 239
+Parbhani Adv. Dudhgaonkar Ganeshrao Nagorao SHS 240
+Jalna Danve Raosaheb Dadarao BJP 241
+Aurangabad Chandrakant Khaire SHS 242
+Dindori Chavan Harishchandra Deoram BJP 243
+Nashik Sameer Bhujbal NCP 244
+Palghar Jadhav Baliram Sukur BVA 245
+Bhiwandi Taware Suresh Kashinath INC 246
+Kalyan Anand Prakash Paranjape SHS 247
+Thane Dr.Sanjeev Ganesh Naik NCP 248
+Mumbai North Sanjay Brijkishorlal Nirupam INC 249
+Mumbai North-West Ad.Kamat Gurudas Vasant INC 250
+Mumbai North-East Sanjay Dina Patil NCP 251
+Mumbai North-Central Dutt Priya Sunil INC 252
+Mumbai South-Central Eknath M. Gaikwad INC 253
+Mumbai South Deora Milind Murli INC 254
+Raigad Anant Geete SHS 255
+Maval Babar Gajanan Dharmshi SHS 256
+Pune Kalmadi Suresh INC 257
+Baramati Supriya Sule NCP 258
+Shirur Adhalrao Shivaji Dattatray SHS 259
+Ahmadnagar Gandhi Dilipkumar Mansukhlal BJP 260
+Shirdi Wakchaure Bhausaheb Rajaram SHS 261
+Beed Munde Gopinathrao Pandurang BJP 262
+Osmanabad Patil Padamsinha Bajirao NCP 263
+Latur Awale Jaywant Gangaram INC 264
+Solapur Shinde Sushilkumar Sambhajirao INC 265
+Madha Pawar Sharadchandra Govindrao NCP 266
+Sangli Pratik Prakashbapu Patil INC 267
+Satara Bhonsle Shrimant Chh. Udyanraje Pratapsinhmaharaj NCP 268
+Ratnagiri-Sindhudurg Dr.Nilesh Narayan Rane INC 269
+Kolhapur Sadashivrao Dadoba Mandlik IND 270
+Hatkanangle Shetti Raju Alias Devappa Anna SWP 271
+Bargarh Sanjay Bhoi INC 278
+Sundargarh Hemanand Biswal INC 279
+Sambalpur Amarnath Pradhan INC 280
+Keonjhar Yashbant Narayan Singh Laguri BJD 281
+Mayurbhanj Laxman Tudu BJD 282
+Balasore Srikant Kumar Jena INC 283
+Bhadrak Arjun Charan Sethi BJD 284
+Jajpur Mohan Jena BJD 285
+Dhenkanal Tathagata Satpathy BJD 286
+Bolangir Kalikesh Narayan Singh Deo BJD 287
+Kalahandi Bhakta Charan Das INC 288
+Nabarangpur Pradeep Kumar Majhi INC 289
+Kandhamal Rudramadhab Ray BJD 290
+Cuttack Bhartruhari Mahtab BJD 291
+Kendrapara Baijayant Panda BJD 292
+Jagatsinghpur Bibhu Prasad Tarai CPI 293
+Puri Pinaki Misra BJD 294
+Bhubaneswar Prasanna Kumar Patasani BJD 295
+Aska Nityananda Pradhan BJD 296
+Berhampur Sidhant Mohapatra BJD 297
+Koraput Jayaram Pangi BJD 298
+Gurdaspur Partap Singh Bajwa INC 299
+Amritsar Navjot Singh Sidhu BJP 300
+Khadoor Sahib Dr. Rattan Singh Ajnala SAD 301
+Jalandhar Mohinder Singh Kaypee INC 302
+Hoshiarpur Santosh Chowdhary INC 303
+Anandpur Sahib Ravneet Singh INC 304
+Ludhiana Manish Tewari INC 305
+Fatehgarh Sahib Sukhdev Singh INC 306
+Faridkot Paramjit Kaur Gulshan SAD 307
+Ferozpur Sher Singh Ghubaya SAD 308
+Bathinda Harsimrat Kaur Badal SAD 309
+Sangrur Vijay Inder Singla INC 310 10
+Patiala Preneet Kaur INC 311
+Ganganagar Bharat Ram Meghwal INC 312
+Bikaner Arjun Ram Meghwal BJP 313
+Churu Ram Singh Kaswan BJP 314
+Jhunjhunu Sheesh Ram Ola INC 315
+Sikar Mahadev Singh INC 316
+Jaipur Rural Lal Chand Kataria INC 317
+Jaipur Mahesh Joshi INC 318
+Alwar Jitendra Singh INC 319
+Bharatpur Ratan Singh INC 320
+Karauli-Dholpur Khiladi Lal Bairwa INC 321
+Dausa Kirodi Lal IND 322
+Tonk-Sawai Madhopur Namo Narain INC 323
+Ajmer Sachin Pilot INC 324
+Nagaur Dr. Jyoti Mirdha INC 325
+Pali Badri Ram Jakhar INC 326
+Jodhpur Chandresh Kumari INC 327
+Barmer Harish Choudhary INC 328
+Jalore Devji Patel BJP 329
+Udaipur Raghuvir Singh Meena INC 330
+Banswara Tarachand Bhagora INC 331
+Chittorgarh (Dr.)Girija Vyas INC 332
+Rajsamand Gopal Singh INC 333
+Bhilwara Dr. C. P. Joshi INC 334
+Kota Ijyaraj Singh INC 335
+Jhalawar-Baran Dushyant Singh BJP 336
+Thiruvallur Venugopal.P ADMK 338
+Chennai North Elangovan T.K.S DMK 339
+Chennai South Rajendran C ADMK 340
+Chennai Central Dayanidhi Maran DMK 341
+Sriperumbudur Baalu T R DMK 342
+Kancheepuram Viswanathan.P INC 343
+Arakkonam Jagathrakshakan DMK 344
+Vellore Abdul Rahman DMK 345
+Krishnagiri Sugavanam. E.G. DMK 346
+Dharmapuri Thamaraiselvan. R DMK 347
+Tiruvannamalai Venugopal.D DMK 348
+Arani Krishnasswamy M INC 349
+Viluppuram Anandan M ADMK 350
+Kallakurichi Sankar Adhi DMK 351
+Salem Semmalai S ADMK 352
+Namakkal Gandhiselvan.S DMK 353
+Erode Ganeshamurthi.A. MDMK 354
+Tiruppur Sivasami C ADMK 355
+Nilgiris Raja A DMK 356
+Coimbatore Natarajan.P.R. CPM 357
+Pollachi Sugumar.K ADMK 358
+Dindigul Chitthan N S V INC 359
+Karur Thambidurai.M ADMK 360
+Tiruchirappalli Kumar.P ADMK 361
+Perambalur Napoleon,D. DMK 362
+Cuddalore Alagiri S INC 363
+Chidambaram Thirumaavalavan, Thol VCK 364
+Mayiladuthurai Maniyan O.S. ADMK 365
+Nagapattinam Vijayan A K S DMK 366
+Thanjavur Palanimanickam.S.S DMK 367
+Sivaganga Chidambaram  P INC 368
+Madurai Alagiri M.K DMK 369
+Theni Aaron Rashid.J.M INC 370
+Virudhunagar Manicka Tagore INC 371
+Ramanathapuram Sivakumar @ J.K. Ritheesh. K DMK 372
+Thoothukkudi Jeyadurai.S.R DMK 373
+Tenkasi Lingam P CPI 374
+Tirunelveli Ramasubbu S INC 375
+Kanniyakumari Helen Davidson J DMK 376
+Saharanpur Jagdish Singh Rana BSP 379
+Kairana Tabassum Begum BSP 380
+Muzaffarnagar Kadir Rana BSP 381
+Bijnor Sanjay Singh Chauhan RLD 382
+Nagina Yashvir Singh SP 383
+Moradabad Mohammed Azharuddin INC 384
+Rampur Jaya Prada Nahata SP 385
+Sambhal Dr. Shafiqur Rahman Barq BSP 386
+Amroha Devendra Nagpal RLD 387
+Meerut Rajendra Agarwal BJP 388
+Baghpat Ajit Singh RLD 389
+Ghaziabad Rajnath Singh BJP 390
+Gautam Buddh Nagar Surendra Singh Nagar BSP 391
+Bulandshahr Kamlesh SP 392
+Aligarh Raj Kumari Chauhan BSP 393
+Hathras Sarika Singh RLD 394
+Mathura Jayant Chaudhary RLD 395
+Agra Dr. Ramshankar BJP 396
+Fatehpur Sikri Seema Upadhyay BSP 397
+Firozabad Akhilesh Yadav SP 398
+Mainpuri Mulayam Singh Yadav SP 399
+Etah Kalyan Singh R O Madholi IND 400
+Badaun Dharmendra Yadav SP 401
+Aonla Menka Gandhi BJP 402
+Bareilly Praveen Singh Aron INC 403
+Pilibhit Feroze Varun Gandhi BJP 404
+Shahjahanpur Mithlesh SP 405 13
+Kheri Zafar Ali Naqvi INC 406
+Dhaurahra Kunwar Jitin Prasad INC 407
+Sitapur Kaisar Jahan BSP 408
+Hardoi Usha Verma SP 409
+Misrikh Ashok Kumar Rawat BSP 410
+Unnao Annutandon INC 411
+Mohanlalganj Sushila Saroj SP 412
+Lucknow Lal Ji Tandon BJP 413
+Rae Bareli Sonia Gandhi INC 414
+Amethi Rahul Gandhi INC 415
+Sultanpur Dr. Sanjay Singh INC 416
+Pratapgarh Rajkumari Ratna Singh INC 417
+Farrukhabad Salman Khursheed INC 418
+Etawah Premdas SP 419
+Kannauj Akhilesh Yadav SP 420
+Kanpur Sri Prakash Jaiswal INC 421
+Akbarpur Rajaram Pal INC 422
+Jalaun Ghansyam Anuragi SP 423
+Jhansi Pradeep Kumar Jain (Aditya) INC 424
+Hamirpur Vijay Bahadur Singh BSP 425
+Banda R. K. Singh Patel SP 426
+Fatehpur Rakesh Sachan SP 427
+Kaushambi Shailendra Kumar SP 428
+Phulpur Kapil Muni Karwariya BSP 429
+Allahabad Kunwar Rewati Raman Singh Alias Mani Ji SP 430
+Barabanki P.L.Punia INC 431
+Faizabad Nirmal Khatri INC 432
+Ambedkar Nagar Rakesh Pandey BSP 433
+Bahraich Kamal Kishor INC 434
+Kaiserganj Brijbhushan Sharan Singh SP 435
+Shrawasti Vinay Kumar Alias Vinnu INC 436
+Gonda Beni Prasad Verma INC 437
+Domariyaganj Jagdambika Pal INC 438
+Basti Arvind Kumar Chaudhary BSP 439
+Sant Kabir Nagar Bhisma Shankar Alias Kushal Tiwari BSP 440
+Maharajganj Harsh Vardhan INC 441
+Gorakhpur Adityanath BJP 442
+Kushi Nagar Ku. Ratanjeet Pratap Narayan Singh INC 443
+Deoria Gorakh Prasad Jaiswal BSP 444
+Bansgaon Kamlesh Paswan BJP 445
+Lalganj Dr. Baliram BSP 446
+Azamgarh Ramakant Yadav BJP 447
+Ghosi Dara Singh Chauhan BSP 448
+Salempur Ramashankar Rajbhar BSP 449
+Ballia Neeraj Shekhar SP 450
+Jaunpur Dhananjay Singh BSP 451
+Machhlishahr Tufani Saroj SP 452
+Ghazipur Radhey Mohan Singh SP 453
+Chandauli Ramkishun SP 454
+Varanasi Dr. Murli Manohar Joshi BJP 455
+Bhadohi Gorakhnath BSP 456
+Mirzapur Bal Kumar Patel SP 457
+Robertsganj Pakauri Lal SP 458
+Cooch Behar Nripendra Nath Roy AIFB 459
+Alipurduars Manohar Tirkey RSP 460
+Jalpaiguri Mahendra Kumar Roy CPM 461
+Darjeeling Jaswant Singh BJP 462
+Raiganj Deepa Dasmunsi INC 463
+Balurghat Prasanta Kumar Majumdar RSP 464
+Maldaha Uttar Mausam Noor INC 465
+Maldaha Dakshin Abu Hasem Khan Choudhury INC 466
+Jangipur Pranab Mukherjee INC 467
+Baharampur Adhir Ranjan Chowdhury INC 468
+Murshidabad Abdul Mannan Hossain INC 469
+Krishnanagar Tapas Paul AITC 470
+Ranaghat Sucharu Ranjan Haldar AITC 471
+Bangaon Gobinda Chandra Naskar AITC 472
+Barrackpore Dinesh Trivedi AITC 473
+Dum Dum Sougata Ray AITC 474
+Barasat Kakali Ghosh Dastidar AITC 475
+Basirhat Sk. Nurul Islam AITC 476
+Joynagar Dr. Tarun Mondal IND 477
+Mathurapur Choudhury Mohan Jatua AITC 478
+Diamond Harbour Somendra Nath Mitra AITC 479
+Jadavpur Kabir Suman AITC 480
+Kolkata Dakshin Mamata Banerjee AITC 481
+Kolkata Uttar Sudip Bandyopadhyay AITC 482 15
+Howrah Ambica Banerjee AITC 483
+Uluberia Sultan Ahmed AITC 484
+Srerampur Kalyan Banerjee AITC 485
+Hooghly Dr. Ratna De (Nag) AITC 486
+Arambagh Malik Sakti Mohan CPM 487
+Tamluk Adhikari Suvendu AITC 488
+Kanthi Adhikari Sisir Kumar AITC 489
+Ghatal Gurudas Dasgupta CPI 490
+Jhargram Pulin Bihari Baske CPM 491
+Medinipur Prabodh Panda CPI 492
+Purulia Narahari Mahato AIFB 493
+Bankura Acharia Basudeb CPM 494
+Bishnupur Susmita Bauri CPM 495
+Bardhaman Purba Anup Kumar Saha CPM 496
+Burdwan-Durgapur Sk. Saidul Haque CPM 497
+Asansol Bansa Gopal Chowdhury CPM 498
+Bolpur Doctor Ram Chandra Dome CPM 499
+Birbhum Satabdi Roy AITC 500
+Sarguja Murarilal Singh BJP 501
+Raigarh Vishnu Deo Sai BJP 502
+Janjgir-Champa Shrimati Kamla Devi Patle BJP 503
+Korba Charan Das Mahant INC 504
+Bilaspur Dilip Singh Judev BJP 505
+Rajnandgaon Madhusudan Yadav BJP 506
+Durg Saroj Pandey BJP 507
+Raipur Ramesh Bais BJP 508
+Mahasamund Chandulal Sahu (Chandu Bhaiya) BJP 509
+Bastar Baliram Kashyap BJP 510
+Kanker Sohan Potai BJP 511
+Rajmahal Devidhan Besra BJP 512
+Dumka Shibu Soren JMM 513
+Godda Nishikant Dubey BJP 514
+Chatra Inder Singh Namdhari IND 515
+Kodarma Babulal Marandi JVM 516
+Giridih Ravindra Kumar Pandey BJP 517
+Dhanbad Pashupati Nath Singh BJP 518
+Ranchi Subodh Kant Sahay INC 519
+Jamshedpur Arjun Munda BJP 520
+Singhbhum Madhu Kora IND 521
+Khunti Karia Munda BJP 522
+Lohardaga Sudarshan Bhagat BJP 523
+Palamau Kameshwar Baitha JMM 524
+Hazaribagh Yashwant Sinha BJP 525
+Tehri Garhwal Vijay Bahuguna INC 526
+Garhwal Satpal Maharaj INC 527
+Almora Pradeep Tamta INC 528
+Nainital-Udhamsingh Nagar K.C. Singh Baba INC 529
+Hardwar Harish Rawat INC 530
+Chandni Chowk Kapil Sibal INC 535
+North-East Delhi Jai Prakash Agarwal INC 536
+East Delhi Sandeep Dikshit INC 537
+New Delhi Ajay Makan INC 538
+North-West  Delhi Krishna Tirath INC 539
+West Delhi Mahabal Mishra INC 540
+South Delhi Ramesh Kumar INC 541

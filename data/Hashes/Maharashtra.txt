@@ -1,48 +1,48 @@
-Nandurbar(ST)
-Dhule
-Jalgaon
-Raver
-Buldhana
-Akola
-Amravati(SC)
-Wardha
-Ramtek (SC)
-Nagpur
-Bhandara-Gondiya
-Gadchiroli-Chimur(ST)
-Chandrapur
-Yavatmal-Washim
-Hingoli
-Nanded
-Parbhani
-Jalna
-Aurangabad
-Dindori (ST)
-Nashik
-Palghar (ST)
-Bhiwandi
-Kalyan
-Thane
-Mumbai North
-Mumbai North-West
-Mumbai North-East
-Mumbai North-Central
-Mumbai South-Central
-Mumbai South
-Raigad
-Maval
-Pune
-Baramati
-Shirur
-Ahmednagar
-Shirdi (SC)
-Beed
-Osmanabad
-Latur (SC)
-Solapur (SC)
-Madha
-Sangli
-Satara
-Ratnagiri-Sindhudurg
-Kolhapur
-Hatkanangle
+NANDURBAR(ST),Maharashtra
+DHULE,Maharashtra
+JALGAON,Maharashtra
+RAVER,Maharashtra
+BULDHANA,Maharashtra
+AKOLA,Maharashtra
+AMRAVATI(SC),Maharashtra
+WARDHA,Maharashtra
+RAMTEK (SC),Maharashtra
+NAGPUR,Maharashtra
+BHANDARA-GONDIYA,Maharashtra
+GADCHIROLI-CHIMUR(ST),Maharashtra
+CHANDRAPUR,Maharashtra
+YAVATMAL-WASHIM,Maharashtra
+HINGOLI,Maharashtra
+NANDED,Maharashtra
+PARBHANI,Maharashtra
+JALNA,Maharashtra
+AURANGABAD,Maharashtra
+DINDORI (ST),Maharashtra
+NASHIK,Maharashtra
+PALGHAR (ST),Maharashtra
+BHIWANDI,Maharashtra
+KALYAN,Maharashtra
+THANE,Maharashtra
+MUMBAI NORTH,Maharashtra
+MUMBAI NORTH-WEST,Maharashtra
+MUMBAI NORTH-EAST,Maharashtra
+MUMBAI NORTH-CENTRAL,Maharashtra
+MUMBAI SOUTH-CENTRAL,Maharashtra
+MUMBAI SOUTH,Maharashtra
+RAIGAD,Maharashtra
+MAVAL,Maharashtra
+PUNE,Maharashtra
+BARAMATI,Maharashtra
+SHIRUR,Maharashtra
+AHMEDNAGAR,Maharashtra
+SHIRDI (SC),Maharashtra
+BEED,Maharashtra
+OSMANABAD,Maharashtra
+LATUR (SC),Maharashtra
+SOLAPUR (SC),Maharashtra
+MADHA,Maharashtra
+SANGLI,Maharashtra
+SATARA,Maharashtra
+RATNAGIRI-SINDHUDURG,Maharashtra
+KOLHAPUR,Maharashtra
+HATKANANGLE,Maharashtra

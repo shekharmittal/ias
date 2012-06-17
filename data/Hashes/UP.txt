@@ -1,80 +1,80 @@
-Bijnor (SC)
-Amroha
-Moradabad
-Rampur
-Sambhal
-Budaun
-Aonla
-Bareilly
-Pilibhit
-Shahjahanpur
-Kheri
-Shahabad
-Sitapur
-Misrikh (SC)
-Hardoi (SC)
-Lucknow
-Mohanlalganj (SC)
-Unnao
-Rae Bareli
-Pratapgarh
-Amethi
-Sultanpur
-Akbarpur (SC)
-Faizabad
-Bara Banki (SC)
-Kaiserganj
-Bahraich
-Balrampur
-Gonda
-Basti (SC)
-Domariaganj
-Khalilabad
-Bansgaon (SC)
-Gorakhpur
-Maharajganj
-Padrauna
-Deoria
-Salempur
-Ballia
-Ghosi
-Azamgarh
-Lalganj (SC)
-Machhlishahr
-Jaunpur
-Saidpur (SC)
-Ghazipur
-Chandauli
-Varanasi
-Robertsganj (SC)
-Mirzapur
-Phulpur
-Allahabad
-Chail (SC)
-Fatehpur
-Banda
-Hamirpur
-Jhansi
-Jalaun (SC)
-Ghatampur (SC)
-Bilhaur
-Kanpur
-Etawah
-Kannauj
-Farrukhabad
-Mainpuri
-Jalesar
-Etah
-Firozabad (SC)
-Agra
-Mathura
-Hathras (SC)
-Aligarh
-Khurja (SC)
-Bulandshahr
-Hapur
-Meerut
-Baghpat
-Muzaffarnagar
-Kairana
-Saharanpur
+BIJNOR (SC),Uttar Pradesh
+AMROHA,Uttar Pradesh
+MORADABAD,Uttar Pradesh
+RAMPUR,Uttar Pradesh
+SAMBHAL,Uttar Pradesh
+BUDAUN,Uttar Pradesh
+AONLA,Uttar Pradesh
+BAREILLY,Uttar Pradesh
+PILIBHIT,Uttar Pradesh
+SHAHJAHANPUR,Uttar Pradesh
+KHERI,Uttar Pradesh
+SHAHABAD,Uttar Pradesh
+SITAPUR,Uttar Pradesh
+MISRIKH (SC),Uttar Pradesh
+HARDOI (SC),Uttar Pradesh
+LUCKNOW,Uttar Pradesh
+MOHANLALGANJ (SC),Uttar Pradesh
+UNNAO,Uttar Pradesh
+RAE BARELI,Uttar Pradesh
+PRATAPGARH,Uttar Pradesh
+AMETHI,Uttar Pradesh
+SULTANPUR,Uttar Pradesh
+AKBARPUR (SC),Uttar Pradesh
+FAIZABAD,Uttar Pradesh
+BARA BANKI (SC),Uttar Pradesh
+KAISERGANJ,Uttar Pradesh
+BAHRAICH,Uttar Pradesh
+BALRAMPUR,Uttar Pradesh
+GONDA,Uttar Pradesh
+BASTI (SC),Uttar Pradesh
+DOMARIAGANJ,Uttar Pradesh
+KHALILABAD,Uttar Pradesh
+BANSGAON (SC),Uttar Pradesh
+GORAKHPUR,Uttar Pradesh
+MAHARAJGANJ,Uttar Pradesh
+PADRAUNA,Uttar Pradesh
+DEORIA,Uttar Pradesh
+SALEMPUR,Uttar Pradesh
+BALLIA,Uttar Pradesh
+GHOSI,Uttar Pradesh
+AZAMGARH,Uttar Pradesh
+LALGANJ (SC),Uttar Pradesh
+MACHHLISHAHR,Uttar Pradesh
+JAUNPUR,Uttar Pradesh
+SAIDPUR (SC),Uttar Pradesh
+GHAZIPUR,Uttar Pradesh
+CHANDAULI,Uttar Pradesh
+VARANASI,Uttar Pradesh
+ROBERTSGANJ (SC),Uttar Pradesh
+MIRZAPUR,Uttar Pradesh
+PHULPUR,Uttar Pradesh
+ALLAHABAD,Uttar Pradesh
+CHAIL (SC),Uttar Pradesh
+FATEHPUR,Uttar Pradesh
+BANDA,Uttar Pradesh
+HAMIRPUR,Uttar Pradesh
+JHANSI,Uttar Pradesh
+JALAUN (SC),Uttar Pradesh
+GHATAMPUR (SC),Uttar Pradesh
+BILHAUR,Uttar Pradesh
+KANPUR,Uttar Pradesh
+ETAWAH,Uttar Pradesh
+KANNAUJ,Uttar Pradesh
+FARRUKHABAD,Uttar Pradesh
+MAINPURI,Uttar Pradesh
+JALESAR,Uttar Pradesh
+ETAH,Uttar Pradesh
+FIROZABAD (SC),Uttar Pradesh
+AGRA,Uttar Pradesh
+MATHURA,Uttar Pradesh
+HATHRAS (SC),Uttar Pradesh
+ALIGARH,Uttar Pradesh
+KHURJA (SC),Uttar Pradesh
+BULANDSHAHR,Uttar Pradesh
+HAPUR,Uttar Pradesh
+MEERUT,Uttar Pradesh
+BAGHPAT,Uttar Pradesh
+MUZAFFARNAGAR,Uttar Pradesh
+KAIRANA,Uttar Pradesh
+SAHARANPUR,Uttar Pradesh

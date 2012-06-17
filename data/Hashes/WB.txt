@@ -1,42 +1,42 @@
-Cooch Behar (SC)
-Alipurduars (ST)
-Jalpaiguri
-Darjeeling
-Raiganj
-Balurghat (SC)
-Malda
-Jangipur
-Murshidabad
-Berhampore
-Krishnagar
-Nabadwip (SC)
-Barasat
-Basirhat
-Joynagar (SC)
-Mathurapur (SC)
-Diamond Harbour
-Jadavpur
-Barrackpore
-Dum Dum
-Calcutta North West
-Calcutta North East
-Calcutta South
-Howrah
-Uluberia
-Serampore
-Hooghly
-Arambagh
-Panskura
-Tamluk
-Contai
-Midnapore
-Jhargram (ST)
-Purulia
-Bankura
-Vishnupur (SC)
-Durgapur (SC)
-Asansol
-Burdwan
-Katwa
-Bolpur
-Birbhum (SC)
+COOCH BEHAR (SC),West Bengal
+ALIPURDUARS (ST),West Bengal
+JALPAIGURI,West Bengal
+DARJEELING,West Bengal
+RAIGANJ,West Bengal
+BALURGHAT (SC),West Bengal
+MALDA,West Bengal
+JANGIPUR,West Bengal
+MURSHIDABAD,West Bengal
+BERHAMPORE,West Bengal
+KRISHNAGAR,West Bengal
+NABADWIP (SC),West Bengal
+BARASAT,West Bengal
+BASIRHAT,West Bengal
+JOYNAGAR (SC),West Bengal
+MATHURAPUR (SC),West Bengal
+DIAMOND HARBOUR,West Bengal
+JADAVPUR,West Bengal
+BARRACKPORE,West Bengal
+DUM DUM,West Bengal
+CALCUTTA NORTH WEST,West Bengal
+CALCUTTA NORTH EAST,West Bengal
+CALCUTTA SOUTH,West Bengal
+HOWRAH,West Bengal
+ULUBERIA,West Bengal
+SERAMPORE,West Bengal
+HOOGHLY,West Bengal
+ARAMBAGH,West Bengal
+PANSKURA,West Bengal
+TAMLUK,West Bengal
+CONTAI,West Bengal
+MIDNAPORE,West Bengal
+JHARGRAM (ST),West Bengal
+PURULIA,West Bengal
+BANKURA,West Bengal
+VISHNUPUR (SC),West Bengal
+DURGAPUR (SC),West Bengal
+ASANSOL,West Bengal
+BURDWAN,West Bengal
+KATWA,West Bengal
+BOLPUR,West Bengal
+BIRBHUM (SC),West Bengal

@@ -1,21 +1,21 @@
-Mayurbhanj (ST)
-Balasore
-Bhadrak (SC)
-Jajpur (SC)
-Kendrapara
-Cuttack
-Jagatsinghpur
-Puri
-Bhubaneswar
-Aska
-Berhampur
-Koraput (ST)
-Nowrangpur (ST)
-Kalahandi
-Phulbani (SC)
-Bolangir
-Sambalpur
-Deogarh
-Dhenkanal
-Sundargarh (ST)
-Keonjhar (ST)
+MAYURBHANJ (ST),Orissa
+BALASORE,Orissa
+BHADRAK (SC),Orissa
+JAJPUR (SC),Orissa
+KENDRAPARA,Orissa
+CUTTACK,Orissa
+JAGATSINGHPUR,Orissa
+PURI,Orissa
+BHUBANESWAR,Orissa
+ASKA,Orissa
+BERHAMPUR,Orissa
+KORAPUT (ST),Orissa
+NOWRANGPUR (ST),Orissa
+KALAHANDI,Orissa
+PHULBANI (SC),Orissa
+BOLANGIR,Orissa
+SAMBALPUR,Orissa
+DEOGARH,Orissa
+DHENKANAL,Orissa
+SUNDARGARH (ST),Orissa
+KEONJHAR (ST),Orissa

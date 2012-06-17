@@ -1,13 +1,13 @@
-Gurdaspur
-Amritsar
-Tarn Taran
-Jullundur
-Phillaur (SC)
-Hoshiarpur
-Ropar (SC)
-Patiala
-Ludhiana
-Sangrur
-Bhatinda (SC)
-Faridkot
-Ferozepur
+GURDASPUR,Punjab
+AMRITSAR,Punjab
+TARN TARAN,Punjab
+JULLUNDUR,Punjab
+PHILLAUR (SC),Punjab
+HOSHIARPUR,Punjab
+ROPAR (SC),Punjab
+PATIALA,Punjab
+LUDHIANA,Punjab
+SANGRUR,Punjab
+BHATINDA (SC),Punjab
+FARIDKOT,Punjab
+FEROZEPUR,Punjab
