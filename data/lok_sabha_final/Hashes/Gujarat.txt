@@ -1,0 +1,26 @@
+KUTCH,Gujarat
+SURENDRANAGAR,Gujarat
+JAMNAGAR,Gujarat
+RAJKOT,Gujarat
+PORBANDAR,Gujarat
+JUNAGADH,Gujarat
+AMRELI,Gujarat
+BHAVNAGAR,Gujarat
+DHANDHUKA (SC),Gujarat
+AHMEDABAD,Gujarat
+GANDHINAGAR,Gujarat
+MEHSANA,Gujarat
+PATAN (SC),Gujarat
+BANASKANTHA,Gujarat
+SABARKANTHA,Gujarat
+KAPADVANJ,Gujarat
+DOHAD (ST),Gujarat
+GODHRA,Gujarat
+KAIRA,Gujarat
+ANAND,Gujarat
+CHHOTA UDAIPUR (ST),Gujarat
+BARODA,Gujarat
+BROACH,Gujarat
+SURAT,Gujarat
+MANDVI (ST),Gujarat
+BULSAR (ST),Gujarat

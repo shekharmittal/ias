@@ -1,0 +1,1363 @@
+State PC No PC Name Leading/Winning
+Candidate Leading/Winning Party
+A
+ndhra Pradesh 1
+A
+dilabad Rathod Ramesh Telugu Desam
+A
+ndhra Pradesh 2 Peddapalle Dr.G.Vivekanand Indian National Congress
+A
+ndhra Pradesh 3 Karimnagar Ponnam Prabhakar Indian National Congress
+A
+ndhra Pradesh 4 Nizamabad Madhu Yaskhi Goud Indian National Congress
+A
+ndhra Pradesh 5 Zahirabad Suresh Kumar Shetkar Indian National Congress
+A
+ndhra Pradesh 6 Meda
+k
+V
+ijaya Shanthi .M Telangana Rashtra Samithi
+A
+ndhra Pradesh 7 Malkajgiri Sarvey Sathyanarayana Indian National Congress
+A
+ndhra Pradesh 8 Secundrabad
+A
+njan Kumar Yadav M Indian National Congress
+A
+ndhra Pradesh 9 Hyderabad
+A
+saduddin Owaisi
+A
+ll India Majlis-E-Ittehadul Muslimeen
+A
+ndhra Pradesh 10 Chelvella Jaipal Reddy Sudini Indian National Congress
+A
+ndhra Pradesh 11 Mahbubnagar K. Chandrasekhar Rao Telangana Rashtra Samithi
+A
+ndhra Pradesh 12 Nagarkurnool Dr. Manda Jagannath Indian National Congress
+A
+ndhra Pradesh 13 Nalgonda Gutha Sukender Redd
+y
+Indian National Congress
+A
+ndhra Pradesh 14 Bhongir Komatireddy Raj Gopal Redd
+y
+Indian National Congress
+A
+ndhra Pradesh 15 Warangal Rajaiah Siricilla Indian National Congress
+A
+ndhra Pradesh 16 Mahabubabad P. Balram Indian National Congress
+A
+ndhra Pradesh 17 Khammam Nama Nageswara Rao Telugu Desam
+Andhra Pradesh 18 Aruku
+Ki
+s
+h
+ore
+Ch
+an
+d
+ra
+S
+uryanarayana Deo Vyricherla Indian National Congress
+A
+ndhra Pradesh 19 Srikakulam Killi Krupa Rani Indian National Congress
+A
+ndhra Pradesh 20
+V
+izianagaram Jhansi Lakshmi Botcha Indian National Congress
+A
+ndhra Pradesh 21
+V
+isakhapatnam Daggubati Purandeswari Indian National Congress
+A
+ndhra Pradesh 22
+A
+nakapalli Sabbam Hari Indian National Congress
+A
+ndhra Pradesh 23 Kakinada M.M.Pallamraju Indian National Congress
+A
+ndhra Pradesh 24
+A
+malapuram G.V.Harsha Kumar Indian National Congress
+A
+ndhra Pradesh 25 Rajahmundry
+A
+runa Kumar Vundavalli Indian National Congress
+A
+ndhra Pradesh 26 Narsapuram Bapiraju Kanumuru Indian National Congress
+A
+ndhra Pradesh 27 Eluru Kavuri Sambasiva Rao Indian National Congress
+A
+ndhra Pradesh 28 Machilipatnam Konakalla Narayana Rao Telugu Desam
+A
+ndhra Pradesh 29
+V
+ijayawada Lagadapati Raja Gopal Indian National Congress
+A
+ndhra Pradesh 30 Guntur Rayapati Sambasiva Rao Indian National Congress
+A
+ndhra Pradesh 31 Narasaraope
+t
+Modugula Venugopala Redd
+y
+Telugu Desam
+A
+ndhra Pradesh 32 Bapatla Panabaka Lakshmi Indian National Congress
+A
+ndhra Pradesh 33 Ongole Magunta Srinivasulu Reddy Indian National Congress
+A
+ndhra Pradesh 34 Nandyal S.P.Y.Redd
+y
+Indian National Congress Andhra Pradesh 35 Kurnool Kotla Jaya Surya Prakash Reddy Indian National Congress
+A
+ndhra Pradesh 36
+A
+nantapur
+A
+nantha Venkata Rami Redd
+y
+Indian National Congress
+A
+ndhra Pradesh 37 Hindupur Kristappa Nimmala Telugu Desam
+A
+ndhra Pradesh 38 Kadapa
+Y
+.S. Jagan Mohan Redd
+y
+Indian National Congress
+A
+ndhra Pradesh 39 Nellore Mekapati Rajamohan Redd
+y
+Indian National Congress
+A
+ndhra Pradesh 40 Tirupati Chinta Mohan Indian National Congress
+A
+ndhra Pradesh 41 Rajampe
+t
+A
+nnayyagari Sai Prathap Indian National Congress
+A
+ndhra Pradesh 42 Chittoor Naramalli Sivaprasad Telugu Desam
+A
+runachal Pradesh 1
+A
+runachal West Takam Sanjo
+y
+Indian National Congress
+A
+runachal Pradesh 2
+A
+runachal East Ninong Ering Indian National Congress
+A
+ssam 1 Karimganj Lalit Mohan Suklabaidya Indian National Congress
+A
+ssam 2 Silchar Kabindra Purkayastha Bharatiya Janata Part
+y
+A
+ssam 3
+A
+utonomous District Biren Singh Engti Indian National Congress
+A
+ssam 4 Dhubri Badruddin Ajmal
+A
+ssam United Democratic Front Assam 5 Kokrajhar
+S
+ansuma
+Kh
+unggur Bwiswmuthiary Bodaland Peoples Front
+A
+ssam 6 Barpeta Ismail Hussain Indian National Congress
+A
+ssam 7 Gauhati Bijoya Chakravart
+y
+Bharatiya Janata Part
+y
+A
+ssam 8 Mangaldoi Ramen Deka Bharatiya Janata Part
+y
+A
+ssam 9 Tezpur Joseph Toppo
+A
+som Gana Parishad
+A
+ssam 10 Nowgong Rajen Gohain Bharatiya Janata Part
+y
+A
+ssam 11 Kaliabor Dip Gogoi Indian National Congress
+A
+ssam 12 Jorhat Bijoy Krishna Handique Indian National Congress
+A
+ssam 13 Dibrugarh Paban Singh Ghatowar Indian National Congress
+A
+ssam 14 Lakhimpur Ranee Narah Indian National Congress
+Bihar 1
+V
+almiki Naga
+r
+Baidyanath Prasad Mahto Janata Dal (United) Bihar 2 Paschim Champaran Dr. Sanjay Jaiswal Bharatiya Janata Part
+y
+Bihar 3 Purvi Champaran Radha Mohan Singh Bharatiya Janata Part
+y
+Bihar 4 Sheohar Rama Devi Bharatiya Janata Part
+y
+Bihar 5 Sitamarhi
+A
+rjun Roy Janata Dal (United) Bihar 6 Madhubani Hukmadeo Narayan Yada
+v
+Bharatiya Janata Part
+y
+Bihar 7 Jhanjharpur Mangani Lal Mandal Janata Dal (United)
+Bihar 8 Supaul
+V
+ishwa Mohan Kumar Janata Dal (United) Bihar 9
+A
+raria Pradeep Kumar Singh Bharatiya Janata Part
+y
+Bihar 10 Kishanganj Mohammad Asrarul Haque Indian National Congress
+Bihar 11 Katihar Nikhil Kumar Choudhary Bharatiya Janata Part
+y
+Bihar 12 Purnia Uday Singh Alias Pappu Singh Bharatiya Janata Part
+y
+Bihar 13 Madhepura Sharad Yada
+v
+Janata Dal (United) Bihar 14 Darbhanga Kirti Azad Bharatiya Janata Part
+y
+Bihar 15 Muzaffarpur
+C
+ap
+t
+a
+i
+n
+J
+a
+i
+
+N
+arayan
+P
+rasa
+d
+ Nishad Janata Dal (United) Bihar 16
+V
+aishali Raghuvansh Prasad Singh Rashtriya Janata Dal Bihar 17 Gopalganj Purnmasi Ram Janata Dal (United)
+Bihar 18 Siwan Om Prakash Yada
+v
+Independen
+t
+Bihar 19 Maharajganj Uma Shanaker Singh Rashtriya Janata Dal
+Bihar 20 Saran Lalu Prasad Rashtriya Janata Dal
+Bihar 21 Hajipur Ram Sundar Das Janata Dal (United)
+Bihar 22 Ujiarpur
+A
+swamedh Devi Janata Dal (United) Bihar 23 Samastipur Maheshwar Hazari Janata Dal (United)
+Bihar 24 Begusarai Dr. Monazir Hassan Janata Dal (United)
+Bihar 25 Khagaria Dinesh Chandra Yada
+v
+Janata Dal (United) Bihar 26 Bhagalpur Syed Shahnawaz Hussain Bharatiya Janata Part
+y
+Bihar 27 Banka Digvijay Singh Independen
+t
+Bihar 28 Munger
+R
+a
+ji
+v
+R
+an
+j
+an
+Si
+ng
+h
+
+Ali
+as
+L
+a
+l
+an Singh Janata Dal (United) Bihar 29 Nalanda Kaushalendra Kumar Janata Dal (United)
+Bihar 30 Patna Sahib Shatrughan Sinha Bharatiya Janata Part
+y
+Bihar 31 Pataliputra Ranjan Prasad Yada
+v
+Janata Dal (United) Bihar 32
+A
+rrah Meena Singh Janata Dal (United) Bihar 33 Buxar Jagada Nand Singh Rashtriya Janata Dal
+Bihar 34 Sasaram Meira Kumar Indian National Congress
+Bihar 35 Karaka
+t
+Mahabali Singh Janata Dal (United) Bihar 36 Jahanabad Jagdish Sharma Janata Dal (United)
+Bihar 37
+A
+urangabad Sushil Kumar Singh Janata Dal (United) Bihar 38 Gaya Hari Manjhi Bharatiya Janata Part
+y
+Bihar 39 Nawada Bhola Singh Bharatiya Janata Part
+y
+Bihar 40 Jamui Bhudeo Choudhary Janata Dal (United)
+Goa 1 North Goa Shripad Yesso Nai
+k
+Bharatiya Janata Part
+y
+Goa 2 South Goa
+C
+osme
+F
+ranc
+i
+sco
+C
+a
+it
+ano Sardinha Indian National Congress Gujarat 1 Kachchh Jat Poonamben Veljibhai Bharatiya Janata Part
+y
+Gujarat 2 Banaskantha
+G
+a
+dh
+v
+i
+
+M
+u
+k
+es
+hk
+umar Bheiravdanji Indian National Congress Gujarat 3 Patan Jagdish Thakor Indian National Congress
+Gujarat 4 Mahesana Patel Jayshreeben Kanubhai Bharatiya Janata Part
+y
+Gujarat 5 Sabarkantha Chauhan Mahendrasinh Bharatiya Janata Part
+y
+Gujarat 6 Gandhinagar L.K.Advani Bharatiya Janata Part
+y
+Gujarat 7
+A
+hmedabad Eas
+t
+Harin Patha
+k
+Bharatiya Janata Part
+y
+Gujarat 8 Ahmedabad West Dr. Solanki Kiritbhai Premajibhai Bharatiya Janata Party
+Gujarat 9 Surendranagar Koli Patel Somabhai Gandalal Indian National Congress
+Gujarat 10 Rajkot Kuvarjibhai Mohanbhai Bavalia Indian National Congress
+Gujarat 11 Porbandar
+R
+a
+d
+a
+di
+ya
+Vitth
+a
+lbh
+a
+i
+ Hansrajbhai Indian National Congress Gujarat 12 Jamnagar
+Ahi
+r
+Vik
+ram
+bh
+a
+i
+
+A
+r
+j
+an
+bh
+a
+i
+ Madam Indian National Congress Gujarat 13 Junagadh Solanki Dinubhai Boghabhai Bharatiya Janata Part
+y
+Gujarat 14
+A
+mreli Kachhadia Naranbhai Bharatiya Janata Part
+y
+Gujarat 15 Bhavnagar
+R
+a
+j
+en
+d
+ras
+i
+n
+h
+
+Gh
+ans
+h
+yams
+i
+n
+h
+ Rana (Rajubhai Rana) Bharatiya Janata Party Gujarat 16
+A
+nand Solanki Bharatbhai Madhavsinh Indian National Congress Gujarat 17 Kheda Dinsha Patel Indian National Congress
+Gujarat 18 Panchmahal Chauhan Prabhatsinh Pratapsinh Bharatiya Janata Party
+Gujarat 19 Dahod Dr. Prabha Kishor Taviad Indian National Congress
+Gujarat 20 Vadodara
+B
+a
+lk
+r
+i
+s
+h
+na
+Kh
+an
+d
+erao
+Sh
+u
+kl
+a (Balu Shukla) Bharatiya Janata Party Gujarat 21 Chhota Udaipur Rathwa Ramsingbhai Patalbhai Bharatiya Janata Part
+y
+Gujarat 22 Bharuch Mansukhbhai Dhanjibhai Vasava Bharatiya Janata Party
+Gujarat 23 Bardoli
+Ch
+au
+dh
+ar
+i
+
+T
+us
+h
+ar
+bh
+a
+i
+ Amrasinhbhai Indian National Congress Gujarat 24 Surat
+Sh
+r
+i
+ma
+ti
+
+D
+ars
+h
+ana
+Vik
+ram Jardosh Bharatiya Janata Party Gujarat 25 Navsari C. R. Patil Bharatiya Janata Part
+y
+Gujarat 26
+V
+alsad Kishanbhai Vestabhai Patel Indian National Congress Haryana 1
+A
+mbala Selja Indian National Congress Haryana 2 Kurukshetra Naveen Jindal Indian National Congress
+Haryana 3 Sirsa
+A
+shok Tanwar Indian National Congress Haryana 4 Hisar Bhajan Lal S/O Kheraj Haryana Janhit Congress (BL)
+Haryana 5 Karnal
+A
+rvind Kumar Sharma Indian National Congress Haryana 6 Sonipat Jitender Singh Indian National Congress
+Haryana 7 Rohta
+k
+Deepender Singh Indian National Congress Haryana 8 Bhiwani-Mahendragarh Shruti Choudhry Indian National Congress
+Haryana 9 Gurgaon Inderjit Singh Indian National Congress
+Haryana 10 Faridabad
+A
+vtar Singh Bhadana Indian National Congress Himachal Pradesh 1 Kangra Dr. Rajan Sushant Bharatiya Janata Part
+y
+Himachal Pradesh 2 Mandi
+V
+irbhadra Singh Indian National Congress Himachal Pradesh 3 Hamirpur
+A
+nurag Singh Thakur Bharatiya Janata Part
+y
+Himachal Pradesh 4 Shimla
+V
+irender Kashyap Bharatiya Janata Part
+y
+Jammu & Kashmir 1 Baramulla Sharief Ud Din Shariq Jammu & Kashmir National Conference
+Jammu & Kashmir 2 Srinagar Farooq Abdullah Jammu & Kashmir National Conference
+Jammu & Kashmir 3
+A
+nantnag Mirza Mehboob Beg Jammu & Kashmir National Conference Jammu & Kashmir 4 Ladakh Hassan Khan Independen
+t
+Jammu & Kashmir 5 Udhampur Ch. Lal Singh Indian National Congress
+Jammu & Kashmir 6 Jammu Madan Lal Sharma Indian National Congress
+Karnataka 1 Chikkodi Katti Ramesh Vishwanath Bharatiya Janata Part
+y
+Karnataka 2 Belgaum Angadi Suresh Channabasappa Bharatiya Janata Party
+Karnataka 3 Bagalko
+t
+Gaddigoudar P.C. Bharatiya Janata Part
+y
+Karnataka 4 Bijapur Ramesh Chandappa Jigajinagi Bharatiya Janata Part
+y
+Karnataka 5 Gulbarga Mallikarjun Kharge Indian National Congress
+Karnataka 6 Raichur Pakkirappa.S. Bharatiya Janata Part
+y
+Karnataka 7 Bidar N.Dharam Singh Indian National Congress
+Karnataka 8 Koppal Shivaramagouda Shivanagouda Bharatiya Janata Party
+Karnataka 9 Bellar
+y
+J. Shantha Bharatiya Janata Part
+y
+Karnataka 10 Haveri Udasi Shivkumar Chanabasappa Bharatiya Janata Party
+Karnataka 11 Dharwad Pralhad Joshi Bharatiya Janata Part
+y
+Karnataka 12 Uttara Kannada
+A
+nantkumar Hegde Bharatiya Janata Part
+y
+Karnataka 13 Davanagere Siddeswara G.M. Bharatiya Janata Part
+y
+Karnataka 14 Shimoga B.Y. Raghavendra Bharatiya Janata Part
+y
+Karnataka 15 Udupi Chikmagalur D.V.Sadananda Gowda Bharatiya Janata Part
+y
+Karnataka 16 Hassan H. D. Devegowda Janata Dal (Secular)
+Karnataka 17 Dakshina Kannada Nalin Kumar Kateel Bharatiya Janata Part
+y
+Karnataka 18 Chitradurga Janardhana Swamy Bharatiya Janata Part
+y
+Karnataka 19 Tumkur G.S. Basavaraj Bharatiya Janata Part
+y
+Karnataka 20 Mandya
+N
+
+Ch
+e
+l
+uvaraya
+S
+wamy
+@
+ Swamygowda Janata Dal (Secular) Karnataka 21 Mysore
+A
+dagur H Vishwanath Indian National Congress Karnataka 22 Chamarajanagar R.Dhruvanarayana Indian National Congress
+Karnataka 23 Bangalore Rural H.D.Kumaraswamy Janata Dal (Secular)
+Karnataka 24 Bangalore North D. B. Chandre Gowda Bharatiya Janata Part
+y
+Karnataka 25 Bangalore Central P. C. Mohan Bharatiya Janata Part
+y
+Karnataka 26 Bangalore South
+A
+nanth Kumar Bharatiya Janata Part
+y
+Karnataka 27 Chikkballapu
+r
+M.Veerappa Moil
+y
+Indian National Congress Karnataka 28 Kolar K.H.Muniyappa Indian National Congress
+Kerala 1 Kasaragod P Karunakaran Communist Party of India (Marxist)
+Kerala 2 Kannur K. Sudhakaran Indian National Congress
+Kerala 3
+V
+adakara Mullappally Ramachandran Indian National Congress Kerala 4 Wayanad M.I. Shanavas Indian National Congress
+Kerala 5 Kozhikode M.K. Raghavan Indian National Congress
+Kerala 6 Malappuram E. Ahamed Muslim League Kerala State Committee
+Kerala 7 Ponnani E.T. Muhammed Bashee
+r
+Muslim League Kerala State Committee Kerala 8 Palakkad M.B. Rajesh Communist Party of India (Marxist)
+Kerala 9
+A
+lathur P.K Biju Communist Party of India (Marxist) Kerala 10 Thrissur P C Chacko Indian National Congress
+Kerala 11 Chalakud
+y
+K.P. Dhanapalan Indian National Congress Kerala 12 Ernakulam Prof. K V Thomas Indian National Congress
+Kerala 13 Idukki
+A
+dv. P.T Thomas Indian National Congress Kerala 14 Kottayam Jose K.Mani (Karingozheckal) Kerala Congress (M)
+Kerala 15
+A
+lappuzha K.C Venugopal Indian National Congress Kerala 16 Mavelikkara Kodikkunnil Suresh Indian National Congress
+Kerala 17 Pathanamthitta
+A
+nto Antony Punnathaniyil Indian National Congress Kerala 18 Kollam N.Peethambarakurup Indian National Congress
+Kerala 19
+A
+ttingal
+A
+dv. A Sampath Communist Party of India (Marxist) Kerala 20 Thiruvananthapuram Shashi Tharoor Indian National Congress
+Madhya Pradesh 1 Morena Narendra Singh Tomar Bharatiya Janata Part
+y
+Madhya Pradesh 2 Bhind
+A
+shok Argal Bharatiya Janata Part
+y
+Madhya Pradesh 3 Gwalior
+Y
+ashodhara Raje Scindia Bharatiya Janata Part
+y
+Madhya Pradesh 4 Guna Jyotiraditya Madhavrao Scindia Indian National Congress
+Madhya Pradesh 5 Sagar Bhupendra Singh Bharatiya Janata Part
+y
+Madhya Pradesh 6 Tikamgarh
+V
+irendra Kumar Bharatiya Janata Part
+y
+Madhya Pradesh 7 Damoh Shivraj Bhaiya Bharatiya Janata Part
+y
+Madhya Pradesh 8 Khajuraho Jeetendra Singh Bundela Bharatiya Janata Part
+y
+Madhya Pradesh 9 Satna Ganesh Singh Bharatiya Janata Part
+y
+Madhya Pradesh 10 Rewa Deoraj Singh Patel Bahujan Samaj Party
+Madhya Pradesh 11 Sidhi Govind Prasad Mishra Bharatiya Janata Part
+y
+Madhya Pradesh 12 Shahdol Rajesh Nandini Singh Indian National Congress
+Madhya Pradesh 13 Jabalpur Rakesh Singh Bharatiya Janata Part
+y
+Madhya Pradesh 14 Mandla Basori Singh Masram Indian National Congress
+Madhya Pradesh 15 Balagha
+t
+K. D. Deshmukh Bharatiya Janata Part
+y
+Madhya Pradesh 16 Chhindwara Kamal Nath Indian National Congress
+Madhya Pradesh 17 Hoshangabad Uday Pratap Singh Indian National Congress
+Madhya Pradesh 18
+V
+idisha Sushma Swaraj Bharatiya Janata Part
+y
+Madhya Pradesh 19 Bhopal Kailash Joshi Bharatiya Janata Part
+y
+Madhya Pradesh 20 Rajgarh Narayansingh Amlabe Indian National Congress
+Madhya Pradesh 21 Dewas Sajjan Singh Verma Indian National Congress
+Madhya Pradesh 22 Ujjain Guddu Premchand Indian National Congress
+Madhya Pradesh 23 Mandsour Meenakshi Natrajan Indian National Congress
+Madhya Pradesh 24 Ratlam Kantilal Bhuria Indian National Congress
+Madhya Pradesh 25 Dhar Gajendra Singh Rajukhedi Indian National Congress
+Madhya Pradesh 26 Indore Sumitra Mahajan (Tai) Bharatiya Janata Part
+y
+Madhya Pradesh 27 Khargone Makansingh Solanki (Babuji) Bharatiya Janata Part
+y
+Madhya Pradesh 28 Khandwa
+A
+run Subhashchandra Yadav Indian National Congress Madhya Pradesh 29 Betul Jyoti Dhurve Bharatiya Janata Part
+y
+Maharashtra 1 Nandurbar Gavit Manikrao Hodlya Indian National Congress
+Maharashtra 2 Dhule Sonawane Pratap Narayanrao Bharatiya Janata Part
+y
+Maharashtra 3 Jalgaon
+A
+.T. Nana Patil Bharatiya Janata Part
+y
+Maharashtra 4 Rave
+r
+Haribhau Madhav Jawale Bharatiya Janata Part
+y
+Maharashtra 5 Buldhana Jadhav Prataprao Ganpatrao Shivsena
+Maharashtra 6
+A
+kola Dhotre Sanjay Shamrao Bharatiya Janata Part
+y
+Maharashtra 7
+A
+mravati
+A
+dsul Anandrao Vithoba Shivsena Maharashtra 8 Wardha Datta Meghe Indian National Congress
+Maharashtra 9 Ramtek Wasnik Mukul Balkrishna Indian National Congress
+Maharashtra 10 Nagpur Muttemwar Vilasrao Baburaoji Indian National Congress
+Maharashtra 11 Bhandara - Gondiya Patel Praful Manoharbhai Nationalist Congress Party
+Maharashtra 12 Gadchiroli-Chimur Kowase Marotrao Sainuji Indian National Congress
+Maharashtra 13 Chandrapur
+A
+hir Hansaraj Gangaram Bharatiya Janata Part
+y
+Maharashtra 14
+Y
+avatmal-Washim Bhavana Gawali (Patil) Shivsena Maharashtra 15 Hingoli Subhash Bapurao Wankhede Shivsena
+Maharashtra 16 Nanded
+Kh
+a
+t
+gaon
+k
+ar
+P
+a
+til
+
+Bh
+as
+k
+arrao Bapurao Indian National Congress Maharashtra 17 Parbhani
+Ad
+v.
+D
+u
+dh
+gaon
+k
+ar
+G
+anes
+h
+rao Nagorao Shivsena Maharashtra 18 Jalna Danve Raosaheb Dadarao Bharatiya Janata Part
+y
+Maharashtra 19
+A
+urangabad Chandrakant Khaire Shivsena Maharashtra 20 Dindori Chavan Harishchandra Deoram Bharatiya Janata Part
+y
+Maharashtra 21 Nashi
+k
+Sameer Bhujbal Nationalist Congress Party Maharashtra 22 Palghar Jadhav Baliram Sukur Bahujan Vikas Aaghadi
+Maharashtra 23 Bhiwandi Taware Suresh Kashinath Indian National Congress
+Maharashtra 24 Kalyan
+A
+nand Prakash Paranjape Shivsena Maharashtra 25 Thane Dr.Sanjeev Ganesh Nai
+k
+Nationalist Congress Party Maharashtra 26 Mumbai North Sanjay Brijkishorlal Nirupam Indian National Congress
+Maharashtra 27 Mumbai North West
+A
+d.Kamat Gurudas Vasant Indian National Congress Maharashtra 28 Mumbai North East Sanjay Dina Patil Nationalist Congress Party
+Maharashtra 29 Mumbai North Central Dutt Priya Sunil Indian National Congress
+Maharashtra 30 Mumbai South Central Eknath M. Gaikwad Indian National Congress
+Maharashtra 31 Mumbai South Deora Milind Murli Indian National Congress
+Maharashtra 32 Raigad
+A
+nant Geete Shivsena Maharashtra 33 Maval Babar Gajanan Dharmshi Shivsena
+Maharashtra 34 Pune Kalmadi Suresh Indian National Congress
+Maharashtra 35 Baramati Supriya Sule Nationalist Congress Party
+Maharashtra 36 Shirur
+A
+dhalrao Shivaji Dattatray Shivsena Maharashtra 37
+A
+hmadnagar Gandhi Dilipkumar Mansukhlal Bharatiya Janata Part
+y
+Maharashtra 38 Shirdi Wakchaure Bhausaheb Rajaram Shivsena
+Maharashtra 39 Beed Munde Gopinathrao Pandurang Bharatiya Janata Part
+y
+Maharashtra 40 Osmanabad Patil Padamsinha Bajirao Nationalist Congress Party
+Maharashtra 41 Latur
+A
+wale Jaywant Gangaram Indian National Congress Maharashtra 42 Solapur
+Shi
+n
+d
+e
+S
+us
+hilk
+umar Sambhajirao Indian National Congress Maharashtra 43 Madha
+P
+awar
+Sh
+ara
+d
+c
+h
+an
+d
+ra Govindrao Nationalist Congress Party
+Maharashtra 44 Sangli Pratik Prakashbapu Patil Indian National Congress
+Maharashtra 45 Satara
+Bh
+ons
+l
+e
+Sh
+r
+i
+man
+t
+
+Chh
+. Udyanraje Pratapsinhmaharaj Nationalist Congress Party Maharashtra 46 Ratnagiri - Sindhudurg Dr.Nilesh Narayan Ran
+e
+Indian National Congress Maharashtra 47 Kolhapur Sadashivrao Dadoba Mandlik Independen
+t
+Maharashtra 48 Hatkanangle Shetti Raju Alias Devappa Anna Swabhimani Paksha
+Manipur 1 Inner Manipur Dr. Thokchom Meinya Indian National Congress
+Manipur 2 Outer Manipur Thangso Baite Indian National Congress
+Meghalaya 1 Shillong
+V
+incent H Pala Indian National Congress Meghalaya 2 Tura
+A
+gatha K. Sangma Nationalist Congress Party Mizoram 1 Mizoram C.L.Ruala Indian National Congress
+Nagaland 1 Nagaland C.M. Chang Nagaland Peoples Fron
+t
+Orissa 1 Bargarh Sanjay Bhoi Indian National Congress
+Orissa 2 Sundargarh Hemanand Biswal Indian National Congress
+Orissa 3 Sambalpur
+A
+marnath Pradhan Indian National Congress Orissa 4 Keonjhar Yashbant Narayan Singh Laguri Biju Janata Dal
+Orissa 5 Mayurbhanj Laxman Tudu Biju Janata Dal
+Orissa 6 Balasore Srikant Kumar Jena Indian National Congress
+Orissa 7 Bhadrak
+A
+rjun Charan Sethi Biju Janata Dal Orissa 8 Jajpur Mohan Jena Biju Janata Dal
+Orissa 9 Dhenkanal Tathagata Satpath
+y
+Biju Janata Dal Orissa 10 Bolangir Kalikesh Narayan Singh Deo Biju Janata Dal
+Orissa 11 Kalahandi Bhakta Charan Das Indian National Congress
+Orissa 12 Nabarangpur Pradeep Kumar Majhi Indian National Congress
+Orissa 13 Kandhamal Rudramadhab Ra
+y
+Biju Janata Dal Orissa 14 Cuttack Bhartruhari Mahtab Biju Janata Dal
+Orissa 15 Kendrapara Baijayant Panda Biju Janata Dal
+Orissa 16 Jagatsinghpur Bibhu Prasad Tarai Communist Party of India
+Orissa 17 Puri Pinaki Misra Biju Janata Dal
+Orissa 18 Bhubaneswar Prasanna Kumar Patasani Biju Janata Dal
+Orissa 19
+A
+ska Nityananda Pradhan Biju Janata Dal Orissa 20 Berhampur Sidhant Mohapatra Biju Janata Dal
+Orissa 21 Koraput Jayaram Pangi Biju Janata Dal
+Punjab 1 Gurdaspur Partap Singh Bajwa Indian National Congress
+Punjab 2
+A
+mritsar Navjot Singh Sidhu Bharatiya Janata Part
+y
+Punjab 3 Khadoor Sahib Dr. Rattan Singh Ajnala Shiromani Akali Dal
+Punjab 4 Jalandhar Mohinder Singh Kaypee Indian National Congress
+Punjab 5 Hoshiarpur Santosh Chowdhary Indian National Congress
+Punjab 6
+A
+nandpur Sahib Ravneet Singh Indian National Congress Punjab 7 Ludhiana Manish Tewari Indian National Congress
+Punjab 8 Fatehgarh Sahib Sukhdev Singh Indian National Congress
+Punjab 9 Faridkot Paramjit Kaur Gulshan Shiromani Akali Dal
+Punjab 10 Ferozpur Sher Singh Ghubaya Shiromani Akali Dal
+Punjab 11 Bathinda Harsimrat Kaur Badal Shiromani Akali Dal
+Punjab 12 Sangrur
+V
+ijay Inder Singla Indian National Congress Punjab 13 Patiala Preneet Kaur Indian National Congress
+Rajasthan 1 Ganganaga
+r
+Bharat Ram Meghwal Indian National Congress Rajasthan 2 Bikaner
+A
+rjun Ram Meghwal Bharatiya Janata Part
+y
+Rajasthan 3 Churu Ram Singh Kaswan Bharatiya Janata Part
+y
+Rajasthan 4 Jhunjhunu Sheesh Ram Ola Indian National Congress
+Rajasthan 5 Sikar Mahadev Singh Indian National Congress
+Rajasthan 6 Jaipur Rural Lal Chand Kataria Indian National Congress
+Rajasthan 7 Jaipur Mahesh Joshi Indian National Congress
+Rajasthan 8
+A
+lwar Jitendra Singh Indian National Congress Rajasthan 9 Bharatpur Ratan Singh Indian National Congress
+Rajasthan 10 Karauli-Dholpur Khiladi Lal Bairwa Indian National Congress
+Rajasthan 11 Dausa Kirodi Lal Independen
+t
+Rajasthan 13
+A
+jmer Sachin Pilot Indian National Congress Rajasthan 14 Nagau
+r
+Dr. Jyoti Mirdha Indian National Congress Rajasthan 15 Pali Badri Ram Jakhar Indian National Congress
+Rajasthan 16 Jodhpur Chandresh Kumari Indian National Congress
+Rajasthan 17 Barmer Harish Choudhary Indian National Congress
+Rajasthan 18 Jalore Devji Patel Bharatiya Janata Part
+y
+Rajasthan 19 Udaipur Raghuvir Singh Meena Indian National Congress
+Rajasthan 20 Banswara Tarachand Bhagora Indian National Congress
+Rajasthan 21 Chittorgarh (Dr.)girija Vya
+s
+Indian National Congress Rajasthan 22 Rajsamand Gopal Singh Indian National Congress
+Rajasthan 23 Bhilwara Dr. C. P. Joshi Indian National Congress
+Rajasthan 24 Kota Ijyaraj Singh Indian National Congress
+Rajasthan 25 Jhalawar-Baran Dushyant Singh Bharatiya Janata Part
+y
+Sikkim 1 Sikkim Prem Das Rai Sikkim Democratic Front
+Tamil Nadu 1 Thiruvallur
+V
+enugopal.P
+A
+ll India Anna Dravida Munnetra Kazhagam Tamil Nadu 2 Chennai North Elangovan T.K.S Dravida Munnetra Kazhagam
+Tamil Nadu 3 Chennai South Rajendran C
+A
+ll India Anna Dravida Munnetra Kazhagam Tamil Nadu 4 Chennai Central Dayanidhi Maran Dravida Munnetra Kazhagam
+Tamil Nadu 5 Sriperumbudur Baalu T
+R
+Dravida Munnetra Kazhagam Tamil Nadu 6 Kancheepuram
+V
+iswanathan.P Indian National Congress Tamil Nadu 7
+A
+rakkonam Jagathrakshakan Dravida Munnetra Kazhagam Tamil Nadu 8
+V
+ellore
+A
+bdulrahman Dravida Munnetra Kazhagam Tamil Nadu 9 Krishnagiri Sugavanam. E.G. Dravida Munnetra Kazhagam
+Tamil Nadu 10 Dharmapuri Thamaraiselvan.
+R
+Dravida Munnetra Kazhagam Tamil Nadu 11 Tiruvannamalai
+V
+enugopal.D Dravida Munnetra Kazhagam Tamil Nadu 12
+A
+rani Krishnasamy M Indian National Congress Tamil Nadu 13
+V
+iluppuram
+A
+nandan M
+A
+ll India Anna Dravida Munnetra Kazhagam Tamil Nadu 14 Kallakurichi Sankar Adhi Dravida Munnetra Kazhagam
+Tamil Nadu 15 Salem Semmalai S
+A
+ll India Anna Dravida Munnetra Kazhagam Tamil Nadu 16 Namakkal Gandhiselvan.S Dravida Munnetra Kazhagam
+Tamil Nadu 17 Erode Ganeshamurthi.A. Marumalarchi Dravida Munnetra Kazhagam
+Tamil Nadu 18 Tiruppur Sivasami C
+A
+ll India Anna Dravida Munnetra Kazhagam Tamil Nadu 19 Nilgiris Raja
+A
+Dravida Munnetra Kazhagam Tamil Nadu 20 Coimbatore Natarajan.P.R. Communist Party of India (Marxist)
+Tamil Nadu 21 Pollachi Sugumar.K
+A
+ll India Anna Dravida Munnetra Kazhagam Tamil Nadu 22 Dindigul Chitthan N S V Indian National Congress
+Tamil Nadu 23 Karur Tambidurai.M
+A
+ll India Anna Dravida Munnetra Kazhagam Tamil Nadu 24 Tiruchirappalli Kumar.P
+A
+ll India Anna Dravida Munnetra Kazhagam Tamil Nadu 25 Perambalur Napoleon,D. Dravida Munnetra Kazhagam
+Tamil Nadu 26 Cuddalore
+A
+lagiri S Indian National Congress Tamil Nadu 27 Chidambaram Thirumaavalavan, Thol
+V
+iduthalai Chiruthaigal Katch Tamil Nadu 28 Mayiladuthurai Manian O.S
+A
+ll India Anna Dravida Munnetra Kazhagam Tamil Nadu 29 Nagapattinam
+V
+ijayan A K S Dravida Munnetra Kazhagam Tamil Nadu 30 Thanjavur Palanimanickam.S.S Dravida Munnetra Kazhagam
+Tamil Nadu 31 Sivaganga Chidambaram P Indian National Congress
+Tamil Nadu 32 Madurai
+A
+lagiri M.
+K
+Dravida Munnetra Kazhagam Tamil Nadu 33 Theni
+A
+aron Rashid.J.M Indian National Congress Tamil Nadu 34
+V
+irudhunagar Manicka Tagore Indian National Congress Tamil Nadu 35 Ramanathapuram Sivakumar @ J.K. Ritheesh.
+K
+Dravida Munnetra Kazhagam Tamil Nadu 36 Thoothukkudi Jeyadurai.S.
+R
+Dravida Munnetra Kazhagam Tamil Nadu 37 Tenkasi Lingam P Communist Party of India
+Tamil Nadu 38 Tirunelveli Ramasubbu S Indian National Congress
+Tamil Nadu 39 Kanniyakumari Helen Davidson J Dravida Munnetra Kazhagam
+Tripura 1 Tripura West Khagen Das Communist Party of India (Marxist)
+Tripura 2 Tripura East Baju Ban Riyan Communist Party of India (Marxist)
+Uttar Pradesh 1 Saharanpur Jagdish Singh Rana Bahujan Samaj Party
+Uttar Pradesh 2 Kairana Tabassum Begum Bahujan Samaj Party
+Uttar Pradesh 3 Muzaffarnagar Kadir Rana Bahujan Samaj Party
+Uttar Pradesh 4 Bijnor Sanjay Singh Chauhan Rashtriya Lok Dal
+Uttar Pradesh 5 Nagina
+Y
+ashvir Singh Samajwadi Part
+y
+Uttar Pradesh 6 Moradabad Mohammed Azharuddin Indian National Congress
+Uttar Pradesh 7 Rampur Jaya Prada Nahata Samajwadi Part
+y
+Uttar Pradesh 8 Sambhal Dr. Shafiqur Rahman Barq Bahujan Samaj Party
+Uttar Pradesh 9
+A
+mroha Devendra Nagpal Rashtriya Lok Dal Uttar Pradesh 10 Meerut Rajendra Agarwal Bharatiya Janata Part
+y
+Uttar Pradesh 11 Baghpa
+t
+A
+jit Singh Rashtriya Lok Dal Uttar Pradesh 12 Ghaziabad Rajnath Singh Bharatiya Janata Part
+y
+Uttar Pradesh 13 Gautam Buddh Naga
+r
+Surendra Singh Nagar Bahujan Samaj Party Uttar Pradesh 14 Bulandshahr Kamlesh Samajwadi Part
+y
+Uttar Pradesh 15
+A
+ligarh Raj Kumari Chauhan Bahujan Samaj Party Uttar Pradesh 16 Hathras Sarika Singh Rashtriya Lok Dal
+Uttar Pradesh 17 Mathura Jayant Chaudhary Rashtriya Lok Dal
+Uttar Pradesh 18
+A
+gra Dr. Ramshankar Bharatiya Janata Part
+y
+Uttar Pradesh 19 Fatehpur Sikri Seema Upadhya
+y
+Bahujan Samaj Party Uttar Pradesh 20 Firozabad
+A
+khilesh Yada
+v
+Samajwadi Part
+y
+Uttar Pradesh 21 Mainpuri Mulayam Singh Yada
+v
+Samajwadi Part
+y
+Uttar Pradesh 22 Etah Kalyan Singh R O Madholi Independen
+t
+Uttar Pradesh 23 Badaun Dharmendra Yada
+v
+Samajwadi Part
+y
+Uttar Pradesh 24
+A
+onla Menka Gandhi Bharatiya Janata Part
+y
+Uttar Pradesh 25 Bareill
+y
+Praveen Singh Aron Indian National Congress Uttar Pradesh 26 Pilibhi
+t
+Feroze Varun Gandhi Bharatiya Janata Part
+y
+Uttar Pradesh 27 Shahjahanpur Mithlesh Samajwadi Part
+y
+Uttar Pradesh 28 Kheri Zafar Ali Naqvi Indian National Congress
+Uttar Pradesh 29 Dhaurahra Kunwar Jitin Prasad Indian National Congress
+Uttar Pradesh 30 Sitapur Kaisar Jahan Bahujan Samaj Party
+Uttar Pradesh 31 Hardoi Usha Verma Samajwadi Part
+y
+Uttar Pradesh 32 Misrikh
+A
+shok Kumar Rawat Bahujan Samaj Party Uttar Pradesh 33 Unnao
+A
+nnutandon Indian National Congress Uttar Pradesh 34 Mohanlalganj Sushila Saroj Samajwadi Part
+y
+Uttar Pradesh 35 Lucknow Lal Ji Tandon Bharatiya Janata Part
+y
+Uttar Pradesh 36 Rae Bareli Sonia Gandhi Indian National Congress
+Uttar Pradesh 37
+A
+methi Rahul Gandhi Indian National Congress Uttar Pradesh 38 Sultanpur Dr.Sanjay Singh Indian National Congress
+Uttar Pradesh 39 Pratapgarh Rajkumari Ratna Singh Indian National Congress
+Uttar Pradesh 40 Farrukhabad Salman Khursheed Indian National Congress
+Uttar Pradesh 41 Etawah Premdas Samajwadi Part
+y
+Uttar Pradesh 42 Kannauj
+A
+khilesh Yada
+v
+Samajwadi Part
+y
+Uttar Pradesh 43 Kanpur Sri Prakash Jaiswal Indian National Congress
+Uttar Pradesh 44
+A
+kbarpur Rajaram Pal Indian National Congress Uttar Pradesh 45 Jalaun Ghansyam Anuragi Samajwadi Part
+y
+Uttar Pradesh 46 Jhansi Pradeep Kumar Jain (Aditya) Indian National Congress
+Uttar Pradesh 47 Hamirpur
+V
+ijay Bahadur Singh Bahujan Samaj Party Uttar Pradesh 48 Banda R. K. Singh Patel Samajwadi Part
+y
+Uttar Pradesh 49 Fatehpur Rakesh Sachan Samajwadi Part
+y
+Uttar Pradesh 50 Kaushambi Shailendra Kumar Samajwadi Part
+y
+Uttar Pradesh 51 Phulpur Kapil Muni Karwariya Bahujan Samaj Party
+Uttar Pradesh 52 Allahabad
+K
+unwar
+R
+ewa
+ti
+
+R
+aman
+Si
+ng
+h
+ Alias Mani Ji Samajwadi Party Uttar Pradesh 53 Barabanki P.L.Punia Indian National Congress
+Uttar Pradesh 54 Faizabad Nirmal Khatri Indian National Congress
+Uttar Pradesh 55
+A
+mbedkar Naga
+r
+Rakesh Pande
+y
+Bahujan Samaj Party Uttar Pradesh 56 Bahraich Kamal Kishor Indian National Congress
+Uttar Pradesh 57 Kaiserganj Brijbhushan Sharan Singh Samajwadi Part
+y
+Uttar Pradesh 58 Shrawasti
+V
+inay Kumar Alias Vinnu Indian National Congress Uttar Pradesh 59 Gonda Beni Prasad Verma Indian National Congress
+Uttar Pradesh 60 Domariyaganj Jagdambika Pal Indian National Congress
+Uttar Pradesh 61 Basti
+A
+rvind Kumar Chaudhary Bahujan Samaj Party Uttar Pradesh 62 Sant Kabir Nagar
+Bhi
+sma
+Sh
+an
+k
+ar
+Ali
+as
+K
+us
+h
+a
+l
+ Tiwari Bahujan Samaj Party Uttar Pradesh 63 Maharajganj Harsh Vardhan Indian National Congress
+Uttar Pradesh 64 Gorakhpur
+A
+dityanath Bharatiya Janata Part
+y
+Uttar Pradesh 65 Kushi Nagar
+K
+u.
+R
+a
+t
+an
+j
+ee
+t
+
+P
+ra
+t
+ap
+N
+arayan Singh Indian National Congress Uttar Pradesh 66 Deoria Gorakh Prasad Jaiswal Bahujan Samaj Party
+Uttar Pradesh 67 Bansgaon Kamlesh Paswan Bharatiya Janata Part
+y
+Uttar Pradesh 68 Lalganj Dr. Baliram Bahujan Samaj Party
+Uttar Pradesh 69
+A
+zamgarh Ramakant Yada
+v
+Bharatiya Janata Part
+y
+Uttar Pradesh 70 Ghosi Dara Singh Chauhan Bahujan Samaj Party
+Uttar Pradesh 71 Salempur Ramashankar Rajbhar Bahujan Samaj Party
+Uttar Pradesh 72 Ballia Neeraj Shekha
+r
+Samajwadi Part
+y
+Uttar Pradesh 73 Jaunpur Dhananjay Singh Bahujan Samaj Party
+Uttar Pradesh 74 Machhlishahr Tufani Saroj Samajwadi Part
+y
+Uttar Pradesh 75 Ghazipur Radhey Mohan Singh Samajwadi Part
+y
+Uttar Pradesh 77
+V
+aranasi Dr. Murli Manohar Joshi Bharatiya Janata Part
+y
+Uttar Pradesh 78 Bhadohi Gorakhnath Bahujan Samaj Party
+Uttar Pradesh 79 Mirzapur Bal Kumar Patel Samajwadi Part
+y
+Uttar Pradesh 80 Robertsganj Pakauri Lal Samajwadi Part
+y
+West Bengal 1 Cooch Behar Nripendra Nath Ro
+y
+A
+ll India Forward Bloc West Bengal 2
+A
+lipurduars Manohar Tirkey Revolutionary Socialist Party West Bengal 3 Jalpaiguri Mahendra Kumar Roy Communist Party of India (Marxist)
+West Bengal 4 Darjeeling Jaswant Singh Bharatiya Janata Part
+y
+West Bengal 5 Raiganj Deepa Dasmunsi Indian National Congress
+West Bengal 6 Balurghat Prasanta Kumar Majumdar Revolutionary Socialist Party
+West Bengal 7 Maldaha Uttar Mausam Noor Indian National Congress
+West Bengal 8 Maldaha Dakshin
+A
+bu Hasem Khan Choudhury Indian National Congress West Bengal 9 Jangipur Pranab Mukherjee Indian National Congress
+West Bengal 10 Baharampur
+A
+dhir Ranjan Chowdhury Indian National Congress West Bengal 11 Murshidabad
+A
+bdul Mannan Hossain Indian National Congress West Bengal 12 Krishnanagar Tapas Paul
+A
+ll India Trinamool Congress West Bengal 13 Ranaghat Sucharu Ranjan Haldar
+A
+ll India Trinamool Congress West Bengal 14 Bangaon Gobinda Chandra Naska
+r
+A
+ll India Trinamool Congress West Bengal 15 Barrackpore Dinesh Trivedi
+A
+ll India Trinamool Congress West Bengal 16 Dum Dum Saugata Ra
+y
+A
+ll India Trinamool Congress West Bengal 17 Barasat Kakali Ghosh Dastida
+r
+A
+ll India Trinamool Congress West Bengal 18 Basirhat Sk. Nurul Islam
+A
+ll India Trinamool Congress West Bengal 19 Joynagar Dr. Tarun Mondal Independen
+t
+West Bengal 20 Mathurapur Choudhury Mohan Jatua
+A
+ll India Trinamool Congress West Bengal 21 Diamond Harbour Somendra Nath Mitra
+A
+ll India Trinamool Congress West Bengal 22 Jadavpur Kabir Suman
+A
+ll India Trinamool Congress West Bengal 23 Kolkata Dakshin Mamata Banerjee
+A
+ll India Trinamool Congress West Bengal 24 Kolkata Uttar Sudip Bandyopadhya
+y
+A
+ll India Trinamool Congress West Bengal 25 Howrah
+A
+mbica Banerjee
+A
+ll India Trinamool Congress West Bengal 26 Uluberia Sultan Ahmed
+A
+ll India Trinamool Congress West Bengal 27 Srerampur Kalyan Banerjee
+A
+ll India Trinamool Congress West Bengal 28 Hooghly Dr. Ratna De(Nag)
+A
+ll India Trinamool Congress West Bengal 29
+A
+rambagh Malik Sakti Mohan Communist Party of India (Marxist) West Bengal 30 Tamlu
+k
+A
+dhikari Suvendu
+A
+ll India Trinamool Congress West Bengal 31 Kanthi
+A
+dhikari Sisir Kumar
+A
+ll India Trinamool Congress West Bengal 32 Ghatal Gurudas Dasgupta Communist Party of India
+West Bengal 33 Jhargram Pulin Bihari Baske Communist Party of India (Marxist)
+West Bengal 34 Medinipur Prabodh Panda Communist Party of India
+West Bengal 35 Purulia Narahari Mahato
+A
+ll India Forward Bloc West Bengal 36 Bankura
+A
+charia Basudeb Communist Party of India (Marxist) West Bengal 37 Bishnupur Susmita Bauri Communist Party of India (Marxist)
+West Bengal 38 Bardhaman Purba
+A
+nup Kumar Saha Communist Party of India (Marxist) West Bengal 39 Burdwan - Durgapur Sk. Saidul Haque Communist Party of India (Marxist)
+West Bengal 40
+A
+sansol Bansa Gopal Chowdhury Communist Party of India (Marxist) West Bengal 41 Bolpur Doctor Ram Chandra Dome Communist Party of India (Marxist)
+West Bengal 42 Birbhum Satabdi Ro
+y
+A
+ll India Trinamool Congress Chattisgarh 1 Sarguja Murarilal Singh Bharatiya Janata Part
+y
+Chattisgarh 2 Raigarh
+V
+ishnu Deo Sai Bharatiya Janata Part
+y
+Chattisgarh 3 Janjgir-Champa Shrimati Kamla Devi Patle Bharatiya Janata Part
+y
+Chattisgarh 4 Korba Charan Das Mahant Indian National Congress
+Chattisgarh 5 Bilaspur Dilip Singh Jude
+v
+Bharatiya Janata Part
+y
+Chattisgarh 6 Rajnandgaon Madhusudan Yadav Bharatiya Janata Part
+y
+Chattisgarh 7 Durg Saroj Pandey Bharatiya Janata Part
+y
+Chattisgarh 8 Raipur Ramesh Bais Bharatiya Janata Part
+y
+Chattisgarh 9 Mahasamund
+Ch
+an
+d
+u
+l
+a
+l
+
+S
+a
+h
+u
+(Ch
+an
+d
+u Bhaiya) Bharatiya Janata Party Chattisgarh 10 Bastar Baliram Kashyap Bharatiya Janata Part
+y
+Chattisgarh 11 Kanker Sohan Potai Bharatiya Janata Part
+y
+Jharkhand 1 Rajmahal Devidhan Besra Bharatiya Janata Part
+y
+Jharkhand 2 Dumka Shibu Soren Jharkhand Mukti Morcha
+Jharkhand 3 Godda Nishikant Dube
+y
+Bharatiya Janata Part
+y
+Jharkhand 4 Chatra Inder Singh Namdhari Independen
+t
+Jharkhand 5 Kodarma Babulal Marandi Jharkhand Vikas Morcha (Prajatantrik)
+Jharkhand 6 Giridih Ravindra Kumar Pande
+y
+Bharatiya Janata Part
+y
+Jharkhand 7 Dhanbad Pashupati Nath Singh Bharatiya Janata Part
+y
+Jharkhand 8 Ranchi Subodh Kant Sahay Indian National Congress
+Jharkhand 9 Jamshedpur
+A
+rjun Munda Bharatiya Janata Part
+y
+Jharkhand 10 Singhbhum Madhu Kora Independen
+t
+Jharkhand 11 Khunti Karia Munda Bharatiya Janata Part
+y
+Jharkhand 12 Lohardaga Sudarshan Bhagat Bharatiya Janata Part
+y
+Jharkhand 13 Palamau Kameshwar Baitha Jharkhand Mukti Morcha
+Jharkhand 14 Hazaribagh
+Y
+ashwant Sinha Bharatiya Janata Part
+y
+Uttarakhand 1 Tehri Garhwal
+V
+ijay Bahuguna Indian National Congress Uttarakhand 2 Garhwal Satpal Maharaj Indian National Congress
+Uttarakhand 3
+A
+lmora Pradeep Tamta Indian National Congress Uttarakhand 4
+N
+a
+i
+n
+it
+a
+l
+-
+Udh
+ams
+i
+ng
+h
+ Nagar K.C. Singh Baba Indian National Congress Uttarakhand 5 Hardwar Harish Rawat Indian National Congress
+A
+n
+d
+aman
+&
+
+Ni
+co
+b
+ar Islands 1
+A
+n
+d
+aman
+&
+
+Ni
+co
+b
+ar Islands Shri. Bishnu Pada Ray Bharatiya Janata Party Chandigarh 1 Chandigarh Pawan Kumar Bansal Indian National Congress
+Dadra & Nagar Haveli 1 Dadar & Nagar Haveli Patel Natubhai Gomanbhai Bharatiya Janata Part
+y
+Daman & Diu 1 Daman & Diu Lalubhai Patel Bharatiya Janata Part
+y
+Nct Of Delhi 1 Chandni Chowk Kapil Sibal Indian National Congress
+Nct Of Delhi 2 North East Delhi Jai Prakash Agarwal Indian National Congress
+Nct Of Delhi 3 East Delhi Sandeep Dikshi
+t
+Indian National Congress Nct Of Delhi 4 New Delhi
+A
+jay Makan Indian National Congress Nct Of Delhi 5 North West Delhi Krishna Tirath Indian National Congress
+Nct Of Delhi 6 West Delhi Mahabal Mishra Indian National Congress
+Nct Of Delhi 7 South Delhi Ramesh Kumar Indian National Congress
+Lakshadweep 1 Lakshadweep
+M
+u
+h
+amme
+d
+
+H
+am
+d
+u
+ll
+a
+S
+ayee
+d
+ A.B Indian National Congress Puducherry 1 Puducherry Narayanasam
+y
+Indian National Congress

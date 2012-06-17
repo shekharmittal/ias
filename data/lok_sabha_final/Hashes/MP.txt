@@ -1,0 +1,29 @@
+MORENA (SC),Madhya Pradesh
+BHIND,Madhya Pradesh
+GWALIOR,Madhya Pradesh
+GUNA,Madhya Pradesh
+SAGAR (SC),Madhya Pradesh
+KHAJURAHO,Madhya Pradesh
+DAMOH,Madhya Pradesh
+SATNA,Madhya Pradesh
+REWA,Madhya Pradesh
+SIDHI (ST),Madhya Pradesh
+SHAHDOL (ST),Madhya Pradesh
+BALAGHAT,Madhya Pradesh
+MANDLA (ST),Madhya Pradesh
+JABALPUR,Madhya Pradesh
+SEONI,Madhya Pradesh
+CHHINDWARA,Madhya Pradesh
+BETUL,Madhya Pradesh
+HOSHANGABAD,Madhya Pradesh
+BHOPAL,Madhya Pradesh
+VIDISHA,Madhya Pradesh
+RAJGARH,Madhya Pradesh
+SHAJAPUR (SC),Madhya Pradesh
+KHANDWA,Madhya Pradesh
+KHARGONE,Madhya Pradesh
+DHAR (ST),Madhya Pradesh
+INDORE,Madhya Pradesh
+UJJAIN (SC),Madhya Pradesh
+JHABUA (ST),Madhya Pradesh
+MANDSAUR,Madhya Pradesh

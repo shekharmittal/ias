@@ -1,0 +1,28 @@
+BIDAR (SC),Karnataka
+GULBARGA,Karnataka
+RAICHUR,Karnataka
+KOPPAL,Karnataka
+BELLARY,Karnataka
+DAVANGERE,Karnataka
+CHITRADURGA,Karnataka
+TUMKUR,Karnataka
+CHIKBALLAPUR,Karnataka
+KOLAR (SC),Karnataka
+KANAKAPURA,Karnataka
+BANGALORE NORTH,Karnataka
+BANGALORE SOUTH,Karnataka
+MANDYA,Karnataka
+CHAMARAJANAGAR (SC),Karnataka
+MYSORE,Karnataka
+MANGALORE,Karnataka
+UDUPI,Karnataka
+HASSAN,Karnataka
+CHIKMAGALUR,Karnataka
+SHIMOGA,Karnataka
+KANARA,Karnataka
+DHARWAD SOUTH,Karnataka
+DHARWAD NORTH,Karnataka
+BELGAUM,Karnataka
+CHIKKODI (SC),Karnataka
+BAGALKOT,Karnataka
+BIJAPUR,Karnataka

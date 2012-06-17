@@ -1,0 +1,25 @@
+GANGANAGAR (SC),Rajasthan
+BIKANER,Rajasthan
+CHURU,Rajasthan
+JHUNJHUNU,Rajasthan
+SIKAR,Rajasthan
+JAIPUR,Rajasthan
+DAUSA,Rajasthan
+ALWAR,Rajasthan
+BHARATPUR,Rajasthan
+BAYANA (SC),Rajasthan
+SAWAI MADHOPUR (ST),Rajasthan
+AJMER,Rajasthan
+TONK (SC),Rajasthan
+KOTA,Rajasthan
+JHALAWAR,Rajasthan
+BANSWARA (ST),Rajasthan
+SALUMBER (ST),Rajasthan
+UDAIPUR,Rajasthan
+CHITTORGARH,Rajasthan
+BHILWARA,Rajasthan
+PALI,Rajasthan
+JALORE (SC),Rajasthan
+BARMER,Rajasthan
+JODHPUR,Rajasthan
+NAGAUR,Rajasthan

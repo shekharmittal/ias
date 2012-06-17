@@ -1,0 +1,10 @@
+AMBALA (SC),Haryana
+KURUKSHETRA,Haryana
+KARNAL,Haryana
+SONEPAT,Haryana
+ROHTAK,Haryana
+FARIDABAD,Haryana
+MAHENDRAGARH,Haryana
+BHIWANI,Haryana
+HISSAR,Haryana
+SIRSA (SC),Haryana

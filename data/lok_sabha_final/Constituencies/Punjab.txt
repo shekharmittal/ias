@@ -1,0 +1,13 @@
+Gurdaspur:Punjab
+Amritsar:Punjab
+Tarn Taran:Punjab
+Jullundur:Punjab
+Phillaur (SC):Punjab
+Hoshiarpur:Punjab
+Ropar (SC):Punjab
+Patiala:Punjab
+Ludhiana:Punjab
+Sangrur:Punjab
+Bhatinda (SC):Punjab
+Faridkot:Punjab
+Ferozepur:Punjab

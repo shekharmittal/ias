@@ -1,0 +1,11 @@
+SURGUJA (ST),Chattisgarh
+RAIGARH (ST),Chattisgarh
+JANJGIR,Chattisgarh
+BILASPUR (SC),Chattisgarh
+SARANGARH (SC),Chattisgarh
+RAIPUR,Chattisgarh
+MAHASAMUND,Chattisgarh
+KANKER (ST),Chattisgarh
+BASTAR (ST),Chattisgarh
+DURG,Chattisgarh
+RAJNANDGAON,Chattisgarh

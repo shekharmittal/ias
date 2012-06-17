@@ -1,0 +1,2521 @@
+ST_CODE,PC_NAME,ST_NAME,CAND_NAME,PARTYABBRE,YEAR,PC_NO,PC_TYPE,MONTH,CAND_SEX,TOTVOTPOLL
+S01,Srikakulam,ANDHRA,Yerrannaidu Kinjarapu,TDP,1999,1,GEN,7,M,373851
+S01,Parvathipuram,ANDHRA,Dadichiluka Veera Gouri Sankara Rao,TDP,1999,2,ST,7,M,304000
+S01,Bobbili,ANDHRA,Botcha Satyanarayana,INC,1999,3,GEN,7,M,339768
+S01,Visakhapatnam,ANDHRA,M.V.V.S.Murthy,TDP,1999,4,GEN,7,M,442036
+S01,Bhadrachalam,ANDHRA,Dumpa Mary Vijaya Kumari,TDP,1999,5,ST,7,F,293593
+S01,Anakapalli,ANDHRA,Ganta Srinivasa Rao,TDP,1999,6,GEN,7,M,392984
+S01,Kakinada,ANDHRA,Mudragada Padmanabham,TDP,1999,7,GEN,7,M,435811
+S01,Rajahmundry,ANDHRA,Satyanarayana Rao S.B.P.B.K,BJP,1999,8,GEN,7,M,411956
+S01,Amalapuram,ANDHRA,Ganti Mohanachandra Balayogi,TDP,1999,9,SC,7,M,368476
+S01,Narasapur,ANDHRA,Uppalapati Venkata Krishnam Raju,BJP,1999,10,GEN,7,M,421099
+S01,Eluru,ANDHRA,Bolla Bulli Ramaiah,TDP,1999,11,GEN,7,M,435884
+S01,Machilipatnam,ANDHRA,Ambati Brahmanaiah,TDP,1999,12,GEN,7,M,387533
+S01,Vijayawada,ANDHRA,Gadde Rama Mohan,TDP,1999,13,GEN,7,M,482968
+S01,Tenali,ANDHRA,Ummareddy Venkateswarlu,TDP,1999,14,GEN,7,M,339800
+S01,Guntur,ANDHRA,Yemparala Venkateswararao,TDP,1999,15,GEN,7,M,399065
+S01,Bapatla,ANDHRA,D. Rama Naidu,TDP,1999,16,GEN,7,M,399596
+S01,Narasaraopet,ANDHRA,Janardhanareddy Nedurumalli,INC,1999,17,GEN,7,M,432266
+S01,Ongole,ANDHRA,Karanam Balarama Krishna Murthy,TDP,1999,18,GEN,7,M,392840
+S01,Nellore,ANDHRA,Rajeswaramma Vukkala,TDP,1999,19,SC,7,F,381166
+S01,Tirupathi,ANDHRA,Dr.N.Venkataswamy,BJP,1999,20,SC,7,M,386478
+S01,Chittoor,ANDHRA,Noothana Kalva Ramakrishna Reddy,TDP,1999,21,GEN,7,M,419208
+S01,Rajampet,ANDHRA,Gunipati Ramaiah,TDP,1999,22,GEN,7,M,322107
+S01,Cuddapah,ANDHRA,Vivekananda Reddy  Y.S.,INC,1999,23,GEN,7,M,367833
+S01,Hindupur,ANDHRA,B.K. Parthasarathi,TDP,1999,24,GEN,7,M,432575
+S01,Anantapur,ANDHRA,Kalava Srinivasulu,TDP,1999,25,GEN,7,M,378488
+S01,Kurnool,ANDHRA,Kambhalapati E. Krishna Murthy,TDP,1999,26,GEN,7,M,385688
+S01,Nandyal,ANDHRA,Bhuma  Nagi Reddy,TDP,1999,27,GEN,7,M,391655
+S01,Nagarkurnool,ANDHRA,Dr.Manda Jagannath,TDP,1999,28,SC,7,M,431095
+S01,Mahabubnagar,ANDHRA,A.P.Jitender Reddy,BJP,1999,29,GEN,7,M,391588
+S01,Hyderabad,ANDHRA,Sultan Salahuddin Owaisi,AIMIM,1999,30,GEN,7,M,448165
+S01,Secunderabad,ANDHRA,Bandaru Dattatraya,BJP,1999,31,GEN,7,M,506626
+S01,Siddipet,ANDHRA,M. Rajaiah,TDP,1999,32,SC,7,M,583346
+S01,Medak,ANDHRA,A. Narendra,BJP,1999,33,GEN,7,M,400244
+S01,Nizamabad,ANDHRA,Ganga Reddy Gaddam,TDP,1999,34,GEN,7,M,373260
+S01,Adilabad,ANDHRA,Dr. S. Venugopal Chary,TDP,1999,35,GEN,7,M,390308
+S01,Peddapalli,ANDHRA,Dr.Smt.C. Suguna Kumari,TDP,1999,36,SC,7,F,406529
+S01,Karimnagar,ANDHRA,Chennamaneni Vidyasagar Rao,BJP,1999,37,GEN,7,M,398437
+S01,Hanamkonda,ANDHRA,Chada Suresh Reddy,TDP,1999,38,GEN,7,M,375285
+S01,Warangal,ANDHRA,Bodakunti Venkateshwarlu,TDP,1999,39,GEN,7,M,385593
+S01,Khammam,ANDHRA,Renuka Chowdhury,INC,1999,40,GEN,7,F,328596
+S01,Nalgonda,ANDHRA,Gutha Sukender Reddy,TDP,1999,41,GEN,7,M,427505
+S01,Miryalguda,ANDHRA,Jaipal Reddy Sudini,INC,1999,42,GEN,7,M,401437
+S04,Bagaha,BIHAR,Mahendra Baitha,JD(U),1999,1,SC,7,M,261498
+S04,Bettiah,BIHAR,Dr Madan Prasad Jaiswal,BJP,1999,2,GEN,7,M,343027
+S04,Motihari,BIHAR,Radha Mohan Singh,BJP,1999,3,GEN,7,M,338696
+S04,Gopalganj,BIHAR,Raghunath Jha,JD(U),1999,4,GEN,7,M,365107
+S04,Siwan,BIHAR,M  Sahabuddin,RJD,1999,5,GEN,7,M,385069
+S04,Maharajganj,BIHAR,Prabhunath Singh,JD(U),1999,6,GEN,7,M,398475
+S04,Chapra,BIHAR,Rajiv Pratap Rudi,BJP,1999,7,GEN,7,M,390477
+S04,Hajipur,BIHAR,Ram Vilas Paswan,JD(U),1999,8,SC,7,M,434609
+S04,Vaishali,BIHAR,Raghuvansh Prasad Singh,RJD,1999,9,GEN,7,M,308458
+S04,Muzaffarpur,BIHAR,Captain Jai Na. Pd. Nishad,JD(U),1999,10,GEN,7,M,363820
+S04,Sitamarhi,BIHAR,Nawal Kishore Rai,JD(U),1999,11,GEN,7,M,410557
+S04,Sheohar,BIHAR,Md Anwarul Haque,RJD,1999,12,GEN,7,M,347279
+S04,Madhubani,BIHAR,Hukumdeo Narayan Yadav,BJP,1999,13,GEN,7,M,328616
+S04,Jhanjharpur,BIHAR,Devendra Prasad Yadav,JD(U),1999,14,GEN,7,M,375852
+S04,Darbhanga,BIHAR,Kirti Azad,BJP,1999,15,GEN,7,M,395549
+S04,Rosera,BIHAR,Ram Chandra Paswan,JD(U),1999,16,SC,7,M,420564
+S04,Samastipur,BIHAR,Manjay Lal,JD(U),1999,17,GEN,7,M,368776
+S04,Barh,BIHAR,Nitish Kumar,JD(U),1999,18,GEN,7,M,362016
+S04,Balia,BIHAR,Ramjivan Singh,JD(U),1999,19,GEN,7,M,169443
+S04,Saharsa,BIHAR,Dinesh Chandra Yadav,JD(U),1999,20,GEN,7,M,392926
+S04,Madhepura,BIHAR,Sharad Yadav,JD(U),1999,21,GEN,7,M,328761
+S04,Araria,BIHAR,Sukdeo Paswan,RJD,1999,22,SC,7,M,308579
+S04,Kishanganj,BIHAR,Syed Shahnawaz Hussain,BJP,1999,23,GEN,7,M,258035
+S04,Purnea,BIHAR,Rajesh Ranjan,IND,1999,24,GEN,7,M,438193
+S04,Katihar,BIHAR,Nikhil Kumar Choudhary,BJP,1999,25,GEN,7,M,280911
+S04,Rajmahal,BIHAR,Thomas Hansda,INC,1999,26,ST,7,M,250298
+S04,Dumka,BIHAR,Babu Lal Marandi,BJP,1999,27,ST,7,M,201141
+S04,Godda,BIHAR,Jagdambi Prasad Yadav,BJP,1999,28,GEN,7,M,221191
+S04,Banka,BIHAR,Digvijay Singh,JD(U),1999,29,GEN,7,M,233453
+S04,Bhagalpur,BIHAR,Subodh Ray,CPM,1999,30,GEN,7,M,321159
+S04,Khagaria,BIHAR,Renu Kumari,JD(U),1999,31,GEN,7,F,293412
+S04,Monghyr,BIHAR,Brahma Nand Mandal,JD(U),1999,32,GEN,7,M,346615
+S04,Begusarai,BIHAR,Rajo Singh,INC,1999,33,GEN,7,M,318244
+S04,Nalanda,BIHAR,George Fernandes,JD(U),1999,34,GEN,7,M,464458
+S04,Patna,BIHAR,C P Thakur,BJP,1999,35,GEN,7,M,379370
+S04,Arrah,BIHAR,Ram Prasad Singh,RJD,1999,36,GEN,7,M,264140
+S04,Buxar,BIHAR,Lal Muni Choubey,BJP,1999,37,GEN,7,M,235968
+S04,Sasaram,BIHAR,Muni Lall,BJP,1999,38,SC,7,M,257223
+S04,Bikramganj,BIHAR,Kanti Singh,RJD,1999,39,GEN,7,F,346259
+S04,Aurangabad,BIHAR,Shyama Singh,INC,1999,40,GEN,7,F,317418
+S04,Jahanabad,BIHAR,Arun Kumar,JD(U),1999,41,GEN,7,M,333332
+S04,Nawada,BIHAR,Sanjay Paswan,BJP,1999,42,SC,7,M,453943
+S04,Gaya,BIHAR,Ramji Manjhi,BJP,1999,43,SC,7,M,319530
+S04,Chatra,BIHAR,Nagmani,RJD,1999,44,GEN,7,M,219783
+S04,Kodarma,BIHAR,Tilakdhari Pd Singh,INC,1999,45,GEN,7,M,273808
+S04,Giridih,BIHAR,Ravindra Kumar Pandey,BJP,1999,46,GEN,7,M,248454
+S04,Dhanbad,BIHAR,Rita Verma,BJP,1999,47,GEN,7,F,366065
+S04,Hazaribagh,BIHAR,Yashwant Sinha,BJP,1999,48,GEN,7,M,283956
+S04,Ranchi,BIHAR,Ram Tahal Choudhary,BJP,1999,49,GEN,7,M,379261
+S04,Jamshedpur,BIHAR,Abha Mahato,BJP,1999,50,GEN,7,F,285232
+S04,Singhbhum,BIHAR,Laxman Gilua,BJP,1999,51,ST,7,M,231237
+S04,Khunti,BIHAR,Kariya Munda,BJP,1999,52,ST,7,M,187484
+S04,Lohardaga,BIHAR,Dukha Bhagat,BJP,1999,53,ST,7,M,163658
+S04,Palamau,BIHAR,Braj Mohan Ram,BJP,1999,54,SC,7,M,271657
+S06,Kutch,GUJARAT,Gadhvi Pushpadan Sambhudan,BJP,1999,1,GEN,7,M,191533
+S06,Surendranagar,GUJARAT,Makwana Savshibhai Kanjibhai,INC,1999,2,GEN,7,M,244368
+S06,Jamnagar,GUJARAT,Koradiya Chandreshbhai Valjibhai (Chandresh Patel),BJP,1999,3,GEN,7,M,190726
+S06,Rajkot,GUJARAT,Dr Kathiriya Vallabhbhai Ramjibhai,BJP,1999,4,GEN,7,M,312941
+S06,Porbandar,GUJARAT,Javiya Gordhanbhai Jadavbhai,BJP,1999,5,GEN,7,M,210627
+S06,Junagadh,GUJARAT,Chikhaliya Bhavnaben Devrajbhai,BJP,1999,6,GEN,7,F,266809
+S06,Amreli,GUJARAT,Dileep Sanghani,BJP,1999,7,GEN,7,M,217670
+S06,Bhavnagar,GUJARAT,Rana Rajendrasinh Ghanshyamsinh (Rajubhai Rana),BJP,1999,8,GEN,7,M,265446
+S06,Dhandhuka,GUJARAT,Varma Ratilal Kalidas,BJP,1999,9,SC,7,M,229754
+S06,Ahmedabad,GUJARAT,Harin Pathak,BJP,1999,10,GEN,7,M,280696
+S06,Gandhinagar,GUJARAT,Lal Krishna Advani (L K Advani),BJP,1999,11,GEN,7,M,453229
+S06,Mehsana,GUJARAT,Patel Atmaram Maganbhai,INC,1999,12,GEN,7,M,340445
+S06,Patan,GUJARAT,Rashtrapal Pravinchandra Somabhai,INC,1999,13,SC,7,M,246798
+S06,Banaskantha,GUJARAT,Chaudhary Haribhai Parthibhai,BJP,1999,14,GEN,7,M,308313
+S06,Sabarkantha,GUJARAT,Nisha Amarsinh Chaudhary,INC,1999,15,GEN,7,F,334565
+S06,Kapadvanj,GUJARAT,Vaghela Shankarsinh Laxmansinh,INC,1999,16,GEN,7,M,413193
+S06,Dohad,GUJARAT,Katara Babubhai Khimabhai,BJP,1999,17,ST,7,M,232288
+S06,Godhra,GUJARAT,Solanki Bhupendrasinh Prabhatsinh,BJP,1999,18,GEN,7,M,280684
+S06,Kaira,GUJARAT,Dinsha Patel,INC,1999,19,GEN,7,M,258024
+S06,Anand,GUJARAT,Patel Dipakbhai Chimanbhai   (Sathi),BJP,1999,20,GEN,7,M,273683
+S06,Chhota Udaipur,GUJARAT,Ramsinh Rathawa,BJP,1999,21,ST,7,M,248970
+S06,Baroda,GUJARAT,Jayaben Thakkar,BJP,1999,22,GEN,7,F,322758
+S06,Broach,GUJARAT,Mansukhbhai Vasava,BJP,1999,23,GEN,7,M,290195
+S06,Surat,GUJARAT,Kashiram Rana,BJP,1999,24,GEN,7,M,423773
+S06,Mandvi,GUJARAT,Patel Mansinhbhai Kalyanji,BJP,1999,25,ST,7,M,320172
+S06,Bulsar,GUJARAT,Manibhai Ramjibhai Chaudhari,BJP,1999,26,ST,7,M,300195
+S07,Ambala,HARYANA,Rattan Lal Kataria,BJP,1999,1,SC,7,M,357460
+S07,Kurukshetra,HARYANA,Prof Kailasho Devi,INLD,1999,2,GEN,7,F,438701
+S07,Karnal,HARYANA,I.D. Swami,BJP,1999,3,GEN,7,M,433733
+S07,Sonepat,HARYANA,Kishan Singh Sangwan,BJP,1999,4,GEN,7,M,457056
+S07,Rohtak,HARYANA,Inder Singh,INLD,1999,5,GEN,7,M,366926
+S07,Faridabad,HARYANA,Ram Chander Bainda,BJP,1999,6,GEN,7,M,367842
+S07,Mahendragarh,HARYANA,Dr. Sudha Yadav,BJP,1999,7,GEN,7,F,420706
+S07,Bhiwani,HARYANA,Ajay Singh Chautala,INLD,1999,8,GEN,7,M,381255
+S07,Hissar,HARYANA,Surender Singh Barwala,INLD,1999,9,GEN,7,M,396540
+S07,Sirsa,HARYANA,Dr. Sushil Kumar Indora,INLD,1999,10,SC,7,M,419278
+S08,Simla,HIMACHAL PRADESH,Lt. Col. Dhani Ram Shandil,HVC,1999,1,SC,7,M,264002
+S08,Mandi,HIMACHAL PRADESH,Maheshwar Singh,BJP,1999,2,GEN,7,M,325929
+S08,Kangra,HIMACHAL PRADESH,Shanta Kumar,BJP,1999,3,GEN,7,M,325066
+S08,Hamirpur,HIMACHAL PRADESH,Suresh Chandel,BJP,1999,4,GEN,7,M,336172
+S10,Bidar,KARNATAKA,Ramchandra Veerappa,BJP,1999,1,SC,7,M,350221
+S10,Gulbarga,KARNATAKA,Iqbal Ahemed Saradgi,INC,1999,2,GEN,7,M,352359
+S10,Raichur,KARNATAKA,A. Venkatesh Naik,INC,1999,3,GEN,7,M,359946
+S10,Koppal,KARNATAKA,H.G.Ramulu,INC,1999,4,GEN,7,M,350599
+S10,Bellary,KARNATAKA,Sonia Gandhi,INC,1999,5,GEN,7,F,414650
+S10,Davangere,KARNATAKA,G.Mallikarjunappa,BJP,1999,6,GEN,7,M,398969
+S10,Chitradurga,KARNATAKA,Shashi Kumar,JD(U),1999,7,GEN,7,M,370793
+S10,Tumkur,KARNATAKA,G.S.Basavaraj,INC,1999,8,GEN,7,M,318922
+S10,Chikballapur,KARNATAKA,R.L. Jalappa,INC,1999,9,GEN,7,M,422587
+S10,Kolar,KARNATAKA,K.H. Muniyappa,INC,1999,10,SC,7,M,321964
+S10,Kanakapura,KARNATAKA,M.V.Chandrashekara Murthy,INC,1999,11,GEN,7,M,532910
+S10,Bangalore North,KARNATAKA,C.K Jaffar Sharief,INC,1999,12,GEN,7,M,525523
+S10,Bangalore South,KARNATAKA,Ananth Kumar,BJP,1999,13,GEN,7,M,410161
+S10,Mandya,KARNATAKA,Ambareesh @ Amaranatha .M.H,INC,1999,14,GEN,7,M,418110
+S10,Chamarajanagar,KARNATAKA,V.Sreenivasaprasad,JD(U),1999,15,SC,7,M,311547
+S10,Mysore,KARNATAKA,Srikantadatta Narasimharaja Wadiyar,INC,1999,16,GEN,7,M,338051
+S10,Mangalore,KARNATAKA,V.Dhananjaya Kumar,BJP,1999,17,GEN,7,M,353536
+S10,Udupi,KARNATAKA,Vinay Kumar Sorake,INC,1999,18,GEN,7,M,352326
+S10,Hassan,KARNATAKA,G.Putta Swamy Gowda,INC,1999,19,GEN,7,M,398344
+S10,Chikmagalur,KARNATAKA,D.C.Srikantappa,BJP,1999,20,GEN,7,M,324470
+S10,Shimoga,KARNATAKA,S.Bangarappa,INC,1999,21,GEN,7,M,427870
+S10,Kanara,KARNATAKA,Alva Margaret,INC,1999,22,GEN,7,F,356246
+S10,Dharwad South,KARNATAKA,Prof. I.G. Sanadi,INC,1999,23,GEN,7,M,355523
+S10,Dharwad North,KARNATAKA,Vijay Sankeshwar,BJP,1999,24,GEN,7,M,345197
+S10,Belgaum,KARNATAKA,Amarsinh Vasantarao Patil,INC,1999,25,GEN,7,M,383444
+S10,Chikkodi,KARNATAKA,Jigajinagi Rameshchandappa,JD(U),1999,26,SC,7,M,392450
+S10,Bagalkot,KARNATAKA,R.S. Patil,INC,1999,27,GEN,7,M,378488
+S10,Bijapur,KARNATAKA,Basangouda Ramangouda Patil(Yatnal),BJP,1999,28,GEN,7,M,348816
+S11,Kasaragod,KERALA,T. Govindan,CPM,1999,1,GEN,7,M,423564
+S11,Cannanore,KERALA,A.P. Abdullakkutty,CPM,1999,2,GEN,7,M,428390
+S11,Badagara,KERALA,A.K. Premajam,CPM,1999,3,GEN,7,F,404355
+S11,Calicut,KERALA,K. Muraleedharan,INC,1999,4,GEN,7,M,383425
+S11,Manjeri,KERALA,E. Ahamed,MUL,1999,5,GEN,7,M,437563
+S11,Ponnani,KERALA,G.M. Banatwalla,MUL,1999,6,GEN,7,M,372572
+S11,Palghat,KERALA,N.N.Krishnadas,CPM,1999,7,GEN,7,M,372536
+S11,Ottapalam,KERALA,S. Ajayakumar,CPM,1999,8,SC,7,M,359758
+S11,Trichur,KERALA,A.C. Jose,INC,1999,9,GEN,7,M,343793
+S11,Mukundapuram,KERALA,K. Karunakaran,INC,1999,10,GEN,7,M,397156
+S11,Ernakulam,KERALA,Adv. George Eden,INC,1999,11,GEN,7,M,394058
+S11,Muvattupuzha,KERALA,Adv. P.C. Thomas,KEC(M),1999,12,GEN,7,M,357402
+S11,Kottayam,KERALA,Suresh Kurup,CPM,1999,13,GEN,7,M,344296
+S11,Idukki,KERALA,K. Francis George,KEC,1999,14,GEN,7,M,365313
+S11,Alleppey,KERALA,V.M. Sudheeran,INC,1999,15,GEN,7,M,392700
+S11,Mavelikara,KERALA,Ramesh Chennithala,INC,1999,16,GEN,7,M,310455
+S11,Adoor,KERALA,Kodikunnil Suresh,INC,1999,17,SC,7,M,337003
+S11,Quilon,KERALA,P. Rajendran,CPM,1999,18,GEN,7,M,351869
+S11,Chirayinkil,KERALA,Varkala Radhakrishnan,CPM,1999,19,GEN,7,M,309304
+S11,Trivandrum,KERALA,Advocate V.S. Sivakumar,INC,1999,20,GEN,7,M,288390
+S12,Morena,MADHYA PRADESH,Ashok Chhaviram  Argal,BJP,1999,1,SC,7,M,210790
+S12,Bhind,MADHYA PRADESH,Dr. Ramlakhan Singh,BJP,1999,2,GEN,7,M,270766
+S12,Gwalior,MADHYA PRADESH,Jaibhan Singh Pavaiya,BJP,1999,3,GEN,7,M,254486
+S12,Guna,MADHYA PRADESH,Madhavrao Scindia,INC,1999,4,GEN,7,M,443965
+S12,Sagar,MADHYA PRADESH,Virendra Kumar,BJP,1999,5,SC,7,M,293357
+S12,Khajuraho,MADHYA PRADESH,Satyavrat Chaturvedi ( Vinod Bhaiya ),INC,1999,6,GEN,7,M,335861
+S12,Damoh,MADHYA PRADESH,Dr. Ramkrishna Kusmaria,BJP,1999,7,GEN,7,M,246909
+S12,Satna,MADHYA PRADESH,Ramanand Singh,BJP,1999,8,GEN,7,M,217932
+S12,Rewa,MADHYA PRADESH,Sunder Lal Tiwari,INC,1999,9,GEN,7,M,275115
+S12,Sidhi,MADHYA PRADESH,Chandra Pratap Singh ( Baba Sahab),BJP,1999,10,ST,7,M,264981
+S12,Shahdol,MADHYA PRADESH,Dalpat Singh,BJP,1999,11,ST,7,M,262229
+S12,Surguja,MADHYA PRADESH,Khel Sai Singh,INC,1999,12,ST,7,M,297778
+S12,Raigarh,MADHYA PRADESH,Vishnudeo Sai,BJP,1999,13,ST,7,M,276244
+S12,Janjgir,MADHYA PRADESH,Dr. Charandas Mahant,INC,1999,14,GEN,7,M,278931
+S12,Bilaspur,MADHYA PRADESH,Punnulal Mohale,BJP,1999,15,SC,7,M,274860
+S12,Sarangarh,MADHYA PRADESH,P. R. Khute,BJP,1999,16,SC,7,M,281769
+S12,Raipur,MADHYA PRADESH,Ramesh Bais,BJP,1999,17,GEN,7,M,354736
+S12,Mahasamund,MADHYA PRADESH,Shyama Charan Shukla,INC,1999,18,GEN,7,M,340635
+S12,Kanker,MADHYA PRADESH,Sohan Potai,BJP,1999,19,ST,7,M,318040
+S12,Bastar,MADHYA PRADESH,Baliram Kashyap,BJP,1999,20,ST,7,M,155421
+S12,Durg,MADHYA PRADESH,Tara Chand Sahu,BJP,1999,21,GEN,7,M,389777
+S12,Rajnandgaon,MADHYA PRADESH,Dr. Raman,BJP,1999,22,GEN,7,M,304611
+S12,Balaghat,MADHYA PRADESH,Prahladsingh Patel,BJP,1999,23,GEN,7,M,251308
+S12,Mandla,MADHYA PRADESH,Faggan Singh Kulaste,BJP,1999,24,ST,7,M,232042
+S12,Jabalpur,MADHYA PRADESH,Jaishree Banerjee ( Bhabhi Ji),BJP,1999,25,GEN,7,F,300648
+S12,Seoni,MADHYA PRADESH,Ram Naresh Tripathi,BJP,1999,26,GEN,7,M,282891
+S12,Chhindwara,MADHYA PRADESH,Kamal Nath,INC,1999,27,GEN,7,M,399904
+S12,Betul,MADHYA PRADESH,"Vijay Kumar Khandelwal "" Munni Bhaiya""",BJP,1999,28,GEN,7,M,272512
+S12,Hoshangabad,MADHYA PRADESH,Sundar Lal Patwa,BJP,1999,29,GEN,7,M,353760
+S12,Bhopal,MADHYA PRADESH,Uma Bharti,BJP,1999,30,GEN,7,F,537905
+S12,Vidisha,MADHYA PRADESH,Shivraj Singh,BJP,1999,31,GEN,7,M,360421
+S12,Rajgarh,MADHYA PRADESH,Laxman Singh,INC,1999,32,GEN,7,M,354234
+S12,Shajapur,MADHYA PRADESH,Thavarchand Gehlot,BJP,1999,33,SC,7,M,387607
+S12,Khandwa,MADHYA PRADESH,Nandkumarsingh Chouhan ( Nandu Bhaiya ),BJP,1999,34,GEN,7,M,364161
+S12,Khargone,MADHYA PRADESH,Tarachand Patel,INC,1999,35,GEN,7,M,354133
+S12,Dhar,MADHYA PRADESH,Gajendra Singh Rajukhedi,INC,1999,36,ST,7,M,355482
+S12,Indore,MADHYA PRADESH,Sumitra Mahajan,BJP,1999,37,GEN,7,F,474167
+S12,Ujjain,MADHYA PRADESH,Dr. Satyanarayan Jatiya,BJP,1999,38,SC,7,M,360103
+S12,Jhabua,MADHYA PRADESH,Kantilal Bhuriya,INC,1999,39,ST,7,M,371842
+S12,Mandsaur,MADHYA PRADESH,Dr. Lakshaminarayan Pandey,BJP,1999,40,GEN,7,M,395928
+S13,Rajapur,MAHARASHTRA,Suresh Prabhakar Prabhu,SHS,1999,1,GEN,7,M,221523
+S13,Ratnagiri,MAHARASHTRA,Anant Gangaram Geete,SHS,1999,2,GEN,7,M,293834
+S13,Kolaba,MAHARASHTRA,Ramsheth Thakur,PWPI,1999,3,GEN,7,M,274361
+S13,Mumbai South,MAHARASHTRA,Jayawanti Mehta,BJP,1999,4,GEN,7,F,144945
+S13,Mumbai South Central,MAHARASHTRA,Mohan Vishnu Rawale,SHS,1999,5,GEN,7,M,176323
+S13,Mumbai North Central,MAHARASHTRA,Manohar Gajanan Joshi,SHS,1999,6,GEN,7,M,294935
+S13,Mumbai North East,MAHARASHTRA,Kirit Somaiya,BJP,1999,7,GEN,7,M,400436
+S13,Mumbai North West,MAHARASHTRA,Sunil Dutt,INC,1999,8,GEN,7,M,366669
+S13,Mumbai North,MAHARASHTRA,Ram Naik,BJP,1999,9,GEN,7,M,517941
+S13,Thane,MAHARASHTRA,Prakash Paranjpe,SHS,1999,10,GEN,7,M,391446
+S13,Dahanu,MAHARASHTRA,Adv Chintaman Wanaga,BJP,1999,11,ST,7,M,240866
+S13,Nashik,MAHARASHTRA,Dhikale Uttamrao Nathuji,SHS,1999,12,GEN,7,M,303084
+S13,Malegaon,MAHARASHTRA,Mahale Haribahu Shankar,JD(S),1999,13,ST,7,M,191643
+S13,Dhule,MAHARASHTRA,Ramdas Rupla Gavit,BJP,1999,14,ST,7,M,211904
+S13,Nandurbar,MAHARASHTRA,Gavit Manikrao Hodlya,INC,1999,15,ST,7,M,318338
+S13,Erandol,MAHARASHTRA,Annasaheb M K Patil,BJP,1999,16,GEN,7,M,297867
+S13,Jalgaon,MAHARASHTRA,Y G Mahajan Sir,BJP,1999,17,GEN,7,M,334020
+S13,Buldhana,MAHARASHTRA,Adsul Anandrao Vithoba,SHS,1999,18,SC,7,M,294922
+S13,Akola,MAHARASHTRA,Ambedkar Prakash Yashwant,BBM,1999,19,GEN,7,M,272243
+S13,Washim,MAHARASHTRA,Bhawana Pundlikrao Gawali,SHS,1999,20,GEN,7,F,244820
+S13,Amravati,MAHARASHTRA,Gudhe Anant Mahadeoappa,SHS,1999,21,GEN,7,M,319916
+S13,Ramtek,MAHARASHTRA,Subodh Mohite,SHS,1999,22,GEN,7,M,242454
+S13,Nagpur,MAHARASHTRA,Vilas Muttemwar,INC,1999,23,GEN,7,M,424450
+S13,Bhandara,MAHARASHTRA,Chunnilalbhau Thakur,BJP,1999,24,GEN,7,M,291355
+S13,Chimur,MAHARASHTRA,Diwathe Namdeo Harbaji,BJP,1999,25,GEN,7,M,300601
+S13,Chandrapur,MAHARASHTRA,Puglia Nareshkumar Chunnalal,INC,1999,26,GEN,7,M,328522
+S13,Wardha,MAHARASHTRA,Prabha Rao,INC,1999,27,GEN,7,F,249564
+S13,Yavatmal,MAHARASHTRA,Uttamrao Deorao Patil,INC,1999,28,GEN,7,M,258535
+S13,Hingoli,MAHARASHTRA,Mane Shivaji Gyanbarao,SHS,1999,29,GEN,7,M,297284
+S13,Nanded,MAHARASHTRA,Khatgaonkar Bhaskarrao Bapurao,INC,1999,30,GEN,7,M,327293
+S13,Parbhani,MAHARASHTRA,Jadhav Suresh Ramrao,SHS,1999,31,GEN,7,M,254019
+S13,Jalna,MAHARASHTRA,Danve Raosaheb Dadarao Patil,BJP,1999,32,GEN,7,M,332620
+S13,Aurangabad,MAHARASHTRA,Chandrakant Khaire,SHS,1999,33,GEN,7,M,383144
+S13,Beed,MAHARASHTRA,Jaysingrao Gaikwad Patil,BJP,1999,34,GEN,7,M,332946
+S13,Latur,MAHARASHTRA,Patil Shivraj Vishwanath,INC,1999,35,GEN,7,M,314213
+S13,Osmanabad,MAHARASHTRA,Kamble Shivaji Vithalrao,SHS,1999,36,SC,7,M,252135
+S13,Sholapur,MAHARASHTRA,Shinde Sushilkumar Sambhajirao,INC,1999,37,GEN,7,M,286578
+S13,Pandharpur,MAHARASHTRA,Athawale Ramdas Bandu,IND,1999,38,SC,7,M,413115
+S13,Ahmednagar,MAHARASHTRA,Dilipkumar Mansukhlal Gandhi,BJP,1999,39,GEN,7,M,278508
+S13,Kopargaon,MAHARASHTRA,E V Alias Balasaheb Vikhe Patil,SHS,1999,40,GEN,7,M,253498
+S13,Khed,MAHARASHTRA,Ashok Namdeorao Mohol,NCP,1999,41,GEN,7,M,284476
+S13,Pune,MAHARASHTRA,Pradeep Rawat,BJP,1999,42,GEN,7,M,304955
+S13,Baramati,MAHARASHTRA,Pawar Sharadchandra Govindrao,NCP,1999,43,GEN,7,M,510928
+S13,Satara,MAHARASHTRA,Laxmanrao Pandurang Jadhav Patil,NCP,1999,44,GEN,7,M,313325
+S13,Karad,MAHARASHTRA,Shriniwas Dadasaheb Patil (Marulkar),NCP,1999,45,GEN,7,M,350504
+S13,Sangli,MAHARASHTRA,Prakash (Bapu) Vasantrao Patil,INC,1999,46,GEN,7,M,381162
+S13,Ichalkaranji,MAHARASHTRA,Mane Nivedita Sambhajirao,NCP,1999,47,GEN,7,F,337657
+S13,Kolhapur,MAHARASHTRA,Mandlik Sadashivrao Dadoba,NCP,1999,48,GEN,7,M,346459
+S18,Mayurbhanj,ORISSA,Salkhan Murmu,BJP,1999,1,ST,7,M,300902
+S18,Balasore,ORISSA,Mahameghabahan Aira Kharabela Swain,BJP,1999,2,GEN,7,M,428070
+S18,Bhadrak,ORISSA,Arjun Charan Sethi,BJD,1999,3,SC,7,M,397450
+S18,Jajpur,ORISSA,Jagannath Mallik,BJD,1999,4,SC,7,M,351442
+S18,Kendrapara,ORISSA,Prabhat Kumar Samantray,BJD,1999,5,GEN,7,M,359314
+S18,Cuttack,ORISSA,Bhartruhari Mahtab,BJD,1999,6,GEN,7,M,407603
+S18,Jagatsinghpur,ORISSA,Trilochan Kanungo,BJD,1999,7,GEN,7,M,439888
+S18,Puri,ORISSA,Braja Kishore Tripathy,BJD,1999,8,GEN,7,M,383060
+S18,Bhubaneswar,ORISSA,Prasanna Kumar Patasani,BJD,1999,9,GEN,7,M,414429
+S18,Aska,ORISSA,Naveen Patnaik,BJD,1999,10,GEN,7,M,359178
+S18,Berhampur,ORISSA,Anadicharan Sahu,BJP,1999,11,GEN,7,M,310704
+S18,Koraput,ORISSA,Hema Gamang,INC,1999,12,ST,7,F,277555
+S18,Nowrangpur,ORISSA,Parsuram Majhi,BJP,1999,13,ST,7,M,331863
+S18,Kalahandi,ORISSA,Bikram Keshari Deo,BJP,1999,14,GEN,7,M,371911
+S18,Phulbani,ORISSA,Padmanava Behera,BJD,1999,15,SC,7,M,357024
+S18,Bolangir,ORISSA,Sangeeta Kumari Singh Deo,BJP,1999,16,GEN,7,F,404988
+S18,Sambalpur,ORISSA,Prasanna Acharya,BJD,1999,17,GEN,7,M,398597
+S18,Deogarh,ORISSA,Debendra Pradhan,BJP,1999,18,GEN,7,M,376412
+S18,Dhenkanal,ORISSA,Kamakhya Prasad Singh Deo,INC,1999,19,GEN,7,M,248824
+S18,Sundargarh,ORISSA,Jual Oram,BJP,1999,20,ST,7,M,326395
+S18,Keonjhar,ORISSA,Ananta Nayak,BJP,1999,21,ST,7,M,416956
+S19,Gurdaspur,PUNJAB,Vinod Khanna,BJP,1999,1,GEN,7,M,315267
+S19,Amritsar,PUNJAB,Raghunandan Lal  Bhatia,INC,1999,2,GEN,7,M,296533
+S19,Tarn Taran,PUNJAB,Tarlochan Singh  Tur,SAD,1999,3,GEN,7,M,305899
+S19,Jullundur,PUNJAB,Balbir Singh,INC,1999,4,GEN,7,M,267209
+S19,Phillaur,PUNJAB,Santosh  Chowdhary,INC,1999,5,SC,7,F,263540
+S19,Hoshiarpur,PUNJAB,Charanjit Singh Channi,INC,1999,6,GEN,7,M,256211
+S19,Ropar,PUNJAB,Shamsher Singh,INC,1999,7,SC,7,M,326651
+S19,Patiala,PUNJAB,Preneet Kaur,INC,1999,8,GEN,7,F,360125
+S19,Ludhiana,PUNJAB,Gurcharan Singh Galib,INC,1999,9,GEN,7,M,346928
+S19,Sangrur,PUNJAB,Simranjit Singh Mann,SAD(M),1999,10,GEN,7,M,298846
+S19,Bhatinda,PUNJAB,Bhan Singh Bhaura,CPI,1999,11,SC,7,M,327484
+S19,Faridkot,PUNJAB,Jagmeet Singh  Brar,INC,1999,12,GEN,7,M,418454
+S19,Ferozepur,PUNJAB,Zora Singh,SAD,1999,13,GEN,7,M,300236
+S20,Ganganagar,RAJASTHAN,Nihal Chand,BJP,1999,1,SC,7,M,358104
+S20,Bikaner,RAJASTHAN,Rameshwar Lal Dudi,INC,1999,2,GEN,7,M,493638
+S20,Churu,RAJASTHAN,Ram Singh Kaswan,BJP,1999,3,GEN,7,M,351485
+S20,Jhunjhunu,RAJASTHAN,Sisram Ola,INC,1999,4,GEN,7,M,330198
+S20,Sikar,RAJASTHAN,Subhash Maharia,BJP,1999,5,GEN,7,M,341445
+S20,Jaipur,RAJASTHAN,Girdhari Lal Bhargava,BJP,1999,6,GEN,7,M,456720
+S20,Dausa,RAJASTHAN,Rajesh Pilot,INC,1999,7,GEN,7,M,372263
+S20,Alwar,RAJASTHAN,Dr. Jaswant Singh Yadav,BJP,1999,8,GEN,7,M,325556
+S20,Bharatpur,RAJASTHAN,Vishvendra Singh,BJP,1999,9,GEN,7,M,277460
+S20,Bayana,RAJASTHAN,Bahadur Singh,BJP,1999,10,SC,7,M,234881
+S20,Sawai Madhopur,RAJASTHAN,Jaskaur,BJP,1999,11,ST,7,F,277014
+S20,Ajmer,RAJASTHAN,Rasa Singh Rawat,BJP,1999,12,GEN,7,M,332130
+S20,Tonk,RAJASTHAN,Shyam Lal Bansiwal,BJP,1999,13,SC,7,M,287265
+S20,Kota,RAJASTHAN,Raghuveer Singh Koushal,BJP,1999,14,GEN,7,M,320205
+S20,Jhalawar,RAJASTHAN,Vansundhara Raje,BJP,1999,15,GEN,7,F,409574
+S20,Banswara,RAJASTHAN,Tara Chand Bhagora,INC,1999,16,ST,7,M,379775
+S20,Salumber,RAJASTHAN,Bheru Lal Meena,INC,1999,17,ST,7,M,290976
+S20,Udaipur,RAJASTHAN,Girija Vyas,INC,1999,18,GEN,7,F,372645
+S20,Chittorgarh,RAJASTHAN,Shrichand Kriplani,BJP,1999,19,GEN,7,M,411275
+S20,Bhilwara,RAJASTHAN,Vijayendra Pal Singh,BJP,1999,20,GEN,7,M,287858
+S20,Pali,RAJASTHAN,Pusp Jain,BJP,1999,21,GEN,7,M,316844
+S20,Jalore,RAJASTHAN,Buta Singh,INC,1999,22,SC,7,M,330652
+S20,Barmer,RAJASTHAN,Col. Sonaram Choudhary,INC,1999,23,GEN,7,M,424150
+S20,Jodhpur,RAJASTHAN,Jaswant Singh Vishnoi,BJP,1999,24,GEN,7,M,368463
+S20,Nagaur,RAJASTHAN,Ram Raghunath Choudhary,INC,1999,25,GEN,7,M,267914
+S22,Madras North,TAMIL NADU,"Kuppusamy, C.",DMK,1999,1,GEN,7,M,471101
+S22,Madras Central,TAMIL NADU,Murasoli Maran,DMK,1999,2,GEN,7,M,364565
+S22,Madras South,TAMIL NADU,"Baalu, T.R.",DMK,1999,3,GEN,7,M,562221
+S22,Sriperumbudur,TAMIL NADU,"Krishnaswamy,   A.",DMK,1999,4,SC,7,M,385558
+S22,Chengalpattu,TAMIL NADU,"Moorthy, A.K.",PMK,1999,5,GEN,7,M,330551
+S22,Arakkonam,TAMIL NADU,"Jagathrakshakan, S. Dr.",DMK,1999,6,GEN,7,M,346520
+S22,Vellore,TAMIL NADU,"Shanmugam, N.T.",PMK,1999,7,GEN,7,M,324547
+S22,Tiruppattur,TAMIL NADU,"Venugopal, D.",DMK,1999,8,GEN,7,M,350703
+S22,Vandavasi,TAMIL NADU,"Durai, M.",PMK,1999,9,GEN,7,M,345539
+S22,Tindivanam,TAMIL NADU,Ramachandran N. Gingee.,MDMK,1999,10,GEN,7,M,323234
+S22,Cuddalore,TAMIL NADU,"Sankar, Adhi",DMK,1999,11,GEN,7,M,358367
+S22,Chidambaram,TAMIL NADU,"Ponnuswamy, E.",PMK,1999,12,SC,7,M,345331
+S22,Dharmapuri,TAMIL NADU,"Elangovan, P.D.",PMK,1999,13,GEN,7,M,340162
+S22,Krishnagiri,TAMIL NADU,"Vetriselvan, V.",DMK,1999,14,GEN,7,M,347737
+S22,Rasipuram,TAMIL NADU,"Saroja, V. Dr.",ADMK,1999,15,SC,7,F,304843
+S22,Salem,TAMIL NADU,"Selvaganapathi, T.M.",ADMK,1999,16,GEN,7,M,363689
+S22,Tiruchengode,TAMIL NADU,"Kannappan, M.",MDMK,1999,17,GEN,7,M,409293
+S22,Nilgiris,TAMIL NADU,"Mathan, M. (Alias) Master Mathan, M.",BJP,1999,18,GEN,7,M,369828
+S22,Gobichettipalayam,TAMIL NADU,"Kaliappan, K.K.",ADMK,1999,19,GEN,7,M,299184
+S22,Coimbatore,TAMIL NADU,"Radhakrishnan, C.P.",BJP,1999,20,GEN,7,M,430068
+S22,Pollachi,TAMIL NADU,"Krishnan, Dr.C.",MDMK,1999,21,SC,7,M,293038
+S22,Palani,TAMIL NADU,"Kumarasamy, P.",ADMK,1999,22,GEN,7,M,297850
+S22,Dindigul,TAMIL NADU,"Sreenivaasan, C.",ADMK,1999,23,GEN,7,M,294794
+S22,Madurai,TAMIL NADU,"Mohan, P.",CPM,1999,24,GEN,7,M,328204
+S22,Periyakulam,TAMIL NADU,"Dhinakaran,",ADMK,1999,25,GEN,7,M,303881
+S22,Karur,TAMIL NADU,"Chinnasamy, M.",ADMK,1999,26,GEN,7,M,334407
+S22,Tiruchirappalli,TAMIL NADU,Arangarajan Kumaramangalam,BJP,1999,27,GEN,7,M,377450
+S22,Perambalur,TAMIL NADU,Raja. A.,DMK,1999,28,SC,7,M,330675
+S22,Mayiladuturai,TAMIL NADU,Manishankar Aiyar,INC,1999,29,GEN,7,M,324384
+S22,Nagapattinam,TAMIL NADU,"Vijayan, A.K.S.",DMK,1999,30,SC,7,M,342237
+S22,Thanjavur,TAMIL NADU,Palanimanickam.S.S.,DMK,1999,31,GEN,7,M,295191
+S22,Pudukkottai,TAMIL NADU,Thirunavukarasu,MADMK,1999,32,GEN,7,M,396216
+S22,Sivaganga,TAMIL NADU,"Sudarsana Natchiappan,E.M.",INC,1999,33,GEN,7,M,246078
+S22,Ramanathapuram,TAMIL NADU,Malaisamy.K.,ADMK,1999,34,GEN,7,M,265253
+S22,Sivakasi,TAMIL NADU,Vaiko,MDMK,1999,35,GEN,7,M,325829
+S22,Tirunelveli,TAMIL NADU,"Pandian, P.H.",ADMK,1999,36,GEN,7,M,249975
+S22,Tenkasi,TAMIL NADU,"Murugesan,S.",ADMK,1999,37,SC,7,M,239241
+S22,Tiruchendur,TAMIL NADU,"Jayaseelan, A.D.K.",DMK,1999,38,GEN,7,M,237630
+S22,Nagercoil,TAMIL NADU,"Radhakrishnan,P.",BJP,1999,39,GEN,7,M,307319
+S24,Tehri Garhwal,UTTAR PRADESH,Manabendra Shah,BJP,1999,1,GEN,7,M,207839
+S24,Garhwal,UTTAR PRADESH,Maj Gen. (Rtd) Bhuwan Chandra Khanduri(A.V.S.M.),BJP,1999,2,GEN,7,M,239745
+S24,Almora,UTTAR PRADESH,Bachi Singh Rawat,BJP,1999,3,GEN,7,M,192388
+S24,Nainital,UTTAR PRADESH,Narayan Datt Tiwari,INC,1999,4,GEN,7,M,350381
+S24,Bijnor,UTTAR PRADESH,Sheeshram Singh Ravi,BJP,1999,5,SC,7,M,214266
+S24,Amroha,UTTAR PRADESH,Rashid Alvi,BSP,1999,6,GEN,7,M,337919
+S24,Moradabad,UTTAR PRADESH,Chandra Vijay Singh Alias Baby Raja,ABLTC,1999,7,GEN,7,M,253321
+S24,Rampur,UTTAR PRADESH,Begum Noor Bano Urf Mahtab Zamani Begum,INC,1999,8,GEN,7,F,338493
+S24,Sambhal,UTTAR PRADESH,Mulayam Singh Yadav,SP,1999,9,GEN,7,M,259430
+S24,Budaun,UTTAR PRADESH,Saleem Iqbal Shervani,SP,1999,10,GEN,7,M,236496
+S24,Aonla,UTTAR PRADESH,Kunwar Sarvraj Singh,SP,1999,11,GEN,7,M,195839
+S24,Bareilly,UTTAR PRADESH,Santosh Gangwar,BJP,1999,12,GEN,7,M,292813
+S24,Pilibhit,UTTAR PRADESH,Maneka Gandhi,IND,1999,13,GEN,7,F,433421
+S24,Shahjahanpur,UTTAR PRADESH,Kr. Jitendra Prasad,INC,1999,14,GEN,7,M,207167
+S24,Kheri,UTTAR PRADESH,Ravi Prakash Verma,SP,1999,15,GEN,7,M,202373
+S24,Shahabad,UTTAR PRADESH,Daud Ahmad,BSP,1999,16,GEN,7,M,214146
+S24,Sitapur,UTTAR PRADESH,Rajesh Verma,BSP,1999,17,GEN,7,M,211120
+S24,Misrikh,UTTAR PRADESH,Sushila Saroj,SP,1999,18,SC,7,F,159279
+S24,Hardoi,UTTAR PRADESH,Jai Prakash,ABLTC,1999,19,SC,7,M,206256
+S24,Lucknow,UTTAR PRADESH,Atal Bihari Vajpayee,BJP,1999,20,GEN,7,M,362709
+S24,Mohanlalganj,UTTAR PRADESH,Reena Chowdhary,SP,1999,21,SC,7,F,182034
+S24,Unnao,UTTAR PRADESH,Deepak Kumar,SP,1999,22,GEN,7,M,207242
+S24,Rae Bareli,UTTAR PRADESH,Captain Satish Sharma,INC,1999,23,GEN,7,M,224202
+S24,Pratapgarh,UTTAR PRADESH,Rajkumari Ratna Singh,INC,1999,24,GEN,7,F,202170
+S24,Amethi,UTTAR PRADESH,Sonia Gandhi,INC,1999,25,GEN,7,F,418960
+S24,Sultanpur,UTTAR PRADESH,Jai Bhadra Singh,BSP,1999,26,GEN,7,M,173558
+S24,Akbarpur,UTTAR PRADESH,Mayawati,BSP,1999,27,SC,7,F,259762
+S24,Faizabad,UTTAR PRADESH,Vinay Katiyar,BJP,1999,28,GEN,7,M,193191
+S24,Bara Banki,UTTAR PRADESH,Ram Sagar,SP,1999,29,SC,7,M,210958
+S24,Kaiserganj,UTTAR PRADESH,Beni Prasad Verma,SP,1999,30,GEN,7,M,233934
+S24,Bahraich,UTTAR PRADESH,Padamsen Chaudhary,BJP,1999,31,GEN,7,M,223768
+S24,Balrampur,UTTAR PRADESH,Rizvan Zaheer  Alias Rijju Bhaiya,SP,1999,32,GEN,7,M,255267
+S24,Gonda,UTTAR PRADESH,Braj Bhushan Sharan Singh,BJP,1999,33,GEN,7,M,243162
+S24,Basti,UTTAR PRADESH,Shriram Chauhan,BJP,1999,34,SC,7,M,174378
+S24,Domariaganj,UTTAR PRADESH,Ram Pal Singh,BJP,1999,35,GEN,7,M,198263
+S24,Khalilabad,UTTAR PRADESH,Bhal Chandra Yadav,SP,1999,36,GEN,7,M,236837
+S24,Bansgaon,UTTAR PRADESH,Raj Narayan Pasi,BJP,1999,37,SC,7,M,184684
+S24,Gorakhpur,UTTAR PRADESH,Aditya Nath,BJP,1999,38,GEN,7,M,267382
+S24,Maharajganj,UTTAR PRADESH,Akhilesh  Singh,SP,1999,39,GEN,7,M,239826
+S24,Padrauna,UTTAR PRADESH,Ram Nagina Mishra,BJP,1999,40,GEN,7,M,196651
+S24,Deoria,UTTAR PRADESH,Shri Prakash Mani,BJP,1999,41,GEN,7,M,251814
+S24,Salempur,UTTAR PRADESH,Babban Rajbhar,BSP,1999,42,GEN,7,M,170558
+S24,Ballia,UTTAR PRADESH,Chandra Shekhar,SJP(R),1999,43,GEN,7,M,235946
+S24,Ghosi,UTTAR PRADESH,Bal Krishna,BSP,1999,44,GEN,7,M,207105
+S24,Azamgarh,UTTAR PRADESH,Rama Kant Yadav,SP,1999,45,GEN,7,M,227616
+S24,Lalganj,UTTAR PRADESH,Dr. Bali Ram,BSP,1999,46,SC,7,M,229122
+S24,Machhlishahr,UTTAR PRADESH,Chandra Nath Singh,SP,1999,47,GEN,7,M,201509
+S24,Jaunpur,UTTAR PRADESH,Chinmayanand,BJP,1999,48,GEN,7,M,207405
+S24,Saidpur,UTTAR PRADESH,Tufani Saroj,SP,1999,49,SC,7,M,237438
+S24,Ghazipur,UTTAR PRADESH,Manoj,BJP,1999,50,GEN,7,M,240592
+S24,Chandauli,UTTAR PRADESH,Jawahar Lal Jaiswal,SP,1999,51,GEN,7,M,265412
+S24,Varanasi,UTTAR PRADESH,Shankar Prasad Jaiswal,BJP,1999,52,GEN,7,M,211955
+S24,Robertsganj,UTTAR PRADESH,Ram Shakal,BJP,1999,53,SC,7,M,200826
+S24,Mirzapur,UTTAR PRADESH,Phoolan Devi,SP,1999,54,GEN,7,F,290849
+S24,Phulpur,UTTAR PRADESH,Dharam Raj Singh Patel,SP,1999,55,GEN,7,M,183282
+S24,Allahabad,UTTAR PRADESH,Dr. Murli Manohar Joshi,BJP,1999,56,GEN,7,M,219114
+S24,Chail,UTTAR PRADESH,Suresh Pasi,BSP,1999,57,SC,7,M,151557
+S24,Fatehpur,UTTAR PRADESH,Ashok Patel,BJP,1999,58,GEN,7,M,142911
+S24,Banda,UTTAR PRADESH,Ram Sajiwan,BSP,1999,59,GEN,7,M,209995
+S24,Hamirpur,UTTAR PRADESH,Ashok Kumar Singh Chandel,BSP,1999,60,GEN,7,M,217732
+S24,Jhansi,UTTAR PRADESH,Sujan Singh Bundela,INC,1999,61,GEN,7,M,283387
+S24,Jalaun,UTTAR PRADESH,Brij Lal Khabri,BSP,1999,62,SC,7,M,197705
+S24,Ghatampur,UTTAR PRADESH,Pyare Lal Sankhwar,BSP,1999,63,SC,7,M,156582
+S24,Bilhaur,UTTAR PRADESH,Shyam Bihari Mishra,BJP,1999,64,GEN,7,M,192054
+S24,Kanpur,UTTAR PRADESH,Sriprakash Jaiswal,INC,1999,65,GEN,7,M,293610
+S24,Etawah,UTTAR PRADESH,Raghuraj Singh Shakya,SP,1999,66,GEN,7,M,233065
+S24,Kannauj,UTTAR PRADESH,Mulayam Singh Yadav,SP,1999,67,GEN,7,M,291617
+S24,Farrukhabad,UTTAR PRADESH,Chandra Bhushan Singh (Munnoo Babu),SP,1999,68,GEN,7,M,222984
+S24,Mainpuri,UTTAR PRADESH,Balram Singh Yadav,SP,1999,69,GEN,7,M,244113
+S24,Jalesar,UTTAR PRADESH,Prof. S.P. Singh Baghel,SP,1999,70,GEN,7,M,217336
+S24,Etah,UTTAR PRADESH,Kr. Devendra Singh Yadav,SP,1999,71,GEN,7,M,226999
+S24,Firozabad,UTTAR PRADESH,Ram Jilal Suman,SP,1999,72,SC,7,M,289459
+S24,Agra,UTTAR PRADESH,Raj Babbar,SP,1999,73,GEN,7,M,288558
+S24,Mathura,UTTAR PRADESH,Ch. Tejvir Singh,BJP,1999,74,GEN,7,M,210212
+S24,Hathras,UTTAR PRADESH,Kishan Lal Diler,BJP,1999,75,SC,7,M,178253
+S24,Aligarh,UTTAR PRADESH,Sheela Gautam,BJP,1999,76,GEN,7,F,219313
+S24,Khurja,UTTAR PRADESH,Ashok Kumar Pradhan,BJP,1999,77,SC,7,M,216011
+S24,Bulandshahr,UTTAR PRADESH,Chhatra Pal,BJP,1999,78,GEN,7,M,180102
+S24,Hapur,UTTAR PRADESH,Ramesh Chand Tomar,BJP,1999,79,GEN,7,M,234525
+S24,Meerut,UTTAR PRADESH,Avtar Singh Bhadana,INC,1999,80,GEN,7,M,258456
+S24,Baghpat,UTTAR PRADESH,Ajit Singh,RLD,1999,81,GEN,7,M,358069
+S24,Muzaffarnagar,UTTAR PRADESH,Saiduzzaman,INC,1999,82,GEN,7,M,196669
+S24,Kairana,UTTAR PRADESH,Amir Alam,RLD,1999,83,GEN,7,M,206345
+S24,Saharanpur,UTTAR PRADESH,Mansoor Ali Khan,BSP,1999,84,GEN,7,M,235659
+S24,Hardwar,UTTAR PRADESH,Harpal Singh Sathi,BJP,1999,85,SC,7,M,236844
+S25,Cooch Behar,WEST BENGAL,Amar Roy Pradhan,FBL,1999,1,SC,7,M,443148
+S25,Alipurduars,WEST BENGAL,Joachim Baxla,RSP,1999,2,ST,7,M,389919
+S25,Jalpaiguri,WEST BENGAL,Minati Sen,CPM,1999,3,GEN,7,F,405785
+S25,Darjeeling,WEST BENGAL,S.P. Lepcha,CPM,1999,4,GEN,7,M,256826
+S25,Raiganj,WEST BENGAL,Priya Ranjan Dasmunsi,INC,1999,5,GEN,7,M,409331
+S25,Balurghat,WEST BENGAL,Barman Ranen,RSP,1999,6,SC,7,M,375669
+S25,Malda,WEST BENGAL,Abul Barkat Ataul Ghani Khan Choudhury,INC,1999,7,GEN,7,M,325833
+S25,Jangipur,WEST BENGAL,Abul Hasnat Khan,CPM,1999,8,GEN,7,M,352580
+S25,Murshidabad,WEST BENGAL,Moinul Hassan,CPM,1999,9,GEN,7,M,391366
+S25,Berhampore,WEST BENGAL,Adhir Ranjan Chowdhury,INC,1999,10,GEN,7,M,434073
+S25,Krishnagar,WEST BENGAL,Satyabrata Mookherjee,BJP,1999,11,GEN,7,M,366954
+S25,Nabadwip,WEST BENGAL,Ananda Mohan Biswas,AITC,1999,12,SC,7,M,459319
+S25,Barasat,WEST BENGAL,Dr.Ranjit Kumar Panja,AITC,1999,13,GEN,7,M,518520
+S25,Basirhat,WEST BENGAL,Ajoy Chakraborty,CPI,1999,14,GEN,7,M,407903
+S25,Joynagar,WEST BENGAL,Sanat Kumar Mondal,RSP,1999,15,SC,7,M,396383
+S25,Mathurapur,WEST BENGAL,Radhika Ranjan Pramanik,CPM,1999,16,SC,7,M,382962
+S25,Diamond Harbour,WEST BENGAL,Samik Lahiri,CPM,1999,17,GEN,7,M,402761
+S25,Jadavpur,WEST BENGAL,Krishna Bose,AITC,1999,18,GEN,7,F,485366
+S25,Barrackpore,WEST BENGAL,Tarit Baran Topdar,CPM,1999,19,GEN,7,M,399269
+S25,Dum Dum,WEST BENGAL,Tapan Sikdar,BJP,1999,20,GEN,7,M,614471
+S25,Calcutta North West,WEST BENGAL,Sudip Bandyopadhyay,AITC,1999,21,GEN,7,M,206684
+S25,Calcutta North East,WEST BENGAL,Ajit Kumar Panja,AITC,1999,22,GEN,7,M,297491
+S25,Calcutta South,WEST BENGAL,Mamata Banerjee,AITC,1999,23,GEN,7,F,469103
+S25,Howrah,WEST BENGAL,Swadesh Chakraborty,CPM,1999,24,GEN,7,M,490537
+S25,Uluberia,WEST BENGAL,Hannan Mollah,CPM,1999,25,GEN,7,M,399397
+S25,Serampore,WEST BENGAL,Akbor Ali Khandoker,AITC,1999,26,GEN,7,M,411406
+S25,Hooghly,WEST BENGAL,Rupchand Pal,CPM,1999,27,GEN,7,M,440674
+S25,Arambagh,WEST BENGAL,Anil Basu,CPM,1999,28,GEN,7,M,503920
+S25,Panskura,WEST BENGAL,Gita Mukherjee,CPI,1999,29,GEN,7,F,401431
+S25,Tamluk,WEST BENGAL,Lakshman Chandra Seth,CPM,1999,30,GEN,7,M,455168
+S25,Contai,WEST BENGAL,Neetish  Sengupta,AITC,1999,31,GEN,7,M,395048
+S25,Midnapore,WEST BENGAL,Indrajit Gupta,CPI,1999,32,GEN,7,M,414545
+S25,Jhargram,WEST BENGAL,Rupchand Murmu,CPM,1999,33,ST,7,M,402325
+S25,Purulia,WEST BENGAL,Birsingh Mahato,FBL,1999,34,GEN,7,M,351143
+S25,Bankura,WEST BENGAL,Acharia Basudeb,CPM,1999,35,GEN,7,M,381720
+S25,Vishnupur,WEST BENGAL,Sandhya Bauri,CPM,1999,36,SC,7,F,483084
+S25,Durgapur,WEST BENGAL,Sunil Khan,CPM,1999,37,SC,7,M,461940
+S25,Asansol,WEST BENGAL,Bikash Chowdhury,CPM,1999,38,GEN,7,M,377265
+S25,Burdwan,WEST BENGAL,Sar Nikhilananda,CPM,1999,39,GEN,7,M,598170
+S25,Katwa,WEST BENGAL,Mahboob Zahedi,CPM,1999,40,GEN,7,M,461502
+S25,Bolpur,WEST BENGAL,Somnath Chatterjee,CPM,1999,41,GEN,7,M,464199
+S25,Birbhum,WEST BENGAL,Ram Chandra Dome,CPM,1999,42,SC,7,M,373687
+U05,New Delhi,DELHI,Jag Mohan,BJP,1999,1,GEN,7,M,124626
+U05,South Delhi,DELHI,Vijay Kumar Malhotra,BJP,1999,2,GEN,7,M,261230
+U05,Outer Delhi,DELHI,Sahib Singh Verma,BJP,1999,3,GEN,7,M,709692
+U05,East Delhi,DELHI,Lal Bihari Tiwari,BJP,1999,4,GEN,7,M,521434
+U05,Chandni Chowk,DELHI,Vijay Goel,BJP,1999,5,GEN,7,M,74001
+U05,Delhi Sadar,DELHI,Madan Lal Khurana,BJP,1999,6,GEN,7,M,143186
+U05,Karol Bagh,DELHI,Anita Arya,BJP,1999,7,SC,7,F,128956
+S01,Srikakulam,ANDHRA,Yerrannaidu Kinjarapu,TDP,2000,1,GEN,7,M,373851
+S01,Parvathipuram,ANDHRA,Dadichiluka Veera Gouri Sankara Rao,TDP,2000,2,ST,7,M,304000
+S01,Bobbili,ANDHRA,Botcha Satyanarayana,INC,2000,3,GEN,7,M,339768
+S01,Visakhapatnam,ANDHRA,M.V.V.S.Murthy,TDP,2000,4,GEN,7,M,442036
+S01,Bhadrachalam,ANDHRA,Dumpa Mary Vijaya Kumari,TDP,2000,5,ST,7,F,293593
+S01,Anakapalli,ANDHRA,Ganta Srinivasa Rao,TDP,2000,6,GEN,7,M,392984
+S01,Kakinada,ANDHRA,Mudragada Padmanabham,TDP,2000,7,GEN,7,M,435811
+S01,Rajahmundry,ANDHRA,Satyanarayana Rao S.B.P.B.K,BJP,2000,8,GEN,7,M,411956
+S01,Amalapuram,ANDHRA,Ganti Mohanachandra Balayogi,TDP,2000,9,SC,7,M,368476
+S01,Narasapur,ANDHRA,Uppalapati Venkata Krishnam Raju,BJP,2000,10,GEN,7,M,421099
+S01,Eluru,ANDHRA,Bolla Bulli Ramaiah,TDP,2000,11,GEN,7,M,435884
+S01,Machilipatnam,ANDHRA,Ambati Brahmanaiah,TDP,2000,12,GEN,7,M,387533
+S01,Vijayawada,ANDHRA,Gadde Rama Mohan,TDP,2000,13,GEN,7,M,482968
+S01,Tenali,ANDHRA,Ummareddy Venkateswarlu,TDP,2000,14,GEN,7,M,339800
+S01,Guntur,ANDHRA,Yemparala Venkateswararao,TDP,2000,15,GEN,7,M,399065
+S01,Bapatla,ANDHRA,D. Rama Naidu,TDP,2000,16,GEN,7,M,399596
+S01,Narasaraopet,ANDHRA,Janardhanareddy Nedurumalli,INC,2000,17,GEN,7,M,432266
+S01,Ongole,ANDHRA,Karanam Balarama Krishna Murthy,TDP,2000,18,GEN,7,M,392840
+S01,Nellore,ANDHRA,Rajeswaramma Vukkala,TDP,2000,19,SC,7,F,381166
+S01,Tirupathi,ANDHRA,Dr.N.Venkataswamy,BJP,2000,20,SC,7,M,386478
+S01,Chittoor,ANDHRA,Noothana Kalva Ramakrishna Reddy,TDP,2000,21,GEN,7,M,419208
+S01,Rajampet,ANDHRA,Gunipati Ramaiah,TDP,2000,22,GEN,7,M,322107
+S01,Cuddapah,ANDHRA,Vivekananda Reddy  Y.S.,INC,2000,23,GEN,7,M,367833
+S01,Hindupur,ANDHRA,B.K. Parthasarathi,TDP,2000,24,GEN,7,M,432575
+S01,Anantapur,ANDHRA,Kalava Srinivasulu,TDP,2000,25,GEN,7,M,378488
+S01,Kurnool,ANDHRA,Kambhalapati E. Krishna Murthy,TDP,2000,26,GEN,7,M,385688
+S01,Nandyal,ANDHRA,Bhuma  Nagi Reddy,TDP,2000,27,GEN,7,M,391655
+S01,Nagarkurnool,ANDHRA,Dr.Manda Jagannath,TDP,2000,28,SC,7,M,431095
+S01,Mahabubnagar,ANDHRA,A.P.Jitender Reddy,BJP,2000,29,GEN,7,M,391588
+S01,Hyderabad,ANDHRA,Sultan Salahuddin Owaisi,AIMIM,2000,30,GEN,7,M,448165
+S01,Secunderabad,ANDHRA,Bandaru Dattatraya,BJP,2000,31,GEN,7,M,506626
+S01,Siddipet,ANDHRA,M. Rajaiah,TDP,2000,32,SC,7,M,583346
+S01,Medak,ANDHRA,A. Narendra,BJP,2000,33,GEN,7,M,400244
+S01,Nizamabad,ANDHRA,Ganga Reddy Gaddam,TDP,2000,34,GEN,7,M,373260
+S01,Adilabad,ANDHRA,Dr. S. Venugopal Chary,TDP,2000,35,GEN,7,M,390308
+S01,Peddapalli,ANDHRA,Dr.Smt.C. Suguna Kumari,TDP,2000,36,SC,7,F,406529
+S01,Karimnagar,ANDHRA,Chennamaneni Vidyasagar Rao,BJP,2000,37,GEN,7,M,398437
+S01,Hanamkonda,ANDHRA,Chada Suresh Reddy,TDP,2000,38,GEN,7,M,375285
+S01,Warangal,ANDHRA,Bodakunti Venkateshwarlu,TDP,2000,39,GEN,7,M,385593
+S01,Khammam,ANDHRA,Renuka Chowdhury,INC,2000,40,GEN,7,F,328596
+S01,Nalgonda,ANDHRA,Gutha Sukender Reddy,TDP,2000,41,GEN,7,M,427505
+S01,Miryalguda,ANDHRA,Jaipal Reddy Sudini,INC,2000,42,GEN,7,M,401437
+S04,Bagaha,BIHAR,Mahendra Baitha,JD(U),2000,1,SC,7,M,261498
+S04,Bettiah,BIHAR,Dr Madan Prasad Jaiswal,BJP,2000,2,GEN,7,M,343027
+S04,Motihari,BIHAR,Radha Mohan Singh,BJP,2000,3,GEN,7,M,338696
+S04,Gopalganj,BIHAR,Raghunath Jha,JD(U),2000,4,GEN,7,M,365107
+S04,Siwan,BIHAR,M  Sahabuddin,RJD,2000,5,GEN,7,M,385069
+S04,Maharajganj,BIHAR,Prabhunath Singh,JD(U),2000,6,GEN,7,M,398475
+S04,Chapra,BIHAR,Rajiv Pratap Rudi,BJP,2000,7,GEN,7,M,390477
+S04,Hajipur,BIHAR,Ram Vilas Paswan,JD(U),2000,8,SC,7,M,434609
+S04,Vaishali,BIHAR,Raghuvansh Prasad Singh,RJD,2000,9,GEN,7,M,308458
+S04,Muzaffarpur,BIHAR,Captain Jai Na. Pd. Nishad,JD(U),2000,10,GEN,7,M,363820
+S04,Sitamarhi,BIHAR,Nawal Kishore Rai,JD(U),2000,11,GEN,7,M,410557
+S04,Sheohar,BIHAR,Md Anwarul Haque,RJD,2000,12,GEN,7,M,347279
+S04,Madhubani,BIHAR,Hukumdeo Narayan Yadav,BJP,2000,13,GEN,7,M,328616
+S04,Jhanjharpur,BIHAR,Devendra Prasad Yadav,JD(U),2000,14,GEN,7,M,375852
+S04,Darbhanga,BIHAR,Kirti Azad,BJP,2000,15,GEN,7,M,395549
+S04,Rosera,BIHAR,Ram Chandra Paswan,JD(U),2000,16,SC,7,M,420564
+S04,Samastipur,BIHAR,Manjay Lal,JD(U),2000,17,GEN,7,M,368776
+S04,Barh,BIHAR,Nitish Kumar,JD(U),2000,18,GEN,7,M,362016
+S04,Balia,BIHAR,Ramjivan Singh,JD(U),2000,19,GEN,7,M,169443
+S04,Saharsa,BIHAR,Dinesh Chandra Yadav,JD(U),2000,20,GEN,7,M,392926
+S04,Madhepura,BIHAR,Sharad Yadav,JD(U),2000,21,GEN,7,M,328761
+S04,Araria,BIHAR,Sukdeo Paswan,RJD,2000,22,SC,7,M,308579
+S04,Kishanganj,BIHAR,Syed Shahnawaz Hussain,BJP,2000,23,GEN,7,M,258035
+S04,Purnea,BIHAR,Rajesh Ranjan,IND,2000,24,GEN,7,M,438193
+S04,Katihar,BIHAR,Nikhil Kumar Choudhary,BJP,2000,25,GEN,7,M,280911
+S04,Rajmahal,BIHAR,Thomas Hansda,INC,2000,26,ST,7,M,250298
+S04,Dumka,BIHAR,Babu Lal Marandi,BJP,2000,27,ST,7,M,201141
+S04,Godda,BIHAR,Jagdambi Prasad Yadav,BJP,2000,28,GEN,7,M,221191
+S04,Banka,BIHAR,Digvijay Singh,JD(U),2000,29,GEN,7,M,233453
+S04,Bhagalpur,BIHAR,Subodh Ray,CPM,2000,30,GEN,7,M,321159
+S04,Khagaria,BIHAR,Renu Kumari,JD(U),2000,31,GEN,7,F,293412
+S04,Monghyr,BIHAR,Brahma Nand Mandal,JD(U),2000,32,GEN,7,M,346615
+S04,Begusarai,BIHAR,Rajo Singh,INC,2000,33,GEN,7,M,318244
+S04,Nalanda,BIHAR,George Fernandes,JD(U),2000,34,GEN,7,M,464458
+S04,Patna,BIHAR,C P Thakur,BJP,2000,35,GEN,7,M,379370
+S04,Arrah,BIHAR,Ram Prasad Singh,RJD,2000,36,GEN,7,M,264140
+S04,Buxar,BIHAR,Lal Muni Choubey,BJP,2000,37,GEN,7,M,235968
+S04,Sasaram,BIHAR,Muni Lall,BJP,2000,38,SC,7,M,257223
+S04,Bikramganj,BIHAR,Kanti Singh,RJD,2000,39,GEN,7,F,346259
+S04,Aurangabad,BIHAR,Shyama Singh,INC,2000,40,GEN,7,F,317418
+S04,Jahanabad,BIHAR,Arun Kumar,JD(U),2000,41,GEN,7,M,333332
+S04,Nawada,BIHAR,Sanjay Paswan,BJP,2000,42,SC,7,M,453943
+S04,Gaya,BIHAR,Ramji Manjhi,BJP,2000,43,SC,7,M,319530
+S04,Chatra,BIHAR,Nagmani,RJD,2000,44,GEN,7,M,219783
+S04,Kodarma,BIHAR,Tilakdhari Pd Singh,INC,2000,45,GEN,7,M,273808
+S04,Giridih,BIHAR,Ravindra Kumar Pandey,BJP,2000,46,GEN,7,M,248454
+S04,Dhanbad,BIHAR,Rita Verma,BJP,2000,47,GEN,7,F,366065
+S04,Hazaribagh,BIHAR,Yashwant Sinha,BJP,2000,48,GEN,7,M,283956
+S04,Ranchi,BIHAR,Ram Tahal Choudhary,BJP,2000,49,GEN,7,M,379261
+S04,Jamshedpur,BIHAR,Abha Mahato,BJP,2000,50,GEN,7,F,285232
+S04,Singhbhum,BIHAR,Laxman Gilua,BJP,2000,51,ST,7,M,231237
+S04,Khunti,BIHAR,Kariya Munda,BJP,2000,52,ST,7,M,187484
+S04,Lohardaga,BIHAR,Dukha Bhagat,BJP,2000,53,ST,7,M,163658
+S04,Palamau,BIHAR,Braj Mohan Ram,BJP,2000,54,SC,7,M,271657
+S06,Kutch,GUJARAT,Gadhvi Pushpadan Sambhudan,BJP,2000,1,GEN,7,M,191533
+S06,Surendranagar,GUJARAT,Makwana Savshibhai Kanjibhai,INC,2000,2,GEN,7,M,244368
+S06,Jamnagar,GUJARAT,Koradiya Chandreshbhai Valjibhai (Chandresh Patel),BJP,2000,3,GEN,7,M,190726
+S06,Rajkot,GUJARAT,Dr Kathiriya Vallabhbhai Ramjibhai,BJP,2000,4,GEN,7,M,312941
+S06,Porbandar,GUJARAT,Javiya Gordhanbhai Jadavbhai,BJP,2000,5,GEN,7,M,210627
+S06,Junagadh,GUJARAT,Chikhaliya Bhavnaben Devrajbhai,BJP,2000,6,GEN,7,F,266809
+S06,Amreli,GUJARAT,Dileep Sanghani,BJP,2000,7,GEN,7,M,217670
+S06,Bhavnagar,GUJARAT,Rana Rajendrasinh Ghanshyamsinh (Rajubhai Rana),BJP,2000,8,GEN,7,M,265446
+S06,Dhandhuka,GUJARAT,Varma Ratilal Kalidas,BJP,2000,9,SC,7,M,229754
+S06,Ahmedabad,GUJARAT,Harin Pathak,BJP,2000,10,GEN,7,M,280696
+S06,Gandhinagar,GUJARAT,Lal Krishna Advani (L K Advani),BJP,2000,11,GEN,7,M,453229
+S06,Mehsana,GUJARAT,Patel Atmaram Maganbhai,INC,2000,12,GEN,7,M,340445
+S06,Patan,GUJARAT,Rashtrapal Pravinchandra Somabhai,INC,2000,13,SC,7,M,246798
+S06,Banaskantha,GUJARAT,Chaudhary Haribhai Parthibhai,BJP,2000,14,GEN,7,M,308313
+S06,Sabarkantha,GUJARAT,Nisha Amarsinh Chaudhary,INC,2000,15,GEN,7,F,334565
+S06,Kapadvanj,GUJARAT,Vaghela Shankarsinh Laxmansinh,INC,2000,16,GEN,7,M,413193
+S06,Dohad,GUJARAT,Katara Babubhai Khimabhai,BJP,2000,17,ST,7,M,232288
+S06,Godhra,GUJARAT,Solanki Bhupendrasinh Prabhatsinh,BJP,2000,18,GEN,7,M,280684
+S06,Kaira,GUJARAT,Dinsha Patel,INC,2000,19,GEN,7,M,258024
+S06,Anand,GUJARAT,Patel Dipakbhai Chimanbhai   (Sathi),BJP,2000,20,GEN,7,M,273683
+S06,Chhota Udaipur,GUJARAT,Ramsinh Rathawa,BJP,2000,21,ST,7,M,248970
+S06,Baroda,GUJARAT,Jayaben Thakkar,BJP,2000,22,GEN,7,F,322758
+S06,Broach,GUJARAT,Mansukhbhai Vasava,BJP,2000,23,GEN,7,M,290195
+S06,Surat,GUJARAT,Kashiram Rana,BJP,2000,24,GEN,7,M,423773
+S06,Mandvi,GUJARAT,Patel Mansinhbhai Kalyanji,BJP,2000,25,ST,7,M,320172
+S06,Bulsar,GUJARAT,Manibhai Ramjibhai Chaudhari,BJP,2000,26,ST,7,M,300195
+S07,Ambala,HARYANA,Rattan Lal Kataria,BJP,2000,1,SC,7,M,357460
+S07,Kurukshetra,HARYANA,Prof Kailasho Devi,INLD,2000,2,GEN,7,F,438701
+S07,Karnal,HARYANA,I.D. Swami,BJP,2000,3,GEN,7,M,433733
+S07,Sonepat,HARYANA,Kishan Singh Sangwan,BJP,2000,4,GEN,7,M,457056
+S07,Rohtak,HARYANA,Inder Singh,INLD,2000,5,GEN,7,M,366926
+S07,Faridabad,HARYANA,Ram Chander Bainda,BJP,2000,6,GEN,7,M,367842
+S07,Mahendragarh,HARYANA,Dr. Sudha Yadav,BJP,2000,7,GEN,7,F,420706
+S07,Bhiwani,HARYANA,Ajay Singh Chautala,INLD,2000,8,GEN,7,M,381255
+S07,Hissar,HARYANA,Surender Singh Barwala,INLD,2000,9,GEN,7,M,396540
+S07,Sirsa,HARYANA,Dr. Sushil Kumar Indora,INLD,2000,10,SC,7,M,419278
+S08,Simla,HIMACHAL PRADESH,Lt. Col. Dhani Ram Shandil,HVC,2000,1,SC,7,M,264002
+S08,Mandi,HIMACHAL PRADESH,Maheshwar Singh,BJP,2000,2,GEN,7,M,325929
+S08,Kangra,HIMACHAL PRADESH,Shanta Kumar,BJP,2000,3,GEN,7,M,325066
+S08,Hamirpur,HIMACHAL PRADESH,Suresh Chandel,BJP,2000,4,GEN,7,M,336172
+S10,Bidar,KARNATAKA,Ramchandra Veerappa,BJP,2000,1,SC,7,M,350221
+S10,Gulbarga,KARNATAKA,Iqbal Ahemed Saradgi,INC,2000,2,GEN,7,M,352359
+S10,Raichur,KARNATAKA,A. Venkatesh Naik,INC,2000,3,GEN,7,M,359946
+S10,Koppal,KARNATAKA,H.G.Ramulu,INC,2000,4,GEN,7,M,350599
+S10,Bellary,KARNATAKA,Kolur Basavanagoud,INC,2000,5,GEN,7,M,259851
+S10,Davangere,KARNATAKA,G.Mallikarjunappa,BJP,2000,6,GEN,7,M,398969
+S10,Chitradurga,KARNATAKA,Shashi Kumar,JD(U),2000,7,GEN,7,M,370793
+S10,Tumkur,KARNATAKA,G.S.Basavaraj,INC,2000,8,GEN,7,M,318922
+S10,Chikballapur,KARNATAKA,R.L. Jalappa,INC,2000,9,GEN,7,M,422587
+S10,Kolar,KARNATAKA,K.H. Muniyappa,INC,2000,10,SC,7,M,321964
+S10,Kanakapura,KARNATAKA,M.V.Chandrashekara Murthy,INC,2000,11,GEN,7,M,532910
+S10,Bangalore North,KARNATAKA,C.K Jaffar Sharief,INC,2000,12,GEN,7,M,525523
+S10,Bangalore South,KARNATAKA,Ananth Kumar,BJP,2000,13,GEN,7,M,410161
+S10,Mandya,KARNATAKA,Ambareesh @ Amaranatha .M.H,INC,2000,14,GEN,7,M,418110
+S10,Chamarajanagar,KARNATAKA,V.Sreenivasaprasad,JD(U),2000,15,SC,7,M,311547
+S10,Mysore,KARNATAKA,Srikantadatta Narasimharaja Wadiyar,INC,2000,16,GEN,7,M,338051
+S10,Mangalore,KARNATAKA,V.Dhananjaya Kumar,BJP,2000,17,GEN,7,M,353536
+S10,Udupi,KARNATAKA,Vinay Kumar Sorake,INC,2000,18,GEN,7,M,352326
+S10,Hassan,KARNATAKA,G.Putta Swamy Gowda,INC,2000,19,GEN,7,M,398344
+S10,Chikmagalur,KARNATAKA,D.C.Srikantappa,BJP,2000,20,GEN,7,M,324470
+S10,Shimoga,KARNATAKA,S.Bangarappa,INC,2000,21,GEN,7,M,427870
+S10,Kanara,KARNATAKA,Alva Margaret,INC,2000,22,GEN,7,F,356246
+S10,Dharwad South,KARNATAKA,Prof. I.G. Sanadi,INC,2000,23,GEN,7,M,355523
+S10,Dharwad North,KARNATAKA,Vijay Sankeshwar,BJP,2000,24,GEN,7,M,345197
+S10,Belgaum,KARNATAKA,Amarsinh Vasantarao Patil,INC,2000,25,GEN,7,M,383444
+S10,Chikkodi,KARNATAKA,Jigajinagi Rameshchandappa,JD(U),2000,26,SC,7,M,392450
+S10,Bagalkot,KARNATAKA,R.S. Patil,INC,2000,27,GEN,7,M,378488
+S10,Bijapur,KARNATAKA,Basangouda Ramangouda Patil(Yatnal),BJP,2000,28,GEN,7,M,348816
+S11,Kasaragod,KERALA,T. Govindan,CPM,2000,1,GEN,7,M,423564
+S11,Cannanore,KERALA,A.P. Abdullakkutty,CPM,2000,2,GEN,7,M,428390
+S11,Badagara,KERALA,A.K. Premajam,CPM,2000,3,GEN,7,F,404355
+S11,Calicut,KERALA,K. Muraleedharan,INC,2000,4,GEN,7,M,383425
+S11,Manjeri,KERALA,E. Ahamed,MUL,2000,5,GEN,7,M,437563
+S11,Ponnani,KERALA,G.M. Banatwalla,MUL,2000,6,GEN,7,M,372572
+S11,Palghat,KERALA,N.N.Krishnadas,CPM,2000,7,GEN,7,M,372536
+S11,Ottapalam,KERALA,S. Ajayakumar,CPM,2000,8,SC,7,M,359758
+S11,Trichur,KERALA,A.C. Jose,INC,2000,9,GEN,7,M,343793
+S11,Mukundapuram,KERALA,K. Karunakaran,INC,2000,10,GEN,7,M,397156
+S11,Ernakulam,KERALA,Adv. George Eden,INC,2000,11,GEN,7,M,394058
+S11,Muvattupuzha,KERALA,Adv. P.C. Thomas,KEC(M),2000,12,GEN,7,M,357402
+S11,Kottayam,KERALA,Suresh Kurup,CPM,2000,13,GEN,7,M,344296
+S11,Idukki,KERALA,K. Francis George,KEC,2000,14,GEN,7,M,365313
+S11,Alleppey,KERALA,V.M. Sudheeran,INC,2000,15,GEN,7,M,392700
+S11,Mavelikara,KERALA,Ramesh Chennithala,INC,2000,16,GEN,7,M,310455
+S11,Adoor,KERALA,Kodikunnil Suresh,INC,2000,17,SC,7,M,337003
+S11,Quilon,KERALA,P. Rajendran,CPM,2000,18,GEN,7,M,351869
+S11,Chirayinkil,KERALA,Varkala Radhakrishnan,CPM,2000,19,GEN,7,M,309304
+S11,Trivandrum,KERALA,Advocate V.S. Sivakumar,INC,2000,20,GEN,7,M,288390
+S12,Morena,MADHYA PRADESH,Ashok Chhaviram  Argal,BJP,2000,1,SC,7,M,210790
+S12,Bhind,MADHYA PRADESH,Dr. Ramlakhan Singh,BJP,2000,2,GEN,7,M,270766
+S12,Gwalior,MADHYA PRADESH,Jaibhan Singh Pavaiya,BJP,2000,3,GEN,7,M,254486
+S12,Guna,MADHYA PRADESH,Madhavrao Scindia,INC,2000,4,GEN,7,M,443965
+S12,Sagar,MADHYA PRADESH,Virendra Kumar,BJP,2000,5,SC,7,M,293357
+S12,Khajuraho,MADHYA PRADESH,Satyavrat Chaturvedi ( Vinod Bhaiya ),INC,2000,6,GEN,7,M,335861
+S12,Damoh,MADHYA PRADESH,Dr. Ramkrishna Kusmaria,BJP,2000,7,GEN,7,M,246909
+S12,Satna,MADHYA PRADESH,Ramanand Singh,BJP,2000,8,GEN,7,M,217932
+S12,Rewa,MADHYA PRADESH,Sunder Lal Tiwari,INC,2000,9,GEN,7,M,275115
+S12,Sidhi,MADHYA PRADESH,Chandra Pratap Singh ( Baba Sahab),BJP,2000,10,ST,7,M,264981
+S12,Shahdol,MADHYA PRADESH,Dalpat Singh,BJP,2000,11,ST,7,M,262229
+S12,Surguja,MADHYA PRADESH,Khel Sai Singh,INC,2000,12,ST,7,M,297778
+S12,Raigarh,MADHYA PRADESH,Vishnudeo Sai,BJP,2000,13,ST,7,M,276244
+S12,Janjgir,MADHYA PRADESH,Dr. Charandas Mahant,INC,2000,14,GEN,7,M,278931
+S12,Bilaspur,MADHYA PRADESH,Punnulal Mohale,BJP,2000,15,SC,7,M,274860
+S12,Sarangarh,MADHYA PRADESH,P. R. Khute,BJP,2000,16,SC,7,M,281769
+S12,Raipur,MADHYA PRADESH,Ramesh Bais,BJP,2000,17,GEN,7,M,354736
+S12,Mahasamund,MADHYA PRADESH,Shyama Charan Shukla,INC,2000,18,GEN,7,M,340635
+S12,Kanker,MADHYA PRADESH,Sohan Potai,BJP,2000,19,ST,7,M,318040
+S12,Bastar,MADHYA PRADESH,Baliram Kashyap,BJP,2000,20,ST,7,M,155421
+S12,Durg,MADHYA PRADESH,Tara Chand Sahu,BJP,2000,21,GEN,7,M,389777
+S12,Rajnandgaon,MADHYA PRADESH,Dr. Raman,BJP,2000,22,GEN,7,M,304611
+S12,Balaghat,MADHYA PRADESH,Prahladsingh Patel,BJP,2000,23,GEN,7,M,251308
+S12,Mandla,MADHYA PRADESH,Faggan Singh Kulaste,BJP,2000,24,ST,7,M,232042
+S12,Jabalpur,MADHYA PRADESH,Jaishree Banerjee ( Bhabhi Ji),BJP,2000,25,GEN,7,F,300648
+S12,Seoni,MADHYA PRADESH,Ram Naresh Tripathi,BJP,2000,26,GEN,7,M,282891
+S12,Chhindwara,MADHYA PRADESH,Kamal Nath,INC,2000,27,GEN,7,M,399904
+S12,Betul,MADHYA PRADESH,"Vijay Kumar Khandelwal "" Munni Bhaiya""",BJP,2000,28,GEN,7,M,272512
+S12,Hoshangabad,MADHYA PRADESH,Sundar Lal Patwa,BJP,2000,29,GEN,7,M,353760
+S12,Bhopal,MADHYA PRADESH,Uma Bharti,BJP,2000,30,GEN,7,F,537905
+S12,Vidisha,MADHYA PRADESH,Shivraj Singh,BJP,2000,31,GEN,7,M,360421
+S12,Rajgarh,MADHYA PRADESH,Laxman Singh,INC,2000,32,GEN,7,M,354234
+S12,Shajapur,MADHYA PRADESH,Thavarchand Gehlot,BJP,2000,33,SC,7,M,387607
+S12,Khandwa,MADHYA PRADESH,Nandkumarsingh Chouhan ( Nandu Bhaiya ),BJP,2000,34,GEN,7,M,364161
+S12,Khargone,MADHYA PRADESH,Tarachand Patel,INC,2000,35,GEN,7,M,354133
+S12,Dhar,MADHYA PRADESH,Gajendra Singh Rajukhedi,INC,2000,36,ST,7,M,355482
+S12,Indore,MADHYA PRADESH,Sumitra Mahajan,BJP,2000,37,GEN,7,F,474167
+S12,Ujjain,MADHYA PRADESH,Dr. Satyanarayan Jatiya,BJP,2000,38,SC,7,M,360103
+S12,Jhabua,MADHYA PRADESH,Kantilal Bhuriya,INC,2000,39,ST,7,M,371842
+S12,Mandsaur,MADHYA PRADESH,Dr. Lakshaminarayan Pandey,BJP,2000,40,GEN,7,M,395928
+S13,Rajapur,MAHARASHTRA,Suresh Prabhakar Prabhu,SHS,2000,1,GEN,7,M,221523
+S13,Ratnagiri,MAHARASHTRA,Anant Gangaram Geete,SHS,2000,2,GEN,7,M,293834
+S13,Kolaba,MAHARASHTRA,Ramsheth Thakur,PWPI,2000,3,GEN,7,M,274361
+S13,Mumbai South,MAHARASHTRA,Jayawanti Mehta,BJP,2000,4,GEN,7,F,144945
+S13,Mumbai South Central,MAHARASHTRA,Mohan Vishnu Rawale,SHS,2000,5,GEN,7,M,176323
+S13,Mumbai North Central,MAHARASHTRA,Manohar Gajanan Joshi,SHS,2000,6,GEN,7,M,294935
+S13,Mumbai North East,MAHARASHTRA,Kirit Somaiya,BJP,2000,7,GEN,7,M,400436
+S13,Mumbai North West,MAHARASHTRA,Sunil Dutt,INC,2000,8,GEN,7,M,366669
+S13,Mumbai North,MAHARASHTRA,Ram Naik,BJP,2000,9,GEN,7,M,517941
+S13,Thane,MAHARASHTRA,Prakash Paranjpe,SHS,2000,10,GEN,7,M,391446
+S13,Dahanu,MAHARASHTRA,Adv Chintaman Wanaga,BJP,2000,11,ST,7,M,240866
+S13,Nashik,MAHARASHTRA,Dhikale Uttamrao Nathuji,SHS,2000,12,GEN,7,M,303084
+S13,Malegaon,MAHARASHTRA,Mahale Haribahu Shankar,JD(S),2000,13,ST,7,M,191643
+S13,Dhule,MAHARASHTRA,Ramdas Rupla Gavit,BJP,2000,14,ST,7,M,211904
+S13,Nandurbar,MAHARASHTRA,Gavit Manikrao Hodlya,INC,2000,15,ST,7,M,318338
+S13,Erandol,MAHARASHTRA,Annasaheb M K Patil,BJP,2000,16,GEN,7,M,297867
+S13,Jalgaon,MAHARASHTRA,Y G Mahajan Sir,BJP,2000,17,GEN,7,M,334020
+S13,Buldhana,MAHARASHTRA,Adsul Anandrao Vithoba,SHS,2000,18,SC,7,M,294922
+S13,Akola,MAHARASHTRA,Ambedkar Prakash Yashwant,BBM,2000,19,GEN,7,M,272243
+S13,Washim,MAHARASHTRA,Bhawana Pundlikrao Gawali,SHS,2000,20,GEN,7,F,244820
+S13,Amravati,MAHARASHTRA,Gudhe Anant Mahadeoappa,SHS,2000,21,GEN,7,M,319916
+S13,Ramtek,MAHARASHTRA,Subodh Mohite,SHS,2000,22,GEN,7,M,242454
+S13,Nagpur,MAHARASHTRA,Vilas Muttemwar,INC,2000,23,GEN,7,M,424450
+S13,Bhandara,MAHARASHTRA,Chunnilalbhau Thakur,BJP,2000,24,GEN,7,M,291355
+S13,Chimur,MAHARASHTRA,Diwathe Namdeo Harbaji,BJP,2000,25,GEN,7,M,300601
+S13,Chandrapur,MAHARASHTRA,Puglia Nareshkumar Chunnalal,INC,2000,26,GEN,7,M,328522
+S13,Wardha,MAHARASHTRA,Prabha Rao,INC,2000,27,GEN,7,F,249564
+S13,Yavatmal,MAHARASHTRA,Uttamrao Deorao Patil,INC,2000,28,GEN,7,M,258535
+S13,Hingoli,MAHARASHTRA,Mane Shivaji Gyanbarao,SHS,2000,29,GEN,7,M,297284
+S13,Nanded,MAHARASHTRA,Khatgaonkar Bhaskarrao Bapurao,INC,2000,30,GEN,7,M,327293
+S13,Parbhani,MAHARASHTRA,Jadhav Suresh Ramrao,SHS,2000,31,GEN,7,M,254019
+S13,Jalna,MAHARASHTRA,Danve Raosaheb Dadarao Patil,BJP,2000,32,GEN,7,M,332620
+S13,Aurangabad,MAHARASHTRA,Chandrakant Khaire,SHS,2000,33,GEN,7,M,383144
+S13,Beed,MAHARASHTRA,Jaysingrao Gaikwad Patil,BJP,2000,34,GEN,7,M,332946
+S13,Latur,MAHARASHTRA,Patil Shivraj Vishwanath,INC,2000,35,GEN,7,M,314213
+S13,Osmanabad,MAHARASHTRA,Kamble Shivaji Vithalrao,SHS,2000,36,SC,7,M,252135
+S13,Sholapur,MAHARASHTRA,Shinde Sushilkumar Sambhajirao,INC,2000,37,GEN,7,M,286578
+S13,Pandharpur,MAHARASHTRA,Athawale Ramdas Bandu,IND,2000,38,SC,7,M,413115
+S13,Ahmednagar,MAHARASHTRA,Dilipkumar Mansukhlal Gandhi,BJP,2000,39,GEN,7,M,278508
+S13,Kopargaon,MAHARASHTRA,E V Alias Balasaheb Vikhe Patil,SHS,2000,40,GEN,7,M,253498
+S13,Khed,MAHARASHTRA,Ashok Namdeorao Mohol,NCP,2000,41,GEN,7,M,284476
+S13,Pune,MAHARASHTRA,Pradeep Rawat,BJP,2000,42,GEN,7,M,304955
+S13,Baramati,MAHARASHTRA,Pawar Sharadchandra Govindrao,NCP,2000,43,GEN,7,M,510928
+S13,Satara,MAHARASHTRA,Laxmanrao Pandurang Jadhav Patil,NCP,2000,44,GEN,7,M,313325
+S13,Karad,MAHARASHTRA,Shriniwas Dadasaheb Patil (Marulkar),NCP,2000,45,GEN,7,M,350504
+S13,Sangli,MAHARASHTRA,Prakash (Bapu) Vasantrao Patil,INC,2000,46,GEN,7,M,381162
+S13,Ichalkaranji,MAHARASHTRA,Mane Nivedita Sambhajirao,NCP,2000,47,GEN,7,F,337657
+S13,Kolhapur,MAHARASHTRA,Mandlik Sadashivrao Dadoba,NCP,2000,48,GEN,7,M,346459
+S18,Mayurbhanj,ORISSA,Salkhan Murmu,BJP,2000,1,ST,7,M,300902
+S18,Balasore,ORISSA,Mahameghabahan Aira Kharabela Swain,BJP,2000,2,GEN,7,M,428070
+S18,Bhadrak,ORISSA,Arjun Charan Sethi,BJD,2000,3,SC,7,M,397450
+S18,Jajpur,ORISSA,Jagannath Mallik,BJD,2000,4,SC,7,M,351442
+S18,Kendrapara,ORISSA,Prabhat Kumar Samantray,BJD,2000,5,GEN,7,M,359314
+S18,Cuttack,ORISSA,Bhartruhari Mahtab,BJD,2000,6,GEN,7,M,407603
+S18,Jagatsinghpur,ORISSA,Trilochan Kanungo,BJD,2000,7,GEN,7,M,439888
+S18,Puri,ORISSA,Braja Kishore Tripathy,BJD,2000,8,GEN,7,M,383060
+S18,Bhubaneswar,ORISSA,Prasanna Kumar Patasani,BJD,2000,9,GEN,7,M,414429
+S18,Aska,ORISSA,Kumudini Patnaik,BJD,2000,10,GEN,7,F,288240
+S18,Berhampur,ORISSA,Anadicharan Sahu,BJP,2000,11,GEN,7,M,310704
+S18,Koraput,ORISSA,Hema Gamang,INC,2000,12,ST,7,F,277555
+S18,Nowrangpur,ORISSA,Parsuram Majhi,BJP,2000,13,ST,7,M,331863
+S18,Kalahandi,ORISSA,Bikram Keshari Deo,BJP,2000,14,GEN,7,M,371911
+S18,Phulbani,ORISSA,Padmanava Behera,BJD,2000,15,SC,7,M,357024
+S18,Bolangir,ORISSA,Sangeeta Kumari Singh Deo,BJP,2000,16,GEN,7,F,404988
+S18,Sambalpur,ORISSA,Prasanna Acharya,BJD,2000,17,GEN,7,M,398597
+S18,Deogarh,ORISSA,Debendra Pradhan,BJP,2000,18,GEN,7,M,376412
+S18,Dhenkanal,ORISSA,Kamakhya Prasad Singh Deo,INC,2000,19,GEN,7,M,248824
+S18,Sundargarh,ORISSA,Jual Oram,BJP,2000,20,ST,7,M,326395
+S18,Keonjhar,ORISSA,Ananta Nayak,BJP,2000,21,ST,7,M,416956
+S19,Gurdaspur,PUNJAB,Vinod Khanna,BJP,2000,1,GEN,7,M,315267
+S19,Amritsar,PUNJAB,Raghunandan Lal  Bhatia,INC,2000,2,GEN,7,M,296533
+S19,Tarn Taran,PUNJAB,Tarlochan Singh  Tur,SAD,2000,3,GEN,7,M,305899
+S19,Jullundur,PUNJAB,Balbir Singh,INC,2000,4,GEN,7,M,267209
+S19,Phillaur,PUNJAB,Santosh  Chowdhary,INC,2000,5,SC,7,F,263540
+S19,Hoshiarpur,PUNJAB,Charanjit Singh Channi,INC,2000,6,GEN,7,M,256211
+S19,Ropar,PUNJAB,Shamsher Singh,INC,2000,7,SC,7,M,326651
+S19,Patiala,PUNJAB,Preneet Kaur,INC,2000,8,GEN,7,F,360125
+S19,Ludhiana,PUNJAB,Gurcharan Singh Galib,INC,2000,9,GEN,7,M,346928
+S19,Sangrur,PUNJAB,Simranjit Singh Mann,SAD(M),2000,10,GEN,7,M,298846
+S19,Bhatinda,PUNJAB,Bhan Singh Bhaura,CPI,2000,11,SC,7,M,327484
+S19,Faridkot,PUNJAB,Jagmeet Singh  Brar,INC,2000,12,GEN,7,M,418454
+S19,Ferozepur,PUNJAB,Zora Singh,SAD,2000,13,GEN,7,M,300236
+S20,Ganganagar,RAJASTHAN,Nihal Chand,BJP,2000,1,SC,7,M,358104
+S20,Bikaner,RAJASTHAN,Rameshwar Lal Dudi,INC,2000,2,GEN,7,M,493638
+S20,Churu,RAJASTHAN,Ram Singh Kaswan,BJP,2000,3,GEN,7,M,351485
+S20,Jhunjhunu,RAJASTHAN,Sisram Ola,INC,2000,4,GEN,7,M,330198
+S20,Sikar,RAJASTHAN,Subhash Maharia,BJP,2000,5,GEN,7,M,341445
+S20,Jaipur,RAJASTHAN,Girdhari Lal Bhargava,BJP,2000,6,GEN,7,M,456720
+S20,Dausa,RAJASTHAN,Rama Pilot,INC,2000,7,GEN,7,M,349439
+S20,Alwar,RAJASTHAN,Dr. Jaswant Singh Yadav,BJP,2000,8,GEN,7,M,325556
+S20,Bharatpur,RAJASTHAN,Vishvendra Singh,BJP,2000,9,GEN,7,M,277460
+S20,Bayana,RAJASTHAN,Bahadur Singh,BJP,2000,10,SC,7,M,234881
+S20,Sawai Madhopur,RAJASTHAN,Jaskaur,BJP,2000,11,ST,7,F,277014
+S20,Ajmer,RAJASTHAN,Rasa Singh Rawat,BJP,2000,12,GEN,7,M,332130
+S20,Tonk,RAJASTHAN,Shyam Lal Bansiwal,BJP,2000,13,SC,7,M,287265
+S20,Kota,RAJASTHAN,Raghuveer Singh Koushal,BJP,2000,14,GEN,7,M,320205
+S20,Jhalawar,RAJASTHAN,Vansundhara Raje,BJP,2000,15,GEN,7,F,409574
+S20,Banswara,RAJASTHAN,Tara Chand Bhagora,INC,2000,16,ST,7,M,379775
+S20,Salumber,RAJASTHAN,Bheru Lal Meena,INC,2000,17,ST,7,M,290976
+S20,Udaipur,RAJASTHAN,Girija Vyas,INC,2000,18,GEN,7,F,372645
+S20,Chittorgarh,RAJASTHAN,Shrichand Kriplani,BJP,2000,19,GEN,7,M,411275
+S20,Bhilwara,RAJASTHAN,Vijayendra Pal Singh,BJP,2000,20,GEN,7,M,287858
+S20,Pali,RAJASTHAN,Pusp Jain,BJP,2000,21,GEN,7,M,316844
+S20,Jalore,RAJASTHAN,Buta Singh,INC,2000,22,SC,7,M,330652
+S20,Barmer,RAJASTHAN,Col. Sonaram Choudhary,INC,2000,23,GEN,7,M,424150
+S20,Jodhpur,RAJASTHAN,Jaswant Singh Vishnoi,BJP,2000,24,GEN,7,M,368463
+S20,Nagaur,RAJASTHAN,Ram Raghunath Choudhary,INC,2000,25,GEN,7,M,267914
+S22,Madras North,TAMIL NADU,"Kuppusamy, C.",DMK,2000,1,GEN,7,M,471101
+S22,Madras Central,TAMIL NADU,Murasoli Maran,DMK,2000,2,GEN,7,M,364565
+S22,Madras South,TAMIL NADU,"Baalu, T.R.",DMK,2000,3,GEN,7,M,562221
+S22,Sriperumbudur,TAMIL NADU,"Krishnaswamy,   A.",DMK,2000,4,SC,7,M,385558
+S22,Chengalpattu,TAMIL NADU,"Moorthy, A.K.",PMK,2000,5,GEN,7,M,330551
+S22,Arakkonam,TAMIL NADU,"Jagathrakshakan, S. Dr.",DMK,2000,6,GEN,7,M,346520
+S22,Vellore,TAMIL NADU,"Shanmugam, N.T.",PMK,2000,7,GEN,7,M,324547
+S22,Tiruppattur,TAMIL NADU,"Venugopal, D.",DMK,2000,8,GEN,7,M,350703
+S22,Vandavasi,TAMIL NADU,"Durai, M.",PMK,2000,9,GEN,7,M,345539
+S22,Tindivanam,TAMIL NADU,Ramachandran N. Gingee.,MDMK,2000,10,GEN,7,M,323234
+S22,Cuddalore,TAMIL NADU,"Sankar, Adhi",DMK,2000,11,GEN,7,M,358367
+S22,Chidambaram,TAMIL NADU,"Ponnuswamy, E.",PMK,2000,12,SC,7,M,345331
+S22,Dharmapuri,TAMIL NADU,"Elangovan, P.D.",PMK,2000,13,GEN,7,M,340162
+S22,Krishnagiri,TAMIL NADU,"Vetriselvan, V.",DMK,2000,14,GEN,7,M,347737
+S22,Rasipuram,TAMIL NADU,"Saroja, V. Dr.",ADMK,2000,15,SC,7,F,304843
+S22,Salem,TAMIL NADU,"Selvaganapathi, T.M.",ADMK,2000,16,GEN,7,M,363689
+S22,Tiruchengode,TAMIL NADU,"Kannappan, M.",MDMK,2000,17,GEN,7,M,409293
+S22,Nilgiris,TAMIL NADU,"Mathan, M. (Alias) Master Mathan, M.",BJP,2000,18,GEN,7,M,369828
+S22,Gobichettipalayam,TAMIL NADU,"Kaliappan, K.K.",ADMK,2000,19,GEN,7,M,299184
+S22,Coimbatore,TAMIL NADU,"Radhakrishnan, C.P.",BJP,2000,20,GEN,7,M,430068
+S22,Pollachi,TAMIL NADU,"Krishnan, Dr.C.",MDMK,2000,21,SC,7,M,293038
+S22,Palani,TAMIL NADU,"Kumarasamy, P.",ADMK,2000,22,GEN,7,M,297850
+S22,Dindigul,TAMIL NADU,"Sreenivaasan, C.",ADMK,2000,23,GEN,7,M,294794
+S22,Madurai,TAMIL NADU,"Mohan, P.",CPM,2000,24,GEN,7,M,328204
+S22,Periyakulam,TAMIL NADU,"Dhinakaran,",ADMK,2000,25,GEN,7,M,303881
+S22,Karur,TAMIL NADU,"Chinnasamy, M.",ADMK,2000,26,GEN,7,M,334407
+S22,Tiruchirappalli,TAMIL NADU,Arangarajan Kumaramangalam,BJP,2000,27,GEN,7,M,377450
+S22,Perambalur,TAMIL NADU,Raja. A.,DMK,2000,28,SC,7,M,330675
+S22,Mayiladuturai,TAMIL NADU,Manishankar Aiyar,INC,2000,29,GEN,7,M,324384
+S22,Nagapattinam,TAMIL NADU,"Vijayan, A.K.S.",DMK,2000,30,SC,7,M,342237
+S22,Thanjavur,TAMIL NADU,Palanimanickam.S.S.,DMK,2000,31,GEN,7,M,295191
+S22,Pudukkottai,TAMIL NADU,Thirunavukarasu,MADMK,2000,32,GEN,7,M,396216
+S22,Sivaganga,TAMIL NADU,"Sudarsana Natchiappan,E.M.",INC,2000,33,GEN,7,M,246078
+S22,Ramanathapuram,TAMIL NADU,Malaisamy.K.,ADMK,2000,34,GEN,7,M,265253
+S22,Sivakasi,TAMIL NADU,Vaiko,MDMK,2000,35,GEN,7,M,325829
+S22,Tirunelveli,TAMIL NADU,"Pandian, P.H.",ADMK,2000,36,GEN,7,M,249975
+S22,Tenkasi,TAMIL NADU,"Murugesan,S.",ADMK,2000,37,SC,7,M,239241
+S22,Tiruchendur,TAMIL NADU,"Jayaseelan, A.D.K.",DMK,2000,38,GEN,7,M,237630
+S22,Nagercoil,TAMIL NADU,"Radhakrishnan,P.",BJP,2000,39,GEN,7,M,307319
+S24,Tehri Garhwal,UTTAR PRADESH,Manabendra Shah,BJP,2000,1,GEN,7,M,207839
+S24,Garhwal,UTTAR PRADESH,Maj Gen. (Rtd) Bhuwan Chandra Khanduri(A.V.S.M.),BJP,2000,2,GEN,7,M,239745
+S24,Almora,UTTAR PRADESH,Bachi Singh Rawat,BJP,2000,3,GEN,7,M,192388
+S24,Nainital,UTTAR PRADESH,Narayan Datt Tiwari,INC,2000,4,GEN,7,M,350381
+S24,Bijnor,UTTAR PRADESH,Sheeshram Singh Ravi,BJP,2000,5,SC,7,M,214266
+S24,Amroha,UTTAR PRADESH,Rashid Alvi,BSP,2000,6,GEN,7,M,337919
+S24,Moradabad,UTTAR PRADESH,Chandra Vijay Singh Alias Baby Raja,ABLTC,2000,7,GEN,7,M,253321
+S24,Rampur,UTTAR PRADESH,Begum Noor Bano Urf Mahtab Zamani Begum,INC,2000,8,GEN,7,F,338493
+S24,Sambhal,UTTAR PRADESH,Mulayam Singh Yadav,SP,2000,9,GEN,7,M,259430
+S24,Budaun,UTTAR PRADESH,Saleem Iqbal Shervani,SP,2000,10,GEN,7,M,236496
+S24,Aonla,UTTAR PRADESH,Kunwar Sarvraj Singh,SP,2000,11,GEN,7,M,195839
+S24,Bareilly,UTTAR PRADESH,Santosh Gangwar,BJP,2000,12,GEN,7,M,292813
+S24,Pilibhit,UTTAR PRADESH,Maneka Gandhi,IND,2000,13,GEN,7,F,433421
+S24,Shahjahanpur,UTTAR PRADESH,Kr. Jitendra Prasad,INC,2000,14,GEN,7,M,207167
+S24,Kheri,UTTAR PRADESH,Ravi Prakash Verma,SP,2000,15,GEN,7,M,202373
+S24,Shahabad,UTTAR PRADESH,Daud Ahmad,BSP,2000,16,GEN,7,M,214146
+S24,Sitapur,UTTAR PRADESH,Rajesh Verma,BSP,2000,17,GEN,7,M,211120
+S24,Misrikh,UTTAR PRADESH,Sushila Saroj,SP,2000,18,SC,7,F,159279
+S24,Hardoi,UTTAR PRADESH,Jai Prakash,ABLTC,2000,19,SC,7,M,206256
+S24,Lucknow,UTTAR PRADESH,Atal Bihari Vajpayee,BJP,2000,20,GEN,7,M,362709
+S24,Mohanlalganj,UTTAR PRADESH,Reena Chowdhary,SP,2000,21,SC,7,F,182034
+S24,Unnao,UTTAR PRADESH,Deepak Kumar,SP,2000,22,GEN,7,M,207242
+S24,Rae Bareli,UTTAR PRADESH,Captain Satish Sharma,INC,2000,23,GEN,7,M,224202
+S24,Pratapgarh,UTTAR PRADESH,Rajkumari Ratna Singh,INC,2000,24,GEN,7,F,202170
+S24,Amethi,UTTAR PRADESH,Sonia Gandhi,INC,2000,25,GEN,7,F,418960
+S24,Sultanpur,UTTAR PRADESH,Jai Bhadra Singh,BSP,2000,26,GEN,7,M,173558
+S24,Akbarpur,UTTAR PRADESH,Mayawati,BSP,2000,27,SC,7,F,259762
+S24,Faizabad,UTTAR PRADESH,Vinay Katiyar,BJP,2000,28,GEN,7,M,193191
+S24,Bara Banki,UTTAR PRADESH,Ram Sagar,SP,2000,29,SC,7,M,210958
+S24,Kaiserganj,UTTAR PRADESH,Beni Prasad Verma,SP,2000,30,GEN,7,M,233934
+S24,Bahraich,UTTAR PRADESH,Padamsen Chaudhary,BJP,2000,31,GEN,7,M,223768
+S24,Balrampur,UTTAR PRADESH,Rizvan Zaheer  Alias Rijju Bhaiya,SP,2000,32,GEN,7,M,255267
+S24,Gonda,UTTAR PRADESH,Braj Bhushan Sharan Singh,BJP,2000,33,GEN,7,M,243162
+S24,Basti,UTTAR PRADESH,Shriram Chauhan,BJP,2000,34,SC,7,M,174378
+S24,Domariaganj,UTTAR PRADESH,Ram Pal Singh,BJP,2000,35,GEN,7,M,198263
+S24,Khalilabad,UTTAR PRADESH,Bhal Chandra Yadav,SP,2000,36,GEN,7,M,236837
+S24,Bansgaon,UTTAR PRADESH,Raj Narayan Pasi,BJP,2000,37,SC,7,M,184684
+S24,Gorakhpur,UTTAR PRADESH,Aditya Nath,BJP,2000,38,GEN,7,M,267382
+S24,Maharajganj,UTTAR PRADESH,Akhilesh  Singh,SP,2000,39,GEN,7,M,239826
+S24,Padrauna,UTTAR PRADESH,Ram Nagina Mishra,BJP,2000,40,GEN,7,M,196651
+S24,Deoria,UTTAR PRADESH,Shri Prakash Mani,BJP,2000,41,GEN,7,M,251814
+S24,Salempur,UTTAR PRADESH,Babban Rajbhar,BSP,2000,42,GEN,7,M,170558
+S24,Ballia,UTTAR PRADESH,Chandra Shekhar,SJP(R),2000,43,GEN,7,M,235946
+S24,Ghosi,UTTAR PRADESH,Bal Krishna,BSP,2000,44,GEN,7,M,207105
+S24,Azamgarh,UTTAR PRADESH,Rama Kant Yadav,SP,2000,45,GEN,7,M,227616
+S24,Lalganj,UTTAR PRADESH,Dr. Bali Ram,BSP,2000,46,SC,7,M,229122
+S24,Machhlishahr,UTTAR PRADESH,Chandra Nath Singh,SP,2000,47,GEN,7,M,201509
+S24,Jaunpur,UTTAR PRADESH,Chinmayanand,BJP,2000,48,GEN,7,M,207405
+S24,Saidpur,UTTAR PRADESH,Tufani Saroj,SP,2000,49,SC,7,M,237438
+S24,Ghazipur,UTTAR PRADESH,Manoj,BJP,2000,50,GEN,7,M,240592
+S24,Chandauli,UTTAR PRADESH,Jawahar Lal Jaiswal,SP,2000,51,GEN,7,M,265412
+S24,Varanasi,UTTAR PRADESH,Shankar Prasad Jaiswal,BJP,2000,52,GEN,7,M,211955
+S24,Robertsganj,UTTAR PRADESH,Ram Shakal,BJP,2000,53,SC,7,M,200826
+S24,Mirzapur,UTTAR PRADESH,Phoolan Devi,SP,2000,54,GEN,7,F,290849
+S24,Phulpur,UTTAR PRADESH,Dharam Raj Singh Patel,SP,2000,55,GEN,7,M,183282
+S24,Allahabad,UTTAR PRADESH,Dr. Murli Manohar Joshi,BJP,2000,56,GEN,7,M,219114
+S24,Chail,UTTAR PRADESH,Suresh Pasi,BSP,2000,57,SC,7,M,151557
+S24,Fatehpur,UTTAR PRADESH,Ashok Patel,BJP,2000,58,GEN,7,M,142911
+S24,Banda,UTTAR PRADESH,Ram Sajiwan,BSP,2000,59,GEN,7,M,209995
+S24,Hamirpur,UTTAR PRADESH,Ashok Kumar Singh Chandel,BSP,2000,60,GEN,7,M,217732
+S24,Jhansi,UTTAR PRADESH,Sujan Singh Bundela,INC,2000,61,GEN,7,M,283387
+S24,Jalaun,UTTAR PRADESH,Brij Lal Khabri,BSP,2000,62,SC,7,M,197705
+S24,Ghatampur,UTTAR PRADESH,Pyare Lal Sankhwar,BSP,2000,63,SC,7,M,156582
+S24,Bilhaur,UTTAR PRADESH,Shyam Bihari Mishra,BJP,2000,64,GEN,7,M,192054
+S24,Kanpur,UTTAR PRADESH,Sriprakash Jaiswal,INC,2000,65,GEN,7,M,293610
+S24,Etawah,UTTAR PRADESH,Raghuraj Singh Shakya,SP,2000,66,GEN,7,M,233065
+S24,Kannauj,UTTAR PRADESH,Akhilesh Yadav,SP,2000,67,GEN,7,M,306054
+S24,Farrukhabad,UTTAR PRADESH,Chandra Bhushan Singh (Munnoo Babu),SP,2000,68,GEN,7,M,222984
+S24,Mainpuri,UTTAR PRADESH,Balram Singh Yadav,SP,2000,69,GEN,7,M,244113
+S24,Jalesar,UTTAR PRADESH,Prof. S.P. Singh Baghel,SP,2000,70,GEN,7,M,217336
+S24,Etah,UTTAR PRADESH,Kr. Devendra Singh Yadav,SP,2000,71,GEN,7,M,226999
+S24,Firozabad,UTTAR PRADESH,Ram Jilal Suman,SP,2000,72,SC,7,M,289459
+S24,Agra,UTTAR PRADESH,Raj Babbar,SP,2000,73,GEN,7,M,288558
+S24,Mathura,UTTAR PRADESH,Ch. Tejvir Singh,BJP,2000,74,GEN,7,M,210212
+S24,Hathras,UTTAR PRADESH,Kishan Lal Diler,BJP,2000,75,SC,7,M,178253
+S24,Aligarh,UTTAR PRADESH,Sheela Gautam,BJP,2000,76,GEN,7,F,219313
+S24,Khurja,UTTAR PRADESH,Ashok Kumar Pradhan,BJP,2000,77,SC,7,M,216011
+S24,Bulandshahr,UTTAR PRADESH,Chhatra Pal,BJP,2000,78,GEN,7,M,180102
+S24,Hapur,UTTAR PRADESH,Ramesh Chand Tomar,BJP,2000,79,GEN,7,M,234525
+S24,Meerut,UTTAR PRADESH,Avtar Singh Bhadana,INC,2000,80,GEN,7,M,258456
+S24,Baghpat,UTTAR PRADESH,Ajit Singh,RLD,2000,81,GEN,7,M,358069
+S24,Muzaffarnagar,UTTAR PRADESH,Saiduzzaman,INC,2000,82,GEN,7,M,196669
+S24,Kairana,UTTAR PRADESH,Amir Alam,RLD,2000,83,GEN,7,M,206345
+S24,Saharanpur,UTTAR PRADESH,Mansoor Ali Khan,BSP,2000,84,GEN,7,M,235659
+S24,Hardwar,UTTAR PRADESH,Harpal Singh Sathi,BJP,2000,85,SC,7,M,236844
+S25,Cooch Behar,WEST BENGAL,Amar Roy Pradhan,FBL,2000,1,SC,7,M,443148
+S25,Alipurduars,WEST BENGAL,Joachim Baxla,RSP,2000,2,ST,7,M,389919
+S25,Jalpaiguri,WEST BENGAL,Minati Sen,CPM,2000,3,GEN,7,F,405785
+S25,Darjeeling,WEST BENGAL,S.P. Lepcha,CPM,2000,4,GEN,7,M,256826
+S25,Raiganj,WEST BENGAL,Priya Ranjan Dasmunsi,INC,2000,5,GEN,7,M,409331
+S25,Balurghat,WEST BENGAL,Barman Ranen,RSP,2000,6,SC,7,M,375669
+S25,Malda,WEST BENGAL,Abul Barkat Ataul Ghani Khan Choudhury,INC,2000,7,GEN,7,M,325833
+S25,Jangipur,WEST BENGAL,Abul Hasnat Khan,CPM,2000,8,GEN,7,M,352580
+S25,Murshidabad,WEST BENGAL,Moinul Hassan,CPM,2000,9,GEN,7,M,391366
+S25,Berhampore,WEST BENGAL,Adhir Ranjan Chowdhury,INC,2000,10,GEN,7,M,434073
+S25,Krishnagar,WEST BENGAL,Satyabrata Mookherjee,BJP,2000,11,GEN,7,M,366954
+S25,Nabadwip,WEST BENGAL,Ananda Mohan Biswas,AITC,2000,12,SC,7,M,459319
+S25,Barasat,WEST BENGAL,Dr.Ranjit Kumar Panja,AITC,2000,13,GEN,7,M,518520
+S25,Basirhat,WEST BENGAL,Ajoy Chakraborty,CPI,2000,14,GEN,7,M,407903
+S25,Joynagar,WEST BENGAL,Sanat Kumar Mondal,RSP,2000,15,SC,7,M,396383
+S25,Mathurapur,WEST BENGAL,Radhika Ranjan Pramanik,CPM,2000,16,SC,7,M,382962
+S25,Diamond Harbour,WEST BENGAL,Samik Lahiri,CPM,2000,17,GEN,7,M,402761
+S25,Jadavpur,WEST BENGAL,Krishna Bose,AITC,2000,18,GEN,7,F,485366
+S25,Barrackpore,WEST BENGAL,Tarit Baran Topdar,CPM,2000,19,GEN,7,M,399269
+S25,Dum Dum,WEST BENGAL,Tapan Sikdar,BJP,2000,20,GEN,7,M,614471
+S25,Calcutta North West,WEST BENGAL,Sudip Bandyopadhyay,AITC,2000,21,GEN,7,M,206684
+S25,Calcutta North East,WEST BENGAL,Ajit Kumar Panja,AITC,2000,22,GEN,7,M,297491
+S25,Calcutta South,WEST BENGAL,Mamata Banerjee,AITC,2000,23,GEN,7,F,469103
+S25,Howrah,WEST BENGAL,Swadesh Chakraborty,CPM,2000,24,GEN,7,M,490537
+S25,Uluberia,WEST BENGAL,Hannan Mollah,CPM,2000,25,GEN,7,M,399397
+S25,Serampore,WEST BENGAL,Akbor Ali Khandoker,AITC,2000,26,GEN,7,M,411406
+S25,Hooghly,WEST BENGAL,Rupchand Pal,CPM,2000,27,GEN,7,M,440674
+S25,Arambagh,WEST BENGAL,Anil Basu,CPM,2000,28,GEN,7,M,503920
+S25,Panskura,WEST BENGAL,Dr. Bikram Sarkar,AITC,2000,29,GEN,7,F,426779
+S25,Tamluk,WEST BENGAL,Lakshman Chandra Seth,CPM,2000,30,GEN,7,M,455168
+S25,Contai,WEST BENGAL,Neetish  Sengupta,AITC,2000,31,GEN,7,M,395048
+S25,Midnapore,WEST BENGAL,Indrajit Gupta,CPI,2000,32,GEN,7,M,414545
+S25,Jhargram,WEST BENGAL,Rupchand Murmu,CPM,2000,33,ST,7,M,402325
+S25,Purulia,WEST BENGAL,Birsingh Mahato,FBL,2000,34,GEN,7,M,351143
+S25,Bankura,WEST BENGAL,Acharia Basudeb,CPM,2000,35,GEN,7,M,381720
+S25,Vishnupur,WEST BENGAL,Sandhya Bauri,CPM,2000,36,SC,7,F,483084
+S25,Durgapur,WEST BENGAL,Sunil Khan,CPM,2000,37,SC,7,M,461940
+S25,Asansol,WEST BENGAL,Bikash Chowdhury,CPM,2000,38,GEN,7,M,377265
+S25,Burdwan,WEST BENGAL,Sar Nikhilananda,CPM,2000,39,GEN,7,M,598170
+S25,Katwa,WEST BENGAL,Mahboob Zahedi,CPM,2000,40,GEN,7,M,461502
+S25,Bolpur,WEST BENGAL,Somnath Chatterjee,CPM,2000,41,GEN,7,M,464199
+S25,Birbhum,WEST BENGAL,Ram Chandra Dome,CPM,2000,42,SC,7,M,373687
+U05,New Delhi,DELHI,Jag Mohan,BJP,2000,1,GEN,7,M,124626
+U05,South Delhi,DELHI,Vijay Kumar Malhotra,BJP,2000,2,GEN,7,M,261230
+U05,Outer Delhi,DELHI,Sahib Singh Verma,BJP,2000,3,GEN,7,M,709692
+U05,East Delhi,DELHI,Lal Bihari Tiwari,BJP,2000,4,GEN,7,M,521434
+U05,Chandni Chowk,DELHI,Vijay Goel,BJP,2000,5,GEN,7,M,74001
+U05,Delhi Sadar,DELHI,Madan Lal Khurana,BJP,2000,6,GEN,7,M,143186
+U05,Karol Bagh,DELHI,Anita Arya,BJP,2000,7,SC,7,F,128956
+S01,Srikakulam,ANDHRA,Yerrannaidu Kinjarapu,TDP,2001,1,GEN,7,M,373851
+S01,Parvathipuram,ANDHRA,Dadichiluka Veera Gouri Sankara Rao,TDP,2001,2,ST,7,M,304000
+S01,Bobbili,ANDHRA,Botcha Satyanarayana,INC,2001,3,GEN,7,M,339768
+S01,Visakhapatnam,ANDHRA,M.V.V.S.Murthy,TDP,2001,4,GEN,7,M,442036
+S01,Bhadrachalam,ANDHRA,Dumpa Mary Vijaya Kumari,TDP,2001,5,ST,7,F,293593
+S01,Anakapalli,ANDHRA,Ganta Srinivasa Rao,TDP,2001,6,GEN,7,M,392984
+S01,Kakinada,ANDHRA,Mudragada Padmanabham,TDP,2001,7,GEN,7,M,435811
+S01,Rajahmundry,ANDHRA,Satyanarayana Rao S.B.P.B.K,BJP,2001,8,GEN,7,M,411956
+S01,Amalapuram,ANDHRA,Ganti Mohanachandra Balayogi,TDP,2001,9,SC,7,M,368476
+S01,Narasapur,ANDHRA,Uppalapati Venkata Krishnam Raju,BJP,2001,10,GEN,7,M,421099
+S01,Eluru,ANDHRA,Bolla Bulli Ramaiah,TDP,2001,11,GEN,7,M,435884
+S01,Machilipatnam,ANDHRA,Ambati Brahmanaiah,TDP,2001,12,GEN,7,M,387533
+S01,Vijayawada,ANDHRA,Gadde Rama Mohan,TDP,2001,13,GEN,7,M,482968
+S01,Tenali,ANDHRA,Ummareddy Venkateswarlu,TDP,2001,14,GEN,7,M,339800
+S01,Guntur,ANDHRA,Yemparala Venkateswararao,TDP,2001,15,GEN,7,M,399065
+S01,Bapatla,ANDHRA,D. Rama Naidu,TDP,2001,16,GEN,7,M,399596
+S01,Narasaraopet,ANDHRA,Janardhanareddy Nedurumalli,INC,2001,17,GEN,7,M,432266
+S01,Ongole,ANDHRA,Karanam Balarama Krishna Murthy,TDP,2001,18,GEN,7,M,392840
+S01,Nellore,ANDHRA,Rajeswaramma Vukkala,TDP,2001,19,SC,7,F,381166
+S01,Tirupathi,ANDHRA,Dr.N.Venkataswamy,BJP,2001,20,SC,7,M,386478
+S01,Chittoor,ANDHRA,Noothana Kalva Ramakrishna Reddy,TDP,2001,21,GEN,7,M,419208
+S01,Rajampet,ANDHRA,Gunipati Ramaiah,TDP,2001,22,GEN,7,M,322107
+S01,Cuddapah,ANDHRA,Vivekananda Reddy  Y.S.,INC,2001,23,GEN,7,M,367833
+S01,Hindupur,ANDHRA,B.K. Parthasarathi,TDP,2001,24,GEN,7,M,432575
+S01,Anantapur,ANDHRA,Kalava Srinivasulu,TDP,2001,25,GEN,7,M,378488
+S01,Kurnool,ANDHRA,Kambhalapati E. Krishna Murthy,TDP,2001,26,GEN,7,M,385688
+S01,Nandyal,ANDHRA,Bhuma  Nagi Reddy,TDP,2001,27,GEN,7,M,391655
+S01,Nagarkurnool,ANDHRA,Dr.Manda Jagannath,TDP,2001,28,SC,7,M,431095
+S01,Mahabubnagar,ANDHRA,A.P.Jitender Reddy,BJP,2001,29,GEN,7,M,391588
+S01,Hyderabad,ANDHRA,Sultan Salahuddin Owaisi,AIMIM,2001,30,GEN,7,M,448165
+S01,Secunderabad,ANDHRA,Bandaru Dattatraya,BJP,2001,31,GEN,7,M,506626
+S01,Siddipet,ANDHRA,M. Rajaiah,TDP,2001,32,SC,7,M,583346
+S01,Medak,ANDHRA,A. Narendra,BJP,2001,33,GEN,7,M,400244
+S01,Nizamabad,ANDHRA,Ganga Reddy Gaddam,TDP,2001,34,GEN,7,M,373260
+S01,Adilabad,ANDHRA,Dr. S. Venugopal Chary,TDP,2001,35,GEN,7,M,390308
+S01,Peddapalli,ANDHRA,Dr.Smt.C. Suguna Kumari,TDP,2001,36,SC,7,F,406529
+S01,Karimnagar,ANDHRA,Chennamaneni Vidyasagar Rao,BJP,2001,37,GEN,7,M,398437
+S01,Hanamkonda,ANDHRA,Chada Suresh Reddy,TDP,2001,38,GEN,7,M,375285
+S01,Warangal,ANDHRA,Bodakunti Venkateshwarlu,TDP,2001,39,GEN,7,M,385593
+S01,Khammam,ANDHRA,Renuka Chowdhury,INC,2001,40,GEN,7,F,328596
+S01,Nalgonda,ANDHRA,Gutha Sukender Reddy,TDP,2001,41,GEN,7,M,427505
+S01,Miryalguda,ANDHRA,Jaipal Reddy Sudini,INC,2001,42,GEN,7,M,401437
+S04,Bagaha,BIHAR,Mahendra Baitha,JD(U),2001,1,SC,7,M,261498
+S04,Bettiah,BIHAR,Dr Madan Prasad Jaiswal,BJP,2001,2,GEN,7,M,343027
+S04,Motihari,BIHAR,Radha Mohan Singh,BJP,2001,3,GEN,7,M,338696
+S04,Gopalganj,BIHAR,Raghunath Jha,JD(U),2001,4,GEN,7,M,365107
+S04,Siwan,BIHAR,M  Sahabuddin,RJD,2001,5,GEN,7,M,385069
+S04,Maharajganj,BIHAR,Prabhunath Singh,JD(U),2001,6,GEN,7,M,398475
+S04,Chapra,BIHAR,Rajiv Pratap Rudi,BJP,2001,7,GEN,7,M,390477
+S04,Hajipur,BIHAR,Ram Vilas Paswan,JD(U),2001,8,SC,7,M,434609
+S04,Vaishali,BIHAR,Raghuvansh Prasad Singh,RJD,2001,9,GEN,7,M,308458
+S04,Muzaffarpur,BIHAR,Captain Jai Na. Pd. Nishad,JD(U),2001,10,GEN,7,M,363820
+S04,Sitamarhi,BIHAR,Nawal Kishore Rai,JD(U),2001,11,GEN,7,M,410557
+S04,Sheohar,BIHAR,Md Anwarul Haque,RJD,2001,12,GEN,7,M,347279
+S04,Madhubani,BIHAR,Hukumdeo Narayan Yadav,BJP,2001,13,GEN,7,M,328616
+S04,Jhanjharpur,BIHAR,Devendra Prasad Yadav,JD(U),2001,14,GEN,7,M,375852
+S04,Darbhanga,BIHAR,Kirti Azad,BJP,2001,15,GEN,7,M,395549
+S04,Rosera,BIHAR,Ram Chandra Paswan,JD(U),2001,16,SC,7,M,420564
+S04,Samastipur,BIHAR,Manjay Lal,JD(U),2001,17,GEN,7,M,368776
+S04,Barh,BIHAR,Nitish Kumar,JD(U),2001,18,GEN,7,M,362016
+S04,Balia,BIHAR,Ramjivan Singh,JD(U),2001,19,GEN,7,M,169443
+S04,Saharsa,BIHAR,Dinesh Chandra Yadav,JD(U),2001,20,GEN,7,M,392926
+S04,Madhepura,BIHAR,Sharad Yadav,JD(U),2001,21,GEN,7,M,328761
+S04,Araria,BIHAR,Sukdeo Paswan,RJD,2001,22,SC,7,M,308579
+S04,Kishanganj,BIHAR,Syed Shahnawaz Hussain,BJP,2001,23,GEN,7,M,258035
+S04,Purnea,BIHAR,Rajesh Ranjan,IND,2001,24,GEN,7,M,438193
+S04,Katihar,BIHAR,Nikhil Kumar Choudhary,BJP,2001,25,GEN,7,M,280911
+S04,Rajmahal,BIHAR,Thomas Hansda,INC,2001,26,ST,7,M,250298
+S04,Dumka,BIHAR,Babu Lal Marandi,BJP,2001,27,ST,7,M,201141
+S04,Godda,BIHAR,Jagdambi Prasad Yadav,BJP,2001,28,GEN,7,M,221191
+S04,Banka,BIHAR,Digvijay Singh,JD(U),2001,29,GEN,7,M,233453
+S04,Bhagalpur,BIHAR,Subodh Ray,CPM,2001,30,GEN,7,M,321159
+S04,Khagaria,BIHAR,Renu Kumari,JD(U),2001,31,GEN,7,F,293412
+S04,Monghyr,BIHAR,Brahma Nand Mandal,JD(U),2001,32,GEN,7,M,346615
+S04,Begusarai,BIHAR,Rajo Singh,INC,2001,33,GEN,7,M,318244
+S04,Nalanda,BIHAR,George Fernandes,JD(U),2001,34,GEN,7,M,464458
+S04,Patna,BIHAR,C P Thakur,BJP,2001,35,GEN,7,M,379370
+S04,Arrah,BIHAR,Ram Prasad Singh,RJD,2001,36,GEN,7,M,264140
+S04,Buxar,BIHAR,Lal Muni Choubey,BJP,2001,37,GEN,7,M,235968
+S04,Sasaram,BIHAR,Muni Lall,BJP,2001,38,SC,7,M,257223
+S04,Bikramganj,BIHAR,Kanti Singh,RJD,2001,39,GEN,7,F,346259
+S04,Aurangabad,BIHAR,Shyama Singh,INC,2001,40,GEN,7,F,317418
+S04,Jahanabad,BIHAR,Arun Kumar,JD(U),2001,41,GEN,7,M,333332
+S04,Nawada,BIHAR,Sanjay Paswan,BJP,2001,42,SC,7,M,453943
+S04,Gaya,BIHAR,Ramji Manjhi,BJP,2001,43,SC,7,M,319530
+S04,Chatra,BIHAR,Nagmani,RJD,2001,44,GEN,7,M,219783
+S04,Kodarma,BIHAR,Tilakdhari Pd Singh,INC,2001,45,GEN,7,M,273808
+S04,Giridih,BIHAR,Ravindra Kumar Pandey,BJP,2001,46,GEN,7,M,248454
+S04,Dhanbad,BIHAR,Rita Verma,BJP,2001,47,GEN,7,F,366065
+S04,Hazaribagh,BIHAR,Yashwant Sinha,BJP,2001,48,GEN,7,M,283956
+S04,Ranchi,BIHAR,Ram Tahal Choudhary,BJP,2001,49,GEN,7,M,379261
+S04,Jamshedpur,BIHAR,Abha Mahato,BJP,2001,50,GEN,7,F,285232
+S04,Singhbhum,BIHAR,Laxman Gilua,BJP,2001,51,ST,7,M,231237
+S04,Khunti,BIHAR,Kariya Munda,BJP,2001,52,ST,7,M,187484
+S04,Lohardaga,BIHAR,Dukha Bhagat,BJP,2001,53,ST,7,M,163658
+S04,Palamau,BIHAR,Braj Mohan Ram,BJP,2001,54,SC,7,M,271657
+S06,Kutch,GUJARAT,Gadhvi Pushpadan Sambhudan,BJP,2001,1,GEN,7,M,191533
+S06,Surendranagar,GUJARAT,Makwana Savshibhai Kanjibhai,INC,2001,2,GEN,7,M,244368
+S06,Jamnagar,GUJARAT,Koradiya Chandreshbhai Valjibhai (Chandresh Patel),BJP,2001,3,GEN,7,M,190726
+S06,Rajkot,GUJARAT,Dr Kathiriya Vallabhbhai Ramjibhai,BJP,2001,4,GEN,7,M,312941
+S06,Porbandar,GUJARAT,Javiya Gordhanbhai Jadavbhai,BJP,2001,5,GEN,7,M,210627
+S06,Junagadh,GUJARAT,Chikhaliya Bhavnaben Devrajbhai,BJP,2001,6,GEN,7,F,266809
+S06,Amreli,GUJARAT,Dileep Sanghani,BJP,2001,7,GEN,7,M,217670
+S06,Bhavnagar,GUJARAT,Rana Rajendrasinh Ghanshyamsinh (Rajubhai Rana),BJP,2001,8,GEN,7,M,265446
+S06,Dhandhuka,GUJARAT,Varma Ratilal Kalidas,BJP,2001,9,SC,7,M,229754
+S06,Ahmedabad,GUJARAT,Harin Pathak,BJP,2001,10,GEN,7,M,280696
+S06,Gandhinagar,GUJARAT,Lal Krishna Advani (L K Advani),BJP,2001,11,GEN,7,M,453229
+S06,Mehsana,GUJARAT,Patel Atmaram Maganbhai,INC,2001,12,GEN,7,M,340445
+S06,Patan,GUJARAT,Rashtrapal Pravinchandra Somabhai,INC,2001,13,SC,7,M,246798
+S06,Banaskantha,GUJARAT,Chaudhary Haribhai Parthibhai,BJP,2001,14,GEN,7,M,308313
+S06,Sabarkantha,GUJARAT,Nisha Amarsinh Chaudhary,INC,2001,15,GEN,7,F,334565
+S06,Kapadvanj,GUJARAT,Vaghela Shankarsinh Laxmansinh,INC,2001,16,GEN,7,M,413193
+S06,Dohad,GUJARAT,Katara Babubhai Khimabhai,BJP,2001,17,ST,7,M,232288
+S06,Godhra,GUJARAT,Solanki Bhupendrasinh Prabhatsinh,BJP,2001,18,GEN,7,M,280684
+S06,Kaira,GUJARAT,Dinsha Patel,INC,2001,19,GEN,7,M,258024
+S06,Anand,GUJARAT,Patel Dipakbhai Chimanbhai   (Sathi),BJP,2001,20,GEN,7,M,273683
+S06,Chhota Udaipur,GUJARAT,Ramsinh Rathawa,BJP,2001,21,ST,7,M,248970
+S06,Baroda,GUJARAT,Jayaben Thakkar,BJP,2001,22,GEN,7,F,322758
+S06,Broach,GUJARAT,Mansukhbhai Vasava,BJP,2001,23,GEN,7,M,290195
+S06,Surat,GUJARAT,Kashiram Rana,BJP,2001,24,GEN,7,M,423773
+S06,Mandvi,GUJARAT,Patel Mansinhbhai Kalyanji,BJP,2001,25,ST,7,M,320172
+S06,Bulsar,GUJARAT,Manibhai Ramjibhai Chaudhari,BJP,2001,26,ST,7,M,300195
+S07,Ambala,HARYANA,Rattan Lal Kataria,BJP,2001,1,SC,7,M,357460
+S07,Kurukshetra,HARYANA,Prof Kailasho Devi,INLD,2001,2,GEN,7,F,438701
+S07,Karnal,HARYANA,I.D. Swami,BJP,2001,3,GEN,7,M,433733
+S07,Sonepat,HARYANA,Kishan Singh Sangwan,BJP,2001,4,GEN,7,M,457056
+S07,Rohtak,HARYANA,Inder Singh,INLD,2001,5,GEN,7,M,366926
+S07,Faridabad,HARYANA,Ram Chander Bainda,BJP,2001,6,GEN,7,M,367842
+S07,Mahendragarh,HARYANA,Dr. Sudha Yadav,BJP,2001,7,GEN,7,F,420706
+S07,Bhiwani,HARYANA,Ajay Singh Chautala,INLD,2001,8,GEN,7,M,381255
+S07,Hissar,HARYANA,Surender Singh Barwala,INLD,2001,9,GEN,7,M,396540
+S07,Sirsa,HARYANA,Dr. Sushil Kumar Indora,INLD,2001,10,SC,7,M,419278
+S08,Simla,HIMACHAL PRADESH,Lt. Col. Dhani Ram Shandil,HVC,2001,1,SC,7,M,264002
+S08,Mandi,HIMACHAL PRADESH,Maheshwar Singh,BJP,2001,2,GEN,7,M,325929
+S08,Kangra,HIMACHAL PRADESH,Shanta Kumar,BJP,2001,3,GEN,7,M,325066
+S08,Hamirpur,HIMACHAL PRADESH,Suresh Chandel,BJP,2001,4,GEN,7,M,336172
+S10,Bidar,KARNATAKA,Ramchandra Veerappa,BJP,2001,1,SC,7,M,350221
+S10,Gulbarga,KARNATAKA,Iqbal Ahemed Saradgi,INC,2001,2,GEN,7,M,352359
+S10,Raichur,KARNATAKA,A. Venkatesh Naik,INC,2001,3,GEN,7,M,359946
+S10,Koppal,KARNATAKA,H.G.Ramulu,INC,2001,4,GEN,7,M,350599
+S10,Bellary,KARNATAKA,Kolur Basavanagoud,INC,2001,5,GEN,7,M,259851
+S10,Davangere,KARNATAKA,G.Mallikarjunappa,BJP,2001,6,GEN,7,M,398969
+S10,Chitradurga,KARNATAKA,Shashi Kumar,JD(U),2001,7,GEN,7,M,370793
+S10,Tumkur,KARNATAKA,G.S.Basavaraj,INC,2001,8,GEN,7,M,318922
+S10,Chikballapur,KARNATAKA,R.L. Jalappa,INC,2001,9,GEN,7,M,422587
+S10,Kolar,KARNATAKA,K.H. Muniyappa,INC,2001,10,SC,7,M,321964
+S10,Kanakapura,KARNATAKA,M.V.Chandrashekara Murthy,INC,2001,11,GEN,7,M,532910
+S10,Bangalore North,KARNATAKA,C.K Jaffar Sharief,INC,2001,12,GEN,7,M,525523
+S10,Bangalore South,KARNATAKA,Ananth Kumar,BJP,2001,13,GEN,7,M,410161
+S10,Mandya,KARNATAKA,Ambareesh @ Amaranatha .M.H,INC,2001,14,GEN,7,M,418110
+S10,Chamarajanagar,KARNATAKA,V.Sreenivasaprasad,JD(U),2001,15,SC,7,M,311547
+S10,Mysore,KARNATAKA,Srikantadatta Narasimharaja Wadiyar,INC,2001,16,GEN,7,M,338051
+S10,Mangalore,KARNATAKA,V.Dhananjaya Kumar,BJP,2001,17,GEN,7,M,353536
+S10,Udupi,KARNATAKA,Vinay Kumar Sorake,INC,2001,18,GEN,7,M,352326
+S10,Hassan,KARNATAKA,G.Putta Swamy Gowda,INC,2001,19,GEN,7,M,398344
+S10,Chikmagalur,KARNATAKA,D.C.Srikantappa,BJP,2001,20,GEN,7,M,324470
+S10,Shimoga,KARNATAKA,S.Bangarappa,INC,2001,21,GEN,7,M,427870
+S10,Kanara,KARNATAKA,Alva Margaret,INC,2001,22,GEN,7,F,356246
+S10,Dharwad South,KARNATAKA,Prof. I.G. Sanadi,INC,2001,23,GEN,7,M,355523
+S10,Dharwad North,KARNATAKA,Vijay Sankeshwar,BJP,2001,24,GEN,7,M,345197
+S10,Belgaum,KARNATAKA,Amarsinh Vasantarao Patil,INC,2001,25,GEN,7,M,383444
+S10,Chikkodi,KARNATAKA,Jigajinagi Rameshchandappa,JD(U),2001,26,SC,7,M,392450
+S10,Bagalkot,KARNATAKA,R.S. Patil,INC,2001,27,GEN,7,M,378488
+S10,Bijapur,KARNATAKA,Basangouda Ramangouda Patil(Yatnal),BJP,2001,28,GEN,7,M,348816
+S11,Kasaragod,KERALA,T. Govindan,CPM,2001,1,GEN,7,M,423564
+S11,Cannanore,KERALA,A.P. Abdullakkutty,CPM,2001,2,GEN,7,M,428390
+S11,Badagara,KERALA,A.K. Premajam,CPM,2001,3,GEN,7,F,404355
+S11,Calicut,KERALA,K. Muraleedharan,INC,2001,4,GEN,7,M,383425
+S11,Manjeri,KERALA,E. Ahamed,MUL,2001,5,GEN,7,M,437563
+S11,Ponnani,KERALA,G.M. Banatwalla,MUL,2001,6,GEN,7,M,372572
+S11,Palghat,KERALA,N.N.Krishnadas,CPM,2001,7,GEN,7,M,372536
+S11,Ottapalam,KERALA,S. Ajayakumar,CPM,2001,8,SC,7,M,359758
+S11,Trichur,KERALA,A.C. Jose,INC,2001,9,GEN,7,M,343793
+S11,Mukundapuram,KERALA,K. Karunakaran,INC,2001,10,GEN,7,M,397156
+S11,Ernakulam,KERALA,Adv. George Eden,INC,2001,11,GEN,7,M,394058
+S11,Muvattupuzha,KERALA,Adv. P.C. Thomas,KEC(M),2001,12,GEN,7,M,357402
+S11,Kottayam,KERALA,Suresh Kurup,CPM,2001,13,GEN,7,M,344296
+S11,Idukki,KERALA,K. Francis George,KEC,2001,14,GEN,7,M,365313
+S11,Alleppey,KERALA,V.M. Sudheeran,INC,2001,15,GEN,7,M,392700
+S11,Mavelikara,KERALA,Ramesh Chennithala,INC,2001,16,GEN,7,M,310455
+S11,Adoor,KERALA,Kodikunnil Suresh,INC,2001,17,SC,7,M,337003
+S11,Quilon,KERALA,P. Rajendran,CPM,2001,18,GEN,7,M,351869
+S11,Chirayinkil,KERALA,Varkala Radhakrishnan,CPM,2001,19,GEN,7,M,309304
+S11,Trivandrum,KERALA,Advocate V.S. Sivakumar,INC,2001,20,GEN,7,M,288390
+S12,Morena,MADHYA PRADESH,Ashok Chhaviram  Argal,BJP,2001,1,SC,7,M,210790
+S12,Bhind,MADHYA PRADESH,Dr. Ramlakhan Singh,BJP,2001,2,GEN,7,M,270766
+S12,Gwalior,MADHYA PRADESH,Jaibhan Singh Pavaiya,BJP,2001,3,GEN,7,M,254486
+S12,Guna,MADHYA PRADESH,Madhavrao Scindia,INC,2001,4,GEN,7,M,443965
+S12,Sagar,MADHYA PRADESH,Virendra Kumar,BJP,2001,5,SC,7,M,293357
+S12,Khajuraho,MADHYA PRADESH,Satyavrat Chaturvedi ( Vinod Bhaiya ),INC,2001,6,GEN,7,M,335861
+S12,Damoh,MADHYA PRADESH,Dr. Ramkrishna Kusmaria,BJP,2001,7,GEN,7,M,246909
+S12,Satna,MADHYA PRADESH,Ramanand Singh,BJP,2001,8,GEN,7,M,217932
+S12,Rewa,MADHYA PRADESH,Sunder Lal Tiwari,INC,2001,9,GEN,7,M,275115
+S12,Sidhi,MADHYA PRADESH,Chandra Pratap Singh ( Baba Sahab),BJP,2001,10,ST,7,M,264981
+S12,Shahdol,MADHYA PRADESH,Dalpat Singh,BJP,2001,11,ST,7,M,262229
+S12,Surguja,MADHYA PRADESH,Khel Sai Singh,INC,2001,12,ST,7,M,297778
+S12,Raigarh,MADHYA PRADESH,Vishnudeo Sai,BJP,2001,13,ST,7,M,276244
+S12,Janjgir,MADHYA PRADESH,Dr. Charandas Mahant,INC,2001,14,GEN,7,M,278931
+S12,Bilaspur,MADHYA PRADESH,Punnulal Mohale,BJP,2001,15,SC,7,M,274860
+S12,Sarangarh,MADHYA PRADESH,P. R. Khute,BJP,2001,16,SC,7,M,281769
+S12,Raipur,MADHYA PRADESH,Ramesh Bais,BJP,2001,17,GEN,7,M,354736
+S12,Mahasamund,MADHYA PRADESH,Shyama Charan Shukla,INC,2001,18,GEN,7,M,340635
+S12,Kanker,MADHYA PRADESH,Sohan Potai,BJP,2001,19,ST,7,M,318040
+S12,Bastar,MADHYA PRADESH,Baliram Kashyap,BJP,2001,20,ST,7,M,155421
+S12,Durg,MADHYA PRADESH,Tara Chand Sahu,BJP,2001,21,GEN,7,M,389777
+S12,Rajnandgaon,MADHYA PRADESH,Dr. Raman,BJP,2001,22,GEN,7,M,304611
+S12,Balaghat,MADHYA PRADESH,Prahladsingh Patel,BJP,2001,23,GEN,7,M,251308
+S12,Mandla,MADHYA PRADESH,Faggan Singh Kulaste,BJP,2001,24,ST,7,M,232042
+S12,Jabalpur,MADHYA PRADESH,Jaishree Banerjee ( Bhabhi Ji),BJP,2001,25,GEN,7,F,300648
+S12,Seoni,MADHYA PRADESH,Ram Naresh Tripathi,BJP,2001,26,GEN,7,M,282891
+S12,Chhindwara,MADHYA PRADESH,Kamal Nath,INC,2001,27,GEN,7,M,399904
+S12,Betul,MADHYA PRADESH,"Vijay Kumar Khandelwal "" Munni Bhaiya""",BJP,2001,28,GEN,7,M,272512
+S12,Hoshangabad,MADHYA PRADESH,Sundar Lal Patwa,BJP,2001,29,GEN,7,M,353760
+S12,Bhopal,MADHYA PRADESH,Uma Bharti,BJP,2001,30,GEN,7,F,537905
+S12,Vidisha,MADHYA PRADESH,Shivraj Singh,BJP,2001,31,GEN,7,M,360421
+S12,Rajgarh,MADHYA PRADESH,Laxman Singh,INC,2001,32,GEN,7,M,354234
+S12,Shajapur,MADHYA PRADESH,Thavarchand Gehlot,BJP,2001,33,SC,7,M,387607
+S12,Khandwa,MADHYA PRADESH,Nandkumarsingh Chouhan ( Nandu Bhaiya ),BJP,2001,34,GEN,7,M,364161
+S12,Khargone,MADHYA PRADESH,Tarachand Patel,INC,2001,35,GEN,7,M,354133
+S12,Dhar,MADHYA PRADESH,Gajendra Singh Rajukhedi,INC,2001,36,ST,7,M,355482
+S12,Indore,MADHYA PRADESH,Sumitra Mahajan,BJP,2001,37,GEN,7,F,474167
+S12,Ujjain,MADHYA PRADESH,Dr. Satyanarayan Jatiya,BJP,2001,38,SC,7,M,360103
+S12,Jhabua,MADHYA PRADESH,Kantilal Bhuriya,INC,2001,39,ST,7,M,371842
+S12,Mandsaur,MADHYA PRADESH,Dr. Lakshaminarayan Pandey,BJP,2001,40,GEN,7,M,395928
+S13,Rajapur,MAHARASHTRA,Suresh Prabhakar Prabhu,SHS,2001,1,GEN,7,M,221523
+S13,Ratnagiri,MAHARASHTRA,Anant Gangaram Geete,SHS,2001,2,GEN,7,M,293834
+S13,Kolaba,MAHARASHTRA,Ramsheth Thakur,PWPI,2001,3,GEN,7,M,274361
+S13,Mumbai South,MAHARASHTRA,Jayawanti Mehta,BJP,2001,4,GEN,7,F,144945
+S13,Mumbai South Central,MAHARASHTRA,Mohan Vishnu Rawale,SHS,2001,5,GEN,7,M,176323
+S13,Mumbai North Central,MAHARASHTRA,Manohar Gajanan Joshi,SHS,2001,6,GEN,7,M,294935
+S13,Mumbai North East,MAHARASHTRA,Kirit Somaiya,BJP,2001,7,GEN,7,M,400436
+S13,Mumbai North West,MAHARASHTRA,Sunil Dutt,INC,2001,8,GEN,7,M,366669
+S13,Mumbai North,MAHARASHTRA,Ram Naik,BJP,2001,9,GEN,7,M,517941
+S13,Thane,MAHARASHTRA,Prakash Paranjpe,SHS,2001,10,GEN,7,M,391446
+S13,Dahanu,MAHARASHTRA,Adv Chintaman Wanaga,BJP,2001,11,ST,7,M,240866
+S13,Nashik,MAHARASHTRA,Dhikale Uttamrao Nathuji,SHS,2001,12,GEN,7,M,303084
+S13,Malegaon,MAHARASHTRA,Mahale Haribahu Shankar,JD(S),2001,13,ST,7,M,191643
+S13,Dhule,MAHARASHTRA,Ramdas Rupla Gavit,BJP,2001,14,ST,7,M,211904
+S13,Nandurbar,MAHARASHTRA,Gavit Manikrao Hodlya,INC,2001,15,ST,7,M,318338
+S13,Erandol,MAHARASHTRA,Annasaheb M K Patil,BJP,2001,16,GEN,7,M,297867
+S13,Jalgaon,MAHARASHTRA,Y G Mahajan Sir,BJP,2001,17,GEN,7,M,334020
+S13,Buldhana,MAHARASHTRA,Adsul Anandrao Vithoba,SHS,2001,18,SC,7,M,294922
+S13,Akola,MAHARASHTRA,Ambedkar Prakash Yashwant,BBM,2001,19,GEN,7,M,272243
+S13,Washim,MAHARASHTRA,Bhawana Pundlikrao Gawali,SHS,2001,20,GEN,7,F,244820
+S13,Amravati,MAHARASHTRA,Gudhe Anant Mahadeoappa,SHS,2001,21,GEN,7,M,319916
+S13,Ramtek,MAHARASHTRA,Subodh Mohite,SHS,2001,22,GEN,7,M,242454
+S13,Nagpur,MAHARASHTRA,Vilas Muttemwar,INC,2001,23,GEN,7,M,424450
+S13,Bhandara,MAHARASHTRA,Chunnilalbhau Thakur,BJP,2001,24,GEN,7,M,291355
+S13,Chimur,MAHARASHTRA,Diwathe Namdeo Harbaji,BJP,2001,25,GEN,7,M,300601
+S13,Chandrapur,MAHARASHTRA,Puglia Nareshkumar Chunnalal,INC,2001,26,GEN,7,M,328522
+S13,Wardha,MAHARASHTRA,Prabha Rao,INC,2001,27,GEN,7,F,249564
+S13,Yavatmal,MAHARASHTRA,Uttamrao Deorao Patil,INC,2001,28,GEN,7,M,258535
+S13,Hingoli,MAHARASHTRA,Mane Shivaji Gyanbarao,SHS,2001,29,GEN,7,M,297284
+S13,Nanded,MAHARASHTRA,Khatgaonkar Bhaskarrao Bapurao,INC,2001,30,GEN,7,M,327293
+S13,Parbhani,MAHARASHTRA,Jadhav Suresh Ramrao,SHS,2001,31,GEN,7,M,254019
+S13,Jalna,MAHARASHTRA,Danve Raosaheb Dadarao Patil,BJP,2001,32,GEN,7,M,332620
+S13,Aurangabad,MAHARASHTRA,Chandrakant Khaire,SHS,2001,33,GEN,7,M,383144
+S13,Beed,MAHARASHTRA,Jaysingrao Gaikwad Patil,BJP,2001,34,GEN,7,M,332946
+S13,Latur,MAHARASHTRA,Patil Shivraj Vishwanath,INC,2001,35,GEN,7,M,314213
+S13,Osmanabad,MAHARASHTRA,Kamble Shivaji Vithalrao,SHS,2001,36,SC,7,M,252135
+S13,Sholapur,MAHARASHTRA,Shinde Sushilkumar Sambhajirao,INC,2001,37,GEN,7,M,286578
+S13,Pandharpur,MAHARASHTRA,Athawale Ramdas Bandu,IND,2001,38,SC,7,M,413115
+S13,Ahmednagar,MAHARASHTRA,Dilipkumar Mansukhlal Gandhi,BJP,2001,39,GEN,7,M,278508
+S13,Kopargaon,MAHARASHTRA,E V Alias Balasaheb Vikhe Patil,SHS,2001,40,GEN,7,M,253498
+S13,Khed,MAHARASHTRA,Ashok Namdeorao Mohol,NCP,2001,41,GEN,7,M,284476
+S13,Pune,MAHARASHTRA,Pradeep Rawat,BJP,2001,42,GEN,7,M,304955
+S13,Baramati,MAHARASHTRA,Pawar Sharadchandra Govindrao,NCP,2001,43,GEN,7,M,510928
+S13,Satara,MAHARASHTRA,Laxmanrao Pandurang Jadhav Patil,NCP,2001,44,GEN,7,M,313325
+S13,Karad,MAHARASHTRA,Shriniwas Dadasaheb Patil (Marulkar),NCP,2001,45,GEN,7,M,350504
+S13,Sangli,MAHARASHTRA,Prakash (Bapu) Vasantrao Patil,INC,2001,46,GEN,7,M,381162
+S13,Ichalkaranji,MAHARASHTRA,Mane Nivedita Sambhajirao,NCP,2001,47,GEN,7,F,337657
+S13,Kolhapur,MAHARASHTRA,Mandlik Sadashivrao Dadoba,NCP,2001,48,GEN,7,M,346459
+S18,Mayurbhanj,ORISSA,Salkhan Murmu,BJP,2001,1,ST,7,M,300902
+S18,Balasore,ORISSA,Mahameghabahan Aira Kharabela Swain,BJP,2001,2,GEN,7,M,428070
+S18,Bhadrak,ORISSA,Arjun Charan Sethi,BJD,2001,3,SC,7,M,397450
+S18,Jajpur,ORISSA,Jagannath Mallik,BJD,2001,4,SC,7,M,351442
+S18,Kendrapara,ORISSA,Prabhat Kumar Samantray,BJD,2001,5,GEN,7,M,359314
+S18,Cuttack,ORISSA,Bhartruhari Mahtab,BJD,2001,6,GEN,7,M,407603
+S18,Jagatsinghpur,ORISSA,Trilochan Kanungo,BJD,2001,7,GEN,7,M,439888
+S18,Puri,ORISSA,Braja Kishore Tripathy,BJD,2001,8,GEN,7,M,383060
+S18,Bhubaneswar,ORISSA,Prasanna Kumar Patasani,BJD,2001,9,GEN,7,M,414429
+S18,Aska,ORISSA,Kumudini Patnaik,BJD,2001,10,GEN,7,F,288240
+S18,Berhampur,ORISSA,Anadicharan Sahu,BJP,2001,11,GEN,7,M,310704
+S18,Koraput,ORISSA,Hema Gamang,INC,2001,12,ST,7,F,277555
+S18,Nowrangpur,ORISSA,Parsuram Majhi,BJP,2001,13,ST,7,M,331863
+S18,Kalahandi,ORISSA,Bikram Keshari Deo,BJP,2001,14,GEN,7,M,371911
+S18,Phulbani,ORISSA,Padmanava Behera,BJD,2001,15,SC,7,M,357024
+S18,Bolangir,ORISSA,Sangeeta Kumari Singh Deo,BJP,2001,16,GEN,7,F,404988
+S18,Sambalpur,ORISSA,Prasanna Acharya,BJD,2001,17,GEN,7,M,398597
+S18,Deogarh,ORISSA,Debendra Pradhan,BJP,2001,18,GEN,7,M,376412
+S18,Dhenkanal,ORISSA,Kamakhya Prasad Singh Deo,INC,2001,19,GEN,7,M,248824
+S18,Sundargarh,ORISSA,Jual Oram,BJP,2001,20,ST,7,M,326395
+S18,Keonjhar,ORISSA,Ananta Nayak,BJP,2001,21,ST,7,M,416956
+S19,Gurdaspur,PUNJAB,Vinod Khanna,BJP,2001,1,GEN,7,M,315267
+S19,Amritsar,PUNJAB,Raghunandan Lal  Bhatia,INC,2001,2,GEN,7,M,296533
+S19,Tarn Taran,PUNJAB,Tarlochan Singh  Tur,SAD,2001,3,GEN,7,M,305899
+S19,Jullundur,PUNJAB,Balbir Singh,INC,2001,4,GEN,7,M,267209
+S19,Phillaur,PUNJAB,Santosh  Chowdhary,INC,2001,5,SC,7,F,263540
+S19,Hoshiarpur,PUNJAB,Charanjit Singh Channi,INC,2001,6,GEN,7,M,256211
+S19,Ropar,PUNJAB,Shamsher Singh,INC,2001,7,SC,7,M,326651
+S19,Patiala,PUNJAB,Preneet Kaur,INC,2001,8,GEN,7,F,360125
+S19,Ludhiana,PUNJAB,Gurcharan Singh Galib,INC,2001,9,GEN,7,M,346928
+S19,Sangrur,PUNJAB,Simranjit Singh Mann,SAD(M),2001,10,GEN,7,M,298846
+S19,Bhatinda,PUNJAB,Bhan Singh Bhaura,CPI,2001,11,SC,7,M,327484
+S19,Faridkot,PUNJAB,Jagmeet Singh  Brar,INC,2001,12,GEN,7,M,418454
+S19,Ferozepur,PUNJAB,Zora Singh,SAD,2001,13,GEN,7,M,300236
+S20,Ganganagar,RAJASTHAN,Nihal Chand,BJP,2001,1,SC,7,M,358104
+S20,Bikaner,RAJASTHAN,Rameshwar Lal Dudi,INC,2001,2,GEN,7,M,493638
+S20,Churu,RAJASTHAN,Ram Singh Kaswan,BJP,2001,3,GEN,7,M,351485
+S20,Jhunjhunu,RAJASTHAN,Sisram Ola,INC,2001,4,GEN,7,M,330198
+S20,Sikar,RAJASTHAN,Subhash Maharia,BJP,2001,5,GEN,7,M,341445
+S20,Jaipur,RAJASTHAN,Girdhari Lal Bhargava,BJP,2001,6,GEN,7,M,456720
+S20,Dausa,RAJASTHAN,Rama Pilot,INC,2001,7,GEN,7,M,349439
+S20,Alwar,RAJASTHAN,Dr. Jaswant Singh Yadav,BJP,2001,8,GEN,7,M,325556
+S20,Bharatpur,RAJASTHAN,Vishvendra Singh,BJP,2001,9,GEN,7,M,277460
+S20,Bayana,RAJASTHAN,Bahadur Singh,BJP,2001,10,SC,7,M,234881
+S20,Sawai Madhopur,RAJASTHAN,Jaskaur,BJP,2001,11,ST,7,F,277014
+S20,Ajmer,RAJASTHAN,Rasa Singh Rawat,BJP,2001,12,GEN,7,M,332130
+S20,Tonk,RAJASTHAN,Shyam Lal Bansiwal,BJP,2001,13,SC,7,M,287265
+S20,Kota,RAJASTHAN,Raghuveer Singh Koushal,BJP,2001,14,GEN,7,M,320205
+S20,Jhalawar,RAJASTHAN,Vansundhara Raje,BJP,2001,15,GEN,7,F,409574
+S20,Banswara,RAJASTHAN,Tara Chand Bhagora,INC,2001,16,ST,7,M,379775
+S20,Salumber,RAJASTHAN,Bheru Lal Meena,INC,2001,17,ST,7,M,290976
+S20,Udaipur,RAJASTHAN,Girija Vyas,INC,2001,18,GEN,7,F,372645
+S20,Chittorgarh,RAJASTHAN,Shrichand Kriplani,BJP,2001,19,GEN,7,M,411275
+S20,Bhilwara,RAJASTHAN,Vijayendra Pal Singh,BJP,2001,20,GEN,7,M,287858
+S20,Pali,RAJASTHAN,Pusp Jain,BJP,2001,21,GEN,7,M,316844
+S20,Jalore,RAJASTHAN,Buta Singh,INC,2001,22,SC,7,M,330652
+S20,Barmer,RAJASTHAN,Col. Sonaram Choudhary,INC,2001,23,GEN,7,M,424150
+S20,Jodhpur,RAJASTHAN,Jaswant Singh Vishnoi,BJP,2001,24,GEN,7,M,368463
+S20,Nagaur,RAJASTHAN,Ram Raghunath Choudhary,INC,2001,25,GEN,7,M,267914
+S22,Madras North,TAMIL NADU,"Kuppusamy, C.",DMK,2001,1,GEN,7,M,471101
+S22,Madras Central,TAMIL NADU,Murasoli Maran,DMK,2001,2,GEN,7,M,364565
+S22,Madras South,TAMIL NADU,"Baalu, T.R.",DMK,2001,3,GEN,7,M,562221
+S22,Sriperumbudur,TAMIL NADU,"Krishnaswamy,   A.",DMK,2001,4,SC,7,M,385558
+S22,Chengalpattu,TAMIL NADU,"Moorthy, A.K.",PMK,2001,5,GEN,7,M,330551
+S22,Arakkonam,TAMIL NADU,"Jagathrakshakan, S. Dr.",DMK,2001,6,GEN,7,M,346520
+S22,Vellore,TAMIL NADU,"Shanmugam, N.T.",PMK,2001,7,GEN,7,M,324547
+S22,Tiruppattur,TAMIL NADU,"Venugopal, D.",DMK,2001,8,GEN,7,M,350703
+S22,Vandavasi,TAMIL NADU,"Durai, M.",PMK,2001,9,GEN,7,M,345539
+S22,Tindivanam,TAMIL NADU,Ramachandran N. Gingee.,MDMK,2001,10,GEN,7,M,323234
+S22,Cuddalore,TAMIL NADU,"Sankar, Adhi",DMK,2001,11,GEN,7,M,358367
+S22,Chidambaram,TAMIL NADU,"Ponnuswamy, E.",PMK,2001,12,SC,7,M,345331
+S22,Dharmapuri,TAMIL NADU,"Elangovan, P.D.",PMK,2001,13,GEN,7,M,340162
+S22,Krishnagiri,TAMIL NADU,"Vetriselvan, V.",DMK,2001,14,GEN,7,M,347737
+S22,Rasipuram,TAMIL NADU,"Saroja, V. Dr.",ADMK,2001,15,SC,7,F,304843
+S22,Salem,TAMIL NADU,"Selvaganapathi, T.M.",ADMK,2001,16,GEN,7,M,363689
+S22,Tiruchengode,TAMIL NADU,"Kannappan, M.",MDMK,2001,17,GEN,7,M,409293
+S22,Nilgiris,TAMIL NADU,"Mathan, M. (Alias) Master Mathan, M.",BJP,2001,18,GEN,7,M,369828
+S22,Gobichettipalayam,TAMIL NADU,"Kaliappan, K.K.",ADMK,2001,19,GEN,7,M,299184
+S22,Coimbatore,TAMIL NADU,"Radhakrishnan, C.P.",BJP,2001,20,GEN,7,M,430068
+S22,Pollachi,TAMIL NADU,"Krishnan, Dr.C.",MDMK,2001,21,SC,7,M,293038
+S22,Palani,TAMIL NADU,"Kumarasamy, P.",ADMK,2001,22,GEN,7,M,297850
+S22,Dindigul,TAMIL NADU,"Sreenivaasan, C.",ADMK,2001,23,GEN,7,M,294794
+S22,Madurai,TAMIL NADU,"Mohan, P.",CPM,2001,24,GEN,7,M,328204
+S22,Periyakulam,TAMIL NADU,"Dhinakaran,",ADMK,2001,25,GEN,7,M,303881
+S22,Karur,TAMIL NADU,"Chinnasamy, M.",ADMK,2001,26,GEN,7,M,334407
+S22,Tiruchirappalli,TAMIL NADU,ELUMALAI @ DALIT EZHIMALAI R.,ADMK,2001,27,GEN,7,M,343874
+S22,Perambalur,TAMIL NADU,Raja. A.,DMK,2001,28,SC,7,M,330675
+S22,Mayiladuturai,TAMIL NADU,Manishankar Aiyar,INC,2001,29,GEN,7,M,324384
+S22,Nagapattinam,TAMIL NADU,"Vijayan, A.K.S.",DMK,2001,30,SC,7,M,342237
+S22,Thanjavur,TAMIL NADU,Palanimanickam.S.S.,DMK,2001,31,GEN,7,M,295191
+S22,Pudukkottai,TAMIL NADU,Thirunavukarasu,MADMK,2001,32,GEN,7,M,396216
+S22,Sivaganga,TAMIL NADU,"Sudarsana Natchiappan,E.M.",INC,2001,33,GEN,7,M,246078
+S22,Ramanathapuram,TAMIL NADU,Malaisamy.K.,ADMK,2001,34,GEN,7,M,265253
+S22,Sivakasi,TAMIL NADU,Vaiko,MDMK,2001,35,GEN,7,M,325829
+S22,Tirunelveli,TAMIL NADU,"Pandian, P.H.",ADMK,2001,36,GEN,7,M,249975
+S22,Tenkasi,TAMIL NADU,"Murugesan,S.",ADMK,2001,37,SC,7,M,239241
+S22,Tiruchendur,TAMIL NADU,"Jayaseelan, A.D.K.",DMK,2001,38,GEN,7,M,237630
+S22,Nagercoil,TAMIL NADU,"Radhakrishnan,P.",BJP,2001,39,GEN,7,M,307319
+S24,Tehri Garhwal,UTTAR PRADESH,Manabendra Shah,BJP,2001,1,GEN,7,M,207839
+S24,Garhwal,UTTAR PRADESH,Maj Gen. (Rtd) Bhuwan Chandra Khanduri(A.V.S.M.),BJP,2001,2,GEN,7,M,239745
+S24,Almora,UTTAR PRADESH,Bachi Singh Rawat,BJP,2001,3,GEN,7,M,192388
+S24,Nainital,UTTAR PRADESH,Narayan Datt Tiwari,INC,2001,4,GEN,7,M,350381
+S24,Bijnor,UTTAR PRADESH,Sheeshram Singh Ravi,BJP,2001,5,SC,7,M,214266
+S24,Amroha,UTTAR PRADESH,Rashid Alvi,BSP,2001,6,GEN,7,M,337919
+S24,Moradabad,UTTAR PRADESH,Chandra Vijay Singh Alias Baby Raja,ABLTC,2001,7,GEN,7,M,253321
+S24,Rampur,UTTAR PRADESH,Begum Noor Bano Urf Mahtab Zamani Begum,INC,2001,8,GEN,7,F,338493
+S24,Sambhal,UTTAR PRADESH,Mulayam Singh Yadav,SP,2001,9,GEN,7,M,259430
+S24,Budaun,UTTAR PRADESH,Saleem Iqbal Shervani,SP,2001,10,GEN,7,M,236496
+S24,Aonla,UTTAR PRADESH,Kunwar Sarvraj Singh,SP,2001,11,GEN,7,M,195839
+S24,Bareilly,UTTAR PRADESH,Santosh Gangwar,BJP,2001,12,GEN,7,M,292813
+S24,Pilibhit,UTTAR PRADESH,Maneka Gandhi,IND,2001,13,GEN,7,F,433421
+S24,Shahjahanpur,UTTAR PRADESH,RAMMURTI SINGH VERMA,SP,2001,14,GEN,7,M,152971
+S24,Kheri,UTTAR PRADESH,Ravi Prakash Verma,SP,2001,15,GEN,7,M,202373
+S24,Shahabad,UTTAR PRADESH,Daud Ahmad,BSP,2001,16,GEN,7,M,214146
+S24,Sitapur,UTTAR PRADESH,Rajesh Verma,BSP,2001,17,GEN,7,M,211120
+S24,Misrikh,UTTAR PRADESH,Sushila Saroj,SP,2001,18,SC,7,F,159279
+S24,Hardoi,UTTAR PRADESH,Jai Prakash,ABLTC,2001,19,SC,7,M,206256
+S24,Lucknow,UTTAR PRADESH,Atal Bihari Vajpayee,BJP,2001,20,GEN,7,M,362709
+S24,Mohanlalganj,UTTAR PRADESH,Reena Chowdhary,SP,2001,21,SC,7,F,182034
+S24,Unnao,UTTAR PRADESH,Deepak Kumar,SP,2001,22,GEN,7,M,207242
+S24,Rae Bareli,UTTAR PRADESH,Captain Satish Sharma,INC,2001,23,GEN,7,M,224202
+S24,Pratapgarh,UTTAR PRADESH,Rajkumari Ratna Singh,INC,2001,24,GEN,7,F,202170
+S24,Amethi,UTTAR PRADESH,Sonia Gandhi,INC,2001,25,GEN,7,F,418960
+S24,Sultanpur,UTTAR PRADESH,Jai Bhadra Singh,BSP,2001,26,GEN,7,M,173558
+S24,Akbarpur,UTTAR PRADESH,Mayawati,BSP,2001,27,SC,7,F,259762
+S24,Faizabad,UTTAR PRADESH,Vinay Katiyar,BJP,2001,28,GEN,7,M,193191
+S24,Bara Banki,UTTAR PRADESH,Ram Sagar,SP,2001,29,SC,7,M,210958
+S24,Kaiserganj,UTTAR PRADESH,Beni Prasad Verma,SP,2001,30,GEN,7,M,233934
+S24,Bahraich,UTTAR PRADESH,Padamsen Chaudhary,BJP,2001,31,GEN,7,M,223768
+S24,Balrampur,UTTAR PRADESH,Rizvan Zaheer  Alias Rijju Bhaiya,SP,2001,32,GEN,7,M,255267
+S24,Gonda,UTTAR PRADESH,Braj Bhushan Sharan Singh,BJP,2001,33,GEN,7,M,243162
+S24,Basti,UTTAR PRADESH,Shriram Chauhan,BJP,2001,34,SC,7,M,174378
+S24,Domariaganj,UTTAR PRADESH,Ram Pal Singh,BJP,2001,35,GEN,7,M,198263
+S24,Khalilabad,UTTAR PRADESH,Bhal Chandra Yadav,SP,2001,36,GEN,7,M,236837
+S24,Bansgaon,UTTAR PRADESH,Raj Narayan Pasi,BJP,2001,37,SC,7,M,184684
+S24,Gorakhpur,UTTAR PRADESH,Aditya Nath,BJP,2001,38,GEN,7,M,267382
+S24,Maharajganj,UTTAR PRADESH,Akhilesh  Singh,SP,2001,39,GEN,7,M,239826
+S24,Padrauna,UTTAR PRADESH,Ram Nagina Mishra,BJP,2001,40,GEN,7,M,196651
+S24,Deoria,UTTAR PRADESH,Shri Prakash Mani,BJP,2001,41,GEN,7,M,251814
+S24,Salempur,UTTAR PRADESH,Babban Rajbhar,BSP,2001,42,GEN,7,M,170558
+S24,Ballia,UTTAR PRADESH,Chandra Shekhar,SJP(R),2001,43,GEN,7,M,235946
+S24,Ghosi,UTTAR PRADESH,Bal Krishna,BSP,2001,44,GEN,7,M,207105
+S24,Azamgarh,UTTAR PRADESH,Rama Kant Yadav,SP,2001,45,GEN,7,M,227616
+S24,Lalganj,UTTAR PRADESH,Dr. Bali Ram,BSP,2001,46,SC,7,M,229122
+S24,Machhlishahr,UTTAR PRADESH,Chandra Nath Singh,SP,2001,47,GEN,7,M,201509
+S24,Jaunpur,UTTAR PRADESH,Chinmayanand,BJP,2001,48,GEN,7,M,207405
+S24,Saidpur,UTTAR PRADESH,Tufani Saroj,SP,2001,49,SC,7,M,237438
+S24,Ghazipur,UTTAR PRADESH,Manoj,BJP,2001,50,GEN,7,M,240592
+S24,Chandauli,UTTAR PRADESH,Jawahar Lal Jaiswal,SP,2001,51,GEN,7,M,265412
+S24,Varanasi,UTTAR PRADESH,Shankar Prasad Jaiswal,BJP,2001,52,GEN,7,M,211955
+S24,Robertsganj,UTTAR PRADESH,Ram Shakal,BJP,2001,53,SC,7,M,200826
+S24,Mirzapur,UTTAR PRADESH,Phoolan Devi,SP,2001,54,GEN,7,F,290849
+S24,Phulpur,UTTAR PRADESH,Dharam Raj Singh Patel,SP,2001,55,GEN,7,M,183282
+S24,Allahabad,UTTAR PRADESH,Dr. Murli Manohar Joshi,BJP,2001,56,GEN,7,M,219114
+S24,Chail,UTTAR PRADESH,Suresh Pasi,BSP,2001,57,SC,7,M,151557
+S24,Fatehpur,UTTAR PRADESH,Ashok Patel,BJP,2001,58,GEN,7,M,142911
+S24,Banda,UTTAR PRADESH,Ram Sajiwan,BSP,2001,59,GEN,7,M,209995
+S24,Hamirpur,UTTAR PRADESH,Ashok Kumar Singh Chandel,BSP,2001,60,GEN,7,M,217732
+S24,Jhansi,UTTAR PRADESH,Sujan Singh Bundela,INC,2001,61,GEN,7,M,283387
+S24,Jalaun,UTTAR PRADESH,Brij Lal Khabri,BSP,2001,62,SC,7,M,197705
+S24,Ghatampur,UTTAR PRADESH,Pyare Lal Sankhwar,BSP,2001,63,SC,7,M,156582
+S24,Bilhaur,UTTAR PRADESH,Shyam Bihari Mishra,BJP,2001,64,GEN,7,M,192054
+S24,Kanpur,UTTAR PRADESH,Sriprakash Jaiswal,INC,2001,65,GEN,7,M,293610
+S24,Etawah,UTTAR PRADESH,Raghuraj Singh Shakya,SP,2001,66,GEN,7,M,233065
+S24,Kannauj,UTTAR PRADESH,Akhilesh Yadav,SP,2001,67,GEN,7,M,306054
+S24,Farrukhabad,UTTAR PRADESH,Chandra Bhushan Singh (Munnoo Babu),SP,2001,68,GEN,7,M,222984
+S24,Mainpuri,UTTAR PRADESH,Balram Singh Yadav,SP,2001,69,GEN,7,M,244113
+S24,Jalesar,UTTAR PRADESH,Prof. S.P. Singh Baghel,SP,2001,70,GEN,7,M,217336
+S24,Etah,UTTAR PRADESH,Kr. Devendra Singh Yadav,SP,2001,71,GEN,7,M,226999
+S24,Firozabad,UTTAR PRADESH,Ram Jilal Suman,SP,2001,72,SC,7,M,289459
+S24,Agra,UTTAR PRADESH,Raj Babbar,SP,2001,73,GEN,7,M,288558
+S24,Mathura,UTTAR PRADESH,Ch. Tejvir Singh,BJP,2001,74,GEN,7,M,210212
+S24,Hathras,UTTAR PRADESH,Kishan Lal Diler,BJP,2001,75,SC,7,M,178253
+S24,Aligarh,UTTAR PRADESH,Sheela Gautam,BJP,2001,76,GEN,7,F,219313
+S24,Khurja,UTTAR PRADESH,Ashok Kumar Pradhan,BJP,2001,77,SC,7,M,216011
+S24,Bulandshahr,UTTAR PRADESH,Chhatra Pal,BJP,2001,78,GEN,7,M,180102
+S24,Hapur,UTTAR PRADESH,Ramesh Chand Tomar,BJP,2001,79,GEN,7,M,234525
+S24,Meerut,UTTAR PRADESH,Avtar Singh Bhadana,INC,2001,80,GEN,7,M,258456
+S24,Baghpat,UTTAR PRADESH,Ajit Singh,RLD,2001,81,GEN,7,M,358069
+S24,Muzaffarnagar,UTTAR PRADESH,Saiduzzaman,INC,2001,82,GEN,7,M,196669
+S24,Kairana,UTTAR PRADESH,Amir Alam,RLD,2001,83,GEN,7,M,206345
+S24,Saharanpur,UTTAR PRADESH,Mansoor Ali Khan,BSP,2001,84,GEN,7,M,235659
+S24,Hardwar,UTTAR PRADESH,Harpal Singh Sathi,BJP,2001,85,SC,7,M,236844
+S25,Cooch Behar,WEST BENGAL,Amar Roy Pradhan,FBL,2001,1,SC,7,M,443148
+S25,Alipurduars,WEST BENGAL,Joachim Baxla,RSP,2001,2,ST,7,M,389919
+S25,Jalpaiguri,WEST BENGAL,Minati Sen,CPM,2001,3,GEN,7,F,405785
+S25,Darjeeling,WEST BENGAL,S.P. Lepcha,CPM,2001,4,GEN,7,M,256826
+S25,Raiganj,WEST BENGAL,Priya Ranjan Dasmunsi,INC,2001,5,GEN,7,M,409331
+S25,Balurghat,WEST BENGAL,Barman Ranen,RSP,2001,6,SC,7,M,375669
+S25,Malda,WEST BENGAL,Abul Barkat Ataul Ghani Khan Choudhury,INC,2001,7,GEN,7,M,325833
+S25,Jangipur,WEST BENGAL,Abul Hasnat Khan,CPM,2001,8,GEN,7,M,352580
+S25,Murshidabad,WEST BENGAL,Moinul Hassan,CPM,2001,9,GEN,7,M,391366
+S25,Berhampore,WEST BENGAL,Adhir Ranjan Chowdhury,INC,2001,10,GEN,7,M,434073
+S25,Krishnagar,WEST BENGAL,Satyabrata Mookherjee,BJP,2001,11,GEN,7,M,366954
+S25,Nabadwip,WEST BENGAL,Ananda Mohan Biswas,AITC,2001,12,SC,7,M,459319
+S25,Barasat,WEST BENGAL,Dr.Ranjit Kumar Panja,AITC,2001,13,GEN,7,M,518520
+S25,Basirhat,WEST BENGAL,Ajoy Chakraborty,CPI,2001,14,GEN,7,M,407903
+S25,Joynagar,WEST BENGAL,Sanat Kumar Mondal,RSP,2001,15,SC,7,M,396383
+S25,Mathurapur,WEST BENGAL,Radhika Ranjan Pramanik,CPM,2001,16,SC,7,M,382962
+S25,Diamond Harbour,WEST BENGAL,Samik Lahiri,CPM,2001,17,GEN,7,M,402761
+S25,Jadavpur,WEST BENGAL,Krishna Bose,AITC,2001,18,GEN,7,F,485366
+S25,Barrackpore,WEST BENGAL,Tarit Baran Topdar,CPM,2001,19,GEN,7,M,399269
+S25,Dum Dum,WEST BENGAL,Tapan Sikdar,BJP,2001,20,GEN,7,M,614471
+S25,Calcutta North West,WEST BENGAL,Sudip Bandyopadhyay,AITC,2001,21,GEN,7,M,206684
+S25,Calcutta North East,WEST BENGAL,Ajit Kumar Panja,AITC,2001,22,GEN,7,M,297491
+S25,Calcutta South,WEST BENGAL,Mamata Banerjee,AITC,2001,23,GEN,7,F,469103
+S25,Howrah,WEST BENGAL,Swadesh Chakraborty,CPM,2001,24,GEN,7,M,490537
+S25,Uluberia,WEST BENGAL,Hannan Mollah,CPM,2001,25,GEN,7,M,399397
+S25,Serampore,WEST BENGAL,Akbor Ali Khandoker,AITC,2001,26,GEN,7,M,411406
+S25,Hooghly,WEST BENGAL,Rupchand Pal,CPM,2001,27,GEN,7,M,440674
+S25,Arambagh,WEST BENGAL,Anil Basu,CPM,2001,28,GEN,7,M,503920
+S25,Panskura,WEST BENGAL,Dr. Bikram Sarkar,AITC,2001,29,GEN,7,F,426779
+S25,Tamluk,WEST BENGAL,Lakshman Chandra Seth,CPM,2001,30,GEN,7,M,455168
+S25,Contai,WEST BENGAL,Neetish  Sengupta,AITC,2001,31,GEN,7,M,395048
+S25,Midnapore,WEST BENGAL,PROBODH PANDA,CPI,2001,32,GEN,7,M,448237
+S25,Jhargram,WEST BENGAL,Rupchand Murmu,CPM,2001,33,ST,7,M,402325
+S25,Purulia,WEST BENGAL,Birsingh Mahato,FBL,2001,34,GEN,7,M,351143
+S25,Bankura,WEST BENGAL,Acharia Basudeb,CPM,2001,35,GEN,7,M,381720
+S25,Vishnupur,WEST BENGAL,Sandhya Bauri,CPM,2001,36,SC,7,F,483084
+S25,Durgapur,WEST BENGAL,Sunil Khan,CPM,2001,37,SC,7,M,461940
+S25,Asansol,WEST BENGAL,Bikash Chowdhury,CPM,2001,38,GEN,7,M,377265
+S25,Burdwan,WEST BENGAL,Sar Nikhilananda,CPM,2001,39,GEN,7,M,598170
+S25,Katwa,WEST BENGAL,Mahboob Zahedi,CPM,2001,40,GEN,7,M,461502
+S25,Bolpur,WEST BENGAL,Somnath Chatterjee,CPM,2001,41,GEN,7,M,464199
+S25,Birbhum,WEST BENGAL,Ram Chandra Dome,CPM,2001,42,SC,7,M,373687
+U05,New Delhi,DELHI,Jag Mohan,BJP,2001,1,GEN,7,M,124626
+U05,South Delhi,DELHI,Vijay Kumar Malhotra,BJP,2001,2,GEN,7,M,261230
+U05,Outer Delhi,DELHI,Sahib Singh Verma,BJP,2001,3,GEN,7,M,709692
+U05,East Delhi,DELHI,Lal Bihari Tiwari,BJP,2001,4,GEN,7,M,521434
+U05,Chandni Chowk,DELHI,Vijay Goel,BJP,2001,5,GEN,7,M,74001
+U05,Delhi Sadar,DELHI,Madan Lal Khurana,BJP,2001,6,GEN,7,M,143186
+U05,Karol Bagh,DELHI,Anita Arya,BJP,2001,7,SC,7,F,128956
+S01,Srikakulam,ANDHRA,Yerrannaidu Kinjarapu,TDP,2002,1,GEN,7,M,373851
+S01,Parvathipuram,ANDHRA,Dadichiluka Veera Gouri Sankara Rao,TDP,2002,2,ST,7,M,304000
+S01,Bobbili,ANDHRA,Botcha Satyanarayana,INC,2002,3,GEN,7,M,339768
+S01,Visakhapatnam,ANDHRA,M.V.V.S.Murthy,TDP,2002,4,GEN,7,M,442036
+S01,Bhadrachalam,ANDHRA,Dumpa Mary Vijaya Kumari,TDP,2002,5,ST,7,F,293593
+S01,Anakapalli,ANDHRA,Ganta Srinivasa Rao,TDP,2002,6,GEN,7,M,392984
+S01,Kakinada,ANDHRA,Mudragada Padmanabham,TDP,2002,7,GEN,7,M,435811
+S01,Rajahmundry,ANDHRA,Satyanarayana Rao S.B.P.B.K,BJP,2002,8,GEN,7,M,411956
+S01,Amalapuram,ANDHRA,GANTI VIJAYAKUMARI,TDP,2002,9,SC,7,F,341923
+S01,Narasapur,ANDHRA,Uppalapati Venkata Krishnam Raju,BJP,2002,10,GEN,7,M,421099
+S01,Eluru,ANDHRA,Bolla Bulli Ramaiah,TDP,2002,11,GEN,7,M,435884
+S01,Machilipatnam,ANDHRA,Ambati Brahmanaiah,TDP,2002,12,GEN,7,M,387533
+S01,Vijayawada,ANDHRA,Gadde Rama Mohan,TDP,2002,13,GEN,7,M,482968
+S01,Tenali,ANDHRA,Ummareddy Venkateswarlu,TDP,2002,14,GEN,7,M,339800
+S01,Guntur,ANDHRA,Yemparala Venkateswararao,TDP,2002,15,GEN,7,M,399065
+S01,Bapatla,ANDHRA,D. Rama Naidu,TDP,2002,16,GEN,7,M,399596
+S01,Narasaraopet,ANDHRA,Janardhanareddy Nedurumalli,INC,2002,17,GEN,7,M,432266
+S01,Ongole,ANDHRA,Karanam Balarama Krishna Murthy,TDP,2002,18,GEN,7,M,392840
+S01,Nellore,ANDHRA,Rajeswaramma Vukkala,TDP,2002,19,SC,7,F,381166
+S01,Tirupathi,ANDHRA,Dr.N.Venkataswamy,BJP,2002,20,SC,7,M,386478
+S01,Chittoor,ANDHRA,Noothana Kalva Ramakrishna Reddy,TDP,2002,21,GEN,7,M,419208
+S01,Rajampet,ANDHRA,Gunipati Ramaiah,TDP,2002,22,GEN,7,M,322107
+S01,Cuddapah,ANDHRA,Vivekananda Reddy  Y.S.,INC,2002,23,GEN,7,M,367833
+S01,Hindupur,ANDHRA,B.K. Parthasarathi,TDP,2002,24,GEN,7,M,432575
+S01,Anantapur,ANDHRA,Kalava Srinivasulu,TDP,2002,25,GEN,7,M,378488
+S01,Kurnool,ANDHRA,Kambhalapati E. Krishna Murthy,TDP,2002,26,GEN,7,M,385688
+S01,Nandyal,ANDHRA,Bhuma  Nagi Reddy,TDP,2002,27,GEN,7,M,391655
+S01,Nagarkurnool,ANDHRA,Dr.Manda Jagannath,TDP,2002,28,SC,7,M,431095
+S01,Mahabubnagar,ANDHRA,A.P.Jitender Reddy,BJP,2002,29,GEN,7,M,391588
+S01,Hyderabad,ANDHRA,Sultan Salahuddin Owaisi,AIMIM,2002,30,GEN,7,M,448165
+S01,Secunderabad,ANDHRA,Bandaru Dattatraya,BJP,2002,31,GEN,7,M,506626
+S01,Siddipet,ANDHRA,M. Rajaiah,TDP,2002,32,SC,7,M,583346
+S01,Medak,ANDHRA,A. Narendra,BJP,2002,33,GEN,7,M,400244
+S01,Nizamabad,ANDHRA,Ganga Reddy Gaddam,TDP,2002,34,GEN,7,M,373260
+S01,Adilabad,ANDHRA,Dr. S. Venugopal Chary,TDP,2002,35,GEN,7,M,390308
+S01,Peddapalli,ANDHRA,Dr.Smt.C. Suguna Kumari,TDP,2002,36,SC,7,F,406529
+S01,Karimnagar,ANDHRA,Chennamaneni Vidyasagar Rao,BJP,2002,37,GEN,7,M,398437
+S01,Hanamkonda,ANDHRA,Chada Suresh Reddy,TDP,2002,38,GEN,7,M,375285
+S01,Warangal,ANDHRA,Bodakunti Venkateshwarlu,TDP,2002,39,GEN,7,M,385593
+S01,Khammam,ANDHRA,Renuka Chowdhury,INC,2002,40,GEN,7,F,328596
+S01,Nalgonda,ANDHRA,Gutha Sukender Reddy,TDP,2002,41,GEN,7,M,427505
+S01,Miryalguda,ANDHRA,Jaipal Reddy Sudini,INC,2002,42,GEN,7,M,401437
+S04,Bagaha,BIHAR,Mahendra Baitha,JD(U),2002,1,SC,7,M,261498
+S04,Bettiah,BIHAR,Dr Madan Prasad Jaiswal,BJP,2002,2,GEN,7,M,343027
+S04,Motihari,BIHAR,Radha Mohan Singh,BJP,2002,3,GEN,7,M,338696
+S04,Gopalganj,BIHAR,Raghunath Jha,JD(U),2002,4,GEN,7,M,365107
+S04,Siwan,BIHAR,M  Sahabuddin,RJD,2002,5,GEN,7,M,385069
+S04,Maharajganj,BIHAR,Prabhunath Singh,JD(U),2002,6,GEN,7,M,398475
+S04,Chapra,BIHAR,Rajiv Pratap Rudi,BJP,2002,7,GEN,7,M,390477
+S04,Hajipur,BIHAR,Ram Vilas Paswan,JD(U),2002,8,SC,7,M,434609
+S04,Vaishali,BIHAR,Raghuvansh Prasad Singh,RJD,2002,9,GEN,7,M,308458
+S04,Muzaffarpur,BIHAR,Captain Jai Na. Pd. Nishad,JD(U),2002,10,GEN,7,M,363820
+S04,Sitamarhi,BIHAR,Nawal Kishore Rai,JD(U),2002,11,GEN,7,M,410557
+S04,Sheohar,BIHAR,Md Anwarul Haque,RJD,2002,12,GEN,7,M,347279
+S04,Madhubani,BIHAR,Hukumdeo Narayan Yadav,BJP,2002,13,GEN,7,M,328616
+S04,Jhanjharpur,BIHAR,Devendra Prasad Yadav,JD(U),2002,14,GEN,7,M,375852
+S04,Darbhanga,BIHAR,Kirti Azad,BJP,2002,15,GEN,7,M,395549
+S04,Rosera,BIHAR,Ram Chandra Paswan,JD(U),2002,16,SC,7,M,420564
+S04,Samastipur,BIHAR,Manjay Lal,JD(U),2002,17,GEN,7,M,368776
+S04,Barh,BIHAR,Nitish Kumar,JD(U),2002,18,GEN,7,M,362016
+S04,Balia,BIHAR,Ramjivan Singh,JD(U),2002,19,GEN,7,M,169443
+S04,Saharsa,BIHAR,Dinesh Chandra Yadav,JD(U),2002,20,GEN,7,M,392926
+S04,Madhepura,BIHAR,Sharad Yadav,JD(U),2002,21,GEN,7,M,328761
+S04,Araria,BIHAR,Sukdeo Paswan,RJD,2002,22,SC,7,M,308579
+S04,Kishanganj,BIHAR,Syed Shahnawaz Hussain,BJP,2002,23,GEN,7,M,258035
+S04,Purnea,BIHAR,Rajesh Ranjan,IND,2002,24,GEN,7,M,438193
+S04,Katihar,BIHAR,Nikhil Kumar Choudhary,BJP,2002,25,GEN,7,M,280911
+S04,Rajmahal,BIHAR,Thomas Hansda,INC,2002,26,ST,7,M,250298
+S04,Dumka,BIHAR,SHIBU SOREN,JMM,2002,27,ST,7,M,256360
+S04,Godda,BIHAR,Jagdambi Prasad Yadav,BJP,2002,28,GEN,7,M,221191
+S04,Banka,BIHAR,Digvijay Singh,JD(U),2002,29,GEN,7,M,233453
+S04,Bhagalpur,BIHAR,Subodh Ray,CPM,2002,30,GEN,7,M,321159
+S04,Khagaria,BIHAR,Renu Kumari,JD(U),2002,31,GEN,7,F,293412
+S04,Monghyr,BIHAR,Brahma Nand Mandal,JD(U),2002,32,GEN,7,M,346615
+S04,Begusarai,BIHAR,Rajo Singh,INC,2002,33,GEN,7,M,318244
+S04,Nalanda,BIHAR,George Fernandes,JD(U),2002,34,GEN,7,M,464458
+S04,Patna,BIHAR,C P Thakur,BJP,2002,35,GEN,7,M,379370
+S04,Arrah,BIHAR,Ram Prasad Singh,RJD,2002,36,GEN,7,M,264140
+S04,Buxar,BIHAR,Lal Muni Choubey,BJP,2002,37,GEN,7,M,235968
+S04,Sasaram,BIHAR,Muni Lall,BJP,2002,38,SC,7,M,257223
+S04,Bikramganj,BIHAR,Kanti Singh,RJD,2002,39,GEN,7,F,346259
+S04,Aurangabad,BIHAR,Shyama Singh,INC,2002,40,GEN,7,F,317418
+S04,Jahanabad,BIHAR,Arun Kumar,JD(U),2002,41,GEN,7,M,333332
+S04,Nawada,BIHAR,Sanjay Paswan,BJP,2002,42,SC,7,M,453943
+S04,Gaya,BIHAR,Ramji Manjhi,BJP,2002,43,SC,7,M,319530
+S04,Chatra,BIHAR,Nagmani,RJD,2002,44,GEN,7,M,219783
+S04,Kodarma,BIHAR,Tilakdhari Pd Singh,INC,2002,45,GEN,7,M,273808
+S04,Giridih,BIHAR,Ravindra Kumar Pandey,BJP,2002,46,GEN,7,M,248454
+S04,Dhanbad,BIHAR,Rita Verma,BJP,2002,47,GEN,7,F,366065
+S04,Hazaribagh,BIHAR,Yashwant Sinha,BJP,2002,48,GEN,7,M,283956
+S04,Ranchi,BIHAR,Ram Tahal Choudhary,BJP,2002,49,GEN,7,M,379261
+S04,Jamshedpur,BIHAR,Abha Mahato,BJP,2002,50,GEN,7,F,285232
+S04,Singhbhum,BIHAR,Laxman Gilua,BJP,2002,51,ST,7,M,231237
+S04,Khunti,BIHAR,Kariya Munda,BJP,2002,52,ST,7,M,187484
+S04,Lohardaga,BIHAR,Dukha Bhagat,BJP,2002,53,ST,7,M,163658
+S04,Palamau,BIHAR,Braj Mohan Ram,BJP,2002,54,SC,7,M,271657
+S06,Kutch,GUJARAT,Gadhvi Pushpadan Sambhudan,BJP,2002,1,GEN,7,M,191533
+S06,Surendranagar,GUJARAT,Makwana Savshibhai Kanjibhai,INC,2002,2,GEN,7,M,244368
+S06,Jamnagar,GUJARAT,Koradiya Chandreshbhai Valjibhai (Chandresh Patel),BJP,2002,3,GEN,7,M,190726
+S06,Rajkot,GUJARAT,Dr Kathiriya Vallabhbhai Ramjibhai,BJP,2002,4,GEN,7,M,312941
+S06,Porbandar,GUJARAT,Javiya Gordhanbhai Jadavbhai,BJP,2002,5,GEN,7,M,210627
+S06,Junagadh,GUJARAT,Chikhaliya Bhavnaben Devrajbhai,BJP,2002,6,GEN,7,F,266809
+S06,Amreli,GUJARAT,Dileep Sanghani,BJP,2002,7,GEN,7,M,217670
+S06,Bhavnagar,GUJARAT,Rana Rajendrasinh Ghanshyamsinh (Rajubhai Rana),BJP,2002,8,GEN,7,M,265446
+S06,Dhandhuka,GUJARAT,Varma Ratilal Kalidas,BJP,2002,9,SC,7,M,229754
+S06,Ahmedabad,GUJARAT,Harin Pathak,BJP,2002,10,GEN,7,M,280696
+S06,Gandhinagar,GUJARAT,Lal Krishna Advani (L K Advani),BJP,2002,11,GEN,7,M,453229
+S06,Mehsana,GUJARAT,Patel Atmaram Maganbhai,INC,2002,12,GEN,7,M,340445
+S06,Patan,GUJARAT,Rashtrapal Pravinchandra Somabhai,INC,2002,13,SC,7,M,246798
+S06,Banaskantha,GUJARAT,Chaudhary Haribhai Parthibhai,BJP,2002,14,GEN,7,M,308313
+S06,Sabarkantha,GUJARAT,Nisha Amarsinh Chaudhary,INC,2002,15,GEN,7,F,334565
+S06,Kapadvanj,GUJARAT,Vaghela Shankarsinh Laxmansinh,INC,2002,16,GEN,7,M,413193
+S06,Dohad,GUJARAT,Katara Babubhai Khimabhai,BJP,2002,17,ST,7,M,232288
+S06,Godhra,GUJARAT,Solanki Bhupendrasinh Prabhatsinh,BJP,2002,18,GEN,7,M,280684
+S06,Kaira,GUJARAT,Dinsha Patel,INC,2002,19,GEN,7,M,258024
+S06,Anand,GUJARAT,Patel Dipakbhai Chimanbhai   (Sathi),BJP,2002,20,GEN,7,M,273683
+S06,Chhota Udaipur,GUJARAT,Ramsinh Rathawa,BJP,2002,21,ST,7,M,248970
+S06,Baroda,GUJARAT,Jayaben Thakkar,BJP,2002,22,GEN,7,F,322758
+S06,Broach,GUJARAT,Mansukhbhai Vasava,BJP,2002,23,GEN,7,M,290195
+S06,Surat,GUJARAT,Kashiram Rana,BJP,2002,24,GEN,7,M,423773
+S06,Mandvi,GUJARAT,Patel Mansinhbhai Kalyanji,BJP,2002,25,ST,7,M,320172
+S06,Bulsar,GUJARAT,Manibhai Ramjibhai Chaudhari,BJP,2002,26,ST,7,M,300195
+S07,Ambala,HARYANA,Rattan Lal Kataria,BJP,2002,1,SC,7,M,357460
+S07,Kurukshetra,HARYANA,Prof Kailasho Devi,INLD,2002,2,GEN,7,F,438701
+S07,Karnal,HARYANA,I.D. Swami,BJP,2002,3,GEN,7,M,433733
+S07,Sonepat,HARYANA,Kishan Singh Sangwan,BJP,2002,4,GEN,7,M,457056
+S07,Rohtak,HARYANA,Inder Singh,INLD,2002,5,GEN,7,M,366926
+S07,Faridabad,HARYANA,Ram Chander Bainda,BJP,2002,6,GEN,7,M,367842
+S07,Mahendragarh,HARYANA,Dr. Sudha Yadav,BJP,2002,7,GEN,7,F,420706
+S07,Bhiwani,HARYANA,Ajay Singh Chautala,INLD,2002,8,GEN,7,M,381255
+S07,Hissar,HARYANA,Surender Singh Barwala,INLD,2002,9,GEN,7,M,396540
+S07,Sirsa,HARYANA,Dr. Sushil Kumar Indora,INLD,2002,10,SC,7,M,419278
+S08,Simla,HIMACHAL PRADESH,Lt. Col. Dhani Ram Shandil,HVC,2002,1,SC,7,M,264002
+S08,Mandi,HIMACHAL PRADESH,Maheshwar Singh,BJP,2002,2,GEN,7,M,325929
+S08,Kangra,HIMACHAL PRADESH,Shanta Kumar,BJP,2002,3,GEN,7,M,325066
+S08,Hamirpur,HIMACHAL PRADESH,Suresh Chandel,BJP,2002,4,GEN,7,M,336172
+S10,Bidar,KARNATAKA,Ramchandra Veerappa,BJP,2002,1,SC,7,M,350221
+S10,Gulbarga,KARNATAKA,Iqbal Ahemed Saradgi,INC,2002,2,GEN,7,M,352359
+S10,Raichur,KARNATAKA,A. Venkatesh Naik,INC,2002,3,GEN,7,M,359946
+S10,Koppal,KARNATAKA,H.G.Ramulu,INC,2002,4,GEN,7,M,350599
+S10,Bellary,KARNATAKA,Kolur Basavanagoud,INC,2002,5,GEN,7,M,259851
+S10,Davangere,KARNATAKA,G.Mallikarjunappa,BJP,2002,6,GEN,7,M,398969
+S10,Chitradurga,KARNATAKA,Shashi Kumar,JD(U),2002,7,GEN,7,M,370793
+S10,Tumkur,KARNATAKA,G.S.Basavaraj,INC,2002,8,GEN,7,M,318922
+S10,Chikballapur,KARNATAKA,R.L. Jalappa,INC,2002,9,GEN,7,M,422587
+S10,Kolar,KARNATAKA,K.H. Muniyappa,INC,2002,10,SC,7,M,321964
+S10,Kanakapura,KARNATAKA,H.D.DEVEGOWDA,JD(U),2002,11,GEN,7,M,581709
+S10,Bangalore North,KARNATAKA,C.K Jaffar Sharief,INC,2002,12,GEN,7,M,525523
+S10,Bangalore South,KARNATAKA,Ananth Kumar,BJP,2002,13,GEN,7,M,410161
+S10,Mandya,KARNATAKA,Ambareesh @ Amaranatha .M.H,INC,2002,14,GEN,7,M,418110
+S10,Chamarajanagar,KARNATAKA,V.Sreenivasaprasad,JD(U),2002,15,SC,7,M,311547
+S10,Mysore,KARNATAKA,Srikantadatta Narasimharaja Wadiyar,INC,2002,16,GEN,7,M,338051
+S10,Mangalore,KARNATAKA,V.Dhananjaya Kumar,BJP,2002,17,GEN,7,M,353536
+S10,Udupi,KARNATAKA,Vinay Kumar Sorake,INC,2002,18,GEN,7,M,352326
+S10,Hassan,KARNATAKA,G.Putta Swamy Gowda,INC,2002,19,GEN,7,M,398344
+S10,Chikmagalur,KARNATAKA,D.C.Srikantappa,BJP,2002,20,GEN,7,M,324470
+S10,Shimoga,KARNATAKA,S.Bangarappa,INC,2002,21,GEN,7,M,427870
+S10,Kanara,KARNATAKA,Alva Margaret,INC,2002,22,GEN,7,F,356246
+S10,Dharwad South,KARNATAKA,Prof. I.G. Sanadi,INC,2002,23,GEN,7,M,355523
+S10,Dharwad North,KARNATAKA,Vijay Sankeshwar,BJP,2002,24,GEN,7,M,345197
+S10,Belgaum,KARNATAKA,Amarsinh Vasantarao Patil,INC,2002,25,GEN,7,M,383444
+S10,Chikkodi,KARNATAKA,Jigajinagi Rameshchandappa,JD(U),2002,26,SC,7,M,392450
+S10,Bagalkot,KARNATAKA,R.S. Patil,INC,2002,27,GEN,7,M,378488
+S10,Bijapur,KARNATAKA,Basangouda Ramangouda Patil(Yatnal),BJP,2002,28,GEN,7,M,348816
+S11,Kasaragod,KERALA,T. Govindan,CPM,2002,1,GEN,7,M,423564
+S11,Cannanore,KERALA,A.P. Abdullakkutty,CPM,2002,2,GEN,7,M,428390
+S11,Badagara,KERALA,A.K. Premajam,CPM,2002,3,GEN,7,F,404355
+S11,Calicut,KERALA,K. Muraleedharan,INC,2002,4,GEN,7,M,383425
+S11,Manjeri,KERALA,E. Ahamed,MUL,2002,5,GEN,7,M,437563
+S11,Ponnani,KERALA,G.M. Banatwalla,MUL,2002,6,GEN,7,M,372572
+S11,Palghat,KERALA,N.N.Krishnadas,CPM,2002,7,GEN,7,M,372536
+S11,Ottapalam,KERALA,S. Ajayakumar,CPM,2002,8,SC,7,M,359758
+S11,Trichur,KERALA,A.C. Jose,INC,2002,9,GEN,7,M,343793
+S11,Mukundapuram,KERALA,K. Karunakaran,INC,2002,10,GEN,7,M,397156
+S11,Ernakulam,KERALA,Adv. George Eden,INC,2002,11,GEN,7,M,394058
+S11,Muvattupuzha,KERALA,Adv. P.C. Thomas,KEC(M),2002,12,GEN,7,M,357402
+S11,Kottayam,KERALA,Suresh Kurup,CPM,2002,13,GEN,7,M,344296
+S11,Idukki,KERALA,K. Francis George,KEC,2002,14,GEN,7,M,365313
+S11,Alleppey,KERALA,V.M. Sudheeran,INC,2002,15,GEN,7,M,392700
+S11,Mavelikara,KERALA,Ramesh Chennithala,INC,2002,16,GEN,7,M,310455
+S11,Adoor,KERALA,Kodikunnil Suresh,INC,2002,17,SC,7,M,337003
+S11,Quilon,KERALA,P. Rajendran,CPM,2002,18,GEN,7,M,351869
+S11,Chirayinkil,KERALA,Varkala Radhakrishnan,CPM,2002,19,GEN,7,M,309304
+S11,Trivandrum,KERALA,Advocate V.S. Sivakumar,INC,2002,20,GEN,7,M,288390
+S12,Morena,MADHYA PRADESH,Ashok Chhaviram  Argal,BJP,2002,1,SC,7,M,210790
+S12,Bhind,MADHYA PRADESH,Dr. Ramlakhan Singh,BJP,2002,2,GEN,7,M,270766
+S12,Gwalior,MADHYA PRADESH,Jaibhan Singh Pavaiya,BJP,2002,3,GEN,7,M,254486
+S12,Guna,MADHYA PRADESH,JYOTIRADITYA MADHAVRAO SCINDIA,INC,2002,4,GEN,7,M,535728
+S12,Sagar,MADHYA PRADESH,Virendra Kumar,BJP,2002,5,SC,7,M,293357
+S12,Khajuraho,MADHYA PRADESH,Satyavrat Chaturvedi ( Vinod Bhaiya ),INC,2002,6,GEN,7,M,335861
+S12,Damoh,MADHYA PRADESH,Dr. Ramkrishna Kusmaria,BJP,2002,7,GEN,7,M,246909
+S12,Satna,MADHYA PRADESH,Ramanand Singh,BJP,2002,8,GEN,7,M,217932
+S12,Rewa,MADHYA PRADESH,Sunder Lal Tiwari,INC,2002,9,GEN,7,M,275115
+S12,Sidhi,MADHYA PRADESH,Chandra Pratap Singh ( Baba Sahab),BJP,2002,10,ST,7,M,264981
+S12,Shahdol,MADHYA PRADESH,Dalpat Singh,BJP,2002,11,ST,7,M,262229
+S12,Surguja,MADHYA PRADESH,Khel Sai Singh,INC,2002,12,ST,7,M,297778
+S12,Raigarh,MADHYA PRADESH,Vishnudeo Sai,BJP,2002,13,ST,7,M,276244
+S12,Janjgir,MADHYA PRADESH,Dr. Charandas Mahant,INC,2002,14,GEN,7,M,278931
+S12,Bilaspur,MADHYA PRADESH,Punnulal Mohale,BJP,2002,15,SC,7,M,274860
+S12,Sarangarh,MADHYA PRADESH,P. R. Khute,BJP,2002,16,SC,7,M,281769
+S12,Raipur,MADHYA PRADESH,Ramesh Bais,BJP,2002,17,GEN,7,M,354736
+S12,Mahasamund,MADHYA PRADESH,Shyama Charan Shukla,INC,2002,18,GEN,7,M,340635
+S12,Kanker,MADHYA PRADESH,Sohan Potai,BJP,2002,19,ST,7,M,318040
+S12,Bastar,MADHYA PRADESH,Baliram Kashyap,BJP,2002,20,ST,7,M,155421
+S12,Durg,MADHYA PRADESH,Tara Chand Sahu,BJP,2002,21,GEN,7,M,389777
+S12,Rajnandgaon,MADHYA PRADESH,Dr. Raman,BJP,2002,22,GEN,7,M,304611
+S12,Balaghat,MADHYA PRADESH,Prahladsingh Patel,BJP,2002,23,GEN,7,M,251308
+S12,Mandla,MADHYA PRADESH,Faggan Singh Kulaste,BJP,2002,24,ST,7,M,232042
+S12,Jabalpur,MADHYA PRADESH,Jaishree Banerjee ( Bhabhi Ji),BJP,2002,25,GEN,7,F,300648
+S12,Seoni,MADHYA PRADESH,Ram Naresh Tripathi,BJP,2002,26,GEN,7,M,282891
+S12,Chhindwara,MADHYA PRADESH,Kamal Nath,INC,2002,27,GEN,7,M,399904
+S12,Betul,MADHYA PRADESH,"Vijay Kumar Khandelwal "" Munni Bhaiya""",BJP,2002,28,GEN,7,M,272512
+S12,Hoshangabad,MADHYA PRADESH,Sundar Lal Patwa,BJP,2002,29,GEN,7,M,353760
+S12,Bhopal,MADHYA PRADESH,Uma Bharti,BJP,2002,30,GEN,7,F,537905
+S12,Vidisha,MADHYA PRADESH,Shivraj Singh,BJP,2002,31,GEN,7,M,360421
+S12,Rajgarh,MADHYA PRADESH,Laxman Singh,INC,2002,32,GEN,7,M,354234
+S12,Shajapur,MADHYA PRADESH,Thavarchand Gehlot,BJP,2002,33,SC,7,M,387607
+S12,Khandwa,MADHYA PRADESH,Nandkumarsingh Chouhan ( Nandu Bhaiya ),BJP,2002,34,GEN,7,M,364161
+S12,Khargone,MADHYA PRADESH,Tarachand Patel,INC,2002,35,GEN,7,M,354133
+S12,Dhar,MADHYA PRADESH,Gajendra Singh Rajukhedi,INC,2002,36,ST,7,M,355482
+S12,Indore,MADHYA PRADESH,Sumitra Mahajan,BJP,2002,37,GEN,7,F,474167
+S12,Ujjain,MADHYA PRADESH,Dr. Satyanarayan Jatiya,BJP,2002,38,SC,7,M,360103
+S12,Jhabua,MADHYA PRADESH,Kantilal Bhuriya,INC,2002,39,ST,7,M,371842
+S12,Mandsaur,MADHYA PRADESH,Dr. Lakshaminarayan Pandey,BJP,2002,40,GEN,7,M,395928
+S13,Rajapur,MAHARASHTRA,Suresh Prabhakar Prabhu,SHS,2002,1,GEN,7,M,221523
+S13,Ratnagiri,MAHARASHTRA,Anant Gangaram Geete,SHS,2002,2,GEN,7,M,293834
+S13,Kolaba,MAHARASHTRA,Ramsheth Thakur,PWPI,2002,3,GEN,7,M,274361
+S13,Mumbai South,MAHARASHTRA,Jayawanti Mehta,BJP,2002,4,GEN,7,F,144945
+S13,Mumbai South Central,MAHARASHTRA,Mohan Vishnu Rawale,SHS,2002,5,GEN,7,M,176323
+S13,Mumbai North Central,MAHARASHTRA,Manohar Gajanan Joshi,SHS,2002,6,GEN,7,M,294935
+S13,Mumbai North East,MAHARASHTRA,Kirit Somaiya,BJP,2002,7,GEN,7,M,400436
+S13,Mumbai North West,MAHARASHTRA,Sunil Dutt,INC,2002,8,GEN,7,M,366669
+S13,Mumbai North,MAHARASHTRA,Ram Naik,BJP,2002,9,GEN,7,M,517941
+S13,Thane,MAHARASHTRA,Prakash Paranjpe,SHS,2002,10,GEN,7,M,391446
+S13,Dahanu,MAHARASHTRA,Adv Chintaman Wanaga,BJP,2002,11,ST,7,M,240866
+S13,Nashik,MAHARASHTRA,Dhikale Uttamrao Nathuji,SHS,2002,12,GEN,7,M,303084
+S13,Malegaon,MAHARASHTRA,Mahale Haribahu Shankar,JD(S),2002,13,ST,7,M,191643
+S13,Dhule,MAHARASHTRA,Ramdas Rupla Gavit,BJP,2002,14,ST,7,M,211904
+S13,Nandurbar,MAHARASHTRA,Gavit Manikrao Hodlya,INC,2002,15,ST,7,M,318338
+S13,Erandol,MAHARASHTRA,Annasaheb M K Patil,BJP,2002,16,GEN,7,M,297867
+S13,Jalgaon,MAHARASHTRA,Y G Mahajan Sir,BJP,2002,17,GEN,7,M,334020
+S13,Buldhana,MAHARASHTRA,Adsul Anandrao Vithoba,SHS,2002,18,SC,7,M,294922
+S13,Akola,MAHARASHTRA,Ambedkar Prakash Yashwant,BBM,2002,19,GEN,7,M,272243
+S13,Washim,MAHARASHTRA,Bhawana Pundlikrao Gawali,SHS,2002,20,GEN,7,F,244820
+S13,Amravati,MAHARASHTRA,Gudhe Anant Mahadeoappa,SHS,2002,21,GEN,7,M,319916
+S13,Ramtek,MAHARASHTRA,Subodh Mohite,SHS,2002,22,GEN,7,M,242454
+S13,Nagpur,MAHARASHTRA,Vilas Muttemwar,INC,2002,23,GEN,7,M,424450
+S13,Bhandara,MAHARASHTRA,Chunnilalbhau Thakur,BJP,2002,24,GEN,7,M,291355
+S13,Chimur,MAHARASHTRA,Diwathe Namdeo Harbaji,BJP,2002,25,GEN,7,M,300601
+S13,Chandrapur,MAHARASHTRA,Puglia Nareshkumar Chunnalal,INC,2002,26,GEN,7,M,328522
+S13,Wardha,MAHARASHTRA,Prabha Rao,INC,2002,27,GEN,7,F,249564
+S13,Yavatmal,MAHARASHTRA,Uttamrao Deorao Patil,INC,2002,28,GEN,7,M,258535
+S13,Hingoli,MAHARASHTRA,Mane Shivaji Gyanbarao,SHS,2002,29,GEN,7,M,297284
+S13,Nanded,MAHARASHTRA,Khatgaonkar Bhaskarrao Bapurao,INC,2002,30,GEN,7,M,327293
+S13,Parbhani,MAHARASHTRA,Jadhav Suresh Ramrao,SHS,2002,31,GEN,7,M,254019
+S13,Jalna,MAHARASHTRA,Danve Raosaheb Dadarao Patil,BJP,2002,32,GEN,7,M,332620
+S13,Aurangabad,MAHARASHTRA,Chandrakant Khaire,SHS,2002,33,GEN,7,M,383144
+S13,Beed,MAHARASHTRA,Jaysingrao Gaikwad Patil,BJP,2002,34,GEN,7,M,332946
+S13,Latur,MAHARASHTRA,Patil Shivraj Vishwanath,INC,2002,35,GEN,7,M,314213
+S13,Osmanabad,MAHARASHTRA,Kamble Shivaji Vithalrao,SHS,2002,36,SC,7,M,252135
+S13,Sholapur,MAHARASHTRA,Shinde Sushilkumar Sambhajirao,INC,2002,37,GEN,7,M,286578
+S13,Pandharpur,MAHARASHTRA,Athawale Ramdas Bandu,IND,2002,38,SC,7,M,413115
+S13,Ahmednagar,MAHARASHTRA,Dilipkumar Mansukhlal Gandhi,BJP,2002,39,GEN,7,M,278508
+S13,Kopargaon,MAHARASHTRA,E V Alias Balasaheb Vikhe Patil,SHS,2002,40,GEN,7,M,253498
+S13,Khed,MAHARASHTRA,Ashok Namdeorao Mohol,NCP,2002,41,GEN,7,M,284476
+S13,Pune,MAHARASHTRA,Pradeep Rawat,BJP,2002,42,GEN,7,M,304955
+S13,Baramati,MAHARASHTRA,Pawar Sharadchandra Govindrao,NCP,2002,43,GEN,7,M,510928
+S13,Satara,MAHARASHTRA,Laxmanrao Pandurang Jadhav Patil,NCP,2002,44,GEN,7,M,313325
+S13,Karad,MAHARASHTRA,Shriniwas Dadasaheb Patil (Marulkar),NCP,2002,45,GEN,7,M,350504
+S13,Sangli,MAHARASHTRA,Prakash (Bapu) Vasantrao Patil,INC,2002,46,GEN,7,M,381162
+S13,Ichalkaranji,MAHARASHTRA,Mane Nivedita Sambhajirao,NCP,2002,47,GEN,7,F,337657
+S13,Kolhapur,MAHARASHTRA,Mandlik Sadashivrao Dadoba,NCP,2002,48,GEN,7,M,346459
+S18,Mayurbhanj,ORISSA,Salkhan Murmu,BJP,2002,1,ST,7,M,300902
+S18,Balasore,ORISSA,Mahameghabahan Aira Kharabela Swain,BJP,2002,2,GEN,7,M,428070
+S18,Bhadrak,ORISSA,Arjun Charan Sethi,BJD,2002,3,SC,7,M,397450
+S18,Jajpur,ORISSA,Jagannath Mallik,BJD,2002,4,SC,7,M,351442
+S18,Kendrapara,ORISSA,Prabhat Kumar Samantray,BJD,2002,5,GEN,7,M,359314
+S18,Cuttack,ORISSA,Bhartruhari Mahtab,BJD,2002,6,GEN,7,M,407603
+S18,Jagatsinghpur,ORISSA,Trilochan Kanungo,BJD,2002,7,GEN,7,M,439888
+S18,Puri,ORISSA,Braja Kishore Tripathy,BJD,2002,8,GEN,7,M,383060
+S18,Bhubaneswar,ORISSA,Prasanna Kumar Patasani,BJD,2002,9,GEN,7,M,414429
+S18,Aska,ORISSA,Kumudini Patnaik,BJD,2002,10,GEN,7,F,288240
+S18,Berhampur,ORISSA,Anadicharan Sahu,BJP,2002,11,GEN,7,M,310704
+S18,Koraput,ORISSA,Hema Gamang,INC,2002,12,ST,7,F,277555
+S18,Nowrangpur,ORISSA,Parsuram Majhi,BJP,2002,13,ST,7,M,331863
+S18,Kalahandi,ORISSA,Bikram Keshari Deo,BJP,2002,14,GEN,7,M,371911
+S18,Phulbani,ORISSA,Padmanava Behera,BJD,2002,15,SC,7,M,357024
+S18,Bolangir,ORISSA,Sangeeta Kumari Singh Deo,BJP,2002,16,GEN,7,F,404988
+S18,Sambalpur,ORISSA,Prasanna Acharya,BJD,2002,17,GEN,7,M,398597
+S18,Deogarh,ORISSA,Debendra Pradhan,BJP,2002,18,GEN,7,M,376412
+S18,Dhenkanal,ORISSA,Kamakhya Prasad Singh Deo,INC,2002,19,GEN,7,M,248824
+S18,Sundargarh,ORISSA,Jual Oram,BJP,2002,20,ST,7,M,326395
+S18,Keonjhar,ORISSA,Ananta Nayak,BJP,2002,21,ST,7,M,416956
+S19,Gurdaspur,PUNJAB,Vinod Khanna,BJP,2002,1,GEN,7,M,315267
+S19,Amritsar,PUNJAB,Raghunandan Lal  Bhatia,INC,2002,2,GEN,7,M,296533
+S19,Tarn Taran,PUNJAB,Tarlochan Singh  Tur,SAD,2002,3,GEN,7,M,305899
+S19,Jullundur,PUNJAB,Balbir Singh,INC,2002,4,GEN,7,M,267209
+S19,Phillaur,PUNJAB,Santosh  Chowdhary,INC,2002,5,SC,7,F,263540
+S19,Hoshiarpur,PUNJAB,Charanjit Singh Channi,INC,2002,6,GEN,7,M,256211
+S19,Ropar,PUNJAB,Shamsher Singh,INC,2002,7,SC,7,M,326651
+S19,Patiala,PUNJAB,Preneet Kaur,INC,2002,8,GEN,7,F,360125
+S19,Ludhiana,PUNJAB,Gurcharan Singh Galib,INC,2002,9,GEN,7,M,346928
+S19,Sangrur,PUNJAB,Simranjit Singh Mann,SAD(M),2002,10,GEN,7,M,298846
+S19,Bhatinda,PUNJAB,Bhan Singh Bhaura,CPI,2002,11,SC,7,M,327484
+S19,Faridkot,PUNJAB,Jagmeet Singh  Brar,INC,2002,12,GEN,7,M,418454
+S19,Ferozepur,PUNJAB,Zora Singh,SAD,2002,13,GEN,7,M,300236
+S20,Ganganagar,RAJASTHAN,Nihal Chand,BJP,2002,1,SC,7,M,358104
+S20,Bikaner,RAJASTHAN,Rameshwar Lal Dudi,INC,2002,2,GEN,7,M,493638
+S20,Churu,RAJASTHAN,Ram Singh Kaswan,BJP,2002,3,GEN,7,M,351485
+S20,Jhunjhunu,RAJASTHAN,Sisram Ola,INC,2002,4,GEN,7,M,330198
+S20,Sikar,RAJASTHAN,Subhash Maharia,BJP,2002,5,GEN,7,M,341445
+S20,Jaipur,RAJASTHAN,Girdhari Lal Bhargava,BJP,2002,6,GEN,7,M,456720
+S20,Dausa,RAJASTHAN,Rama Pilot,INC,2002,7,GEN,7,M,349439
+S20,Alwar,RAJASTHAN,Dr. Jaswant Singh Yadav,BJP,2002,8,GEN,7,M,325556
+S20,Bharatpur,RAJASTHAN,Vishvendra Singh,BJP,2002,9,GEN,7,M,277460
+S20,Bayana,RAJASTHAN,Bahadur Singh,BJP,2002,10,SC,7,M,234881
+S20,Sawai Madhopur,RAJASTHAN,Jaskaur,BJP,2002,11,ST,7,F,277014
+S20,Ajmer,RAJASTHAN,Rasa Singh Rawat,BJP,2002,12,GEN,7,M,332130
+S20,Tonk,RAJASTHAN,Shyam Lal Bansiwal,BJP,2002,13,SC,7,M,287265
+S20,Kota,RAJASTHAN,Raghuveer Singh Koushal,BJP,2002,14,GEN,7,M,320205
+S20,Jhalawar,RAJASTHAN,Vansundhara Raje,BJP,2002,15,GEN,7,F,409574
+S20,Banswara,RAJASTHAN,Tara Chand Bhagora,INC,2002,16,ST,7,M,379775
+S20,Salumber,RAJASTHAN,Bheru Lal Meena,INC,2002,17,ST,7,M,290976
+S20,Udaipur,RAJASTHAN,Girija Vyas,INC,2002,18,GEN,7,F,372645
+S20,Chittorgarh,RAJASTHAN,Shrichand Kriplani,BJP,2002,19,GEN,7,M,411275
+S20,Bhilwara,RAJASTHAN,Vijayendra Pal Singh,BJP,2002,20,GEN,7,M,287858
+S20,Pali,RAJASTHAN,Pusp Jain,BJP,2002,21,GEN,7,M,316844
+S20,Jalore,RAJASTHAN,Buta Singh,INC,2002,22,SC,7,M,330652
+S20,Barmer,RAJASTHAN,Col. Sonaram Choudhary,INC,2002,23,GEN,7,M,424150
+S20,Jodhpur,RAJASTHAN,Jaswant Singh Vishnoi,BJP,2002,24,GEN,7,M,368463
+S20,Nagaur,RAJASTHAN,Ram Raghunath Choudhary,INC,2002,25,GEN,7,M,267914
+S22,Madras North,TAMIL NADU,"Kuppusamy, C.",DMK,2002,1,GEN,7,M,471101
+S22,Madras Central,TAMIL NADU,Murasoli Maran,DMK,2002,2,GEN,7,M,364565
+S22,Madras South,TAMIL NADU,"Baalu, T.R.",DMK,2002,3,GEN,7,M,562221
+S22,Sriperumbudur,TAMIL NADU,"Krishnaswamy,   A.",DMK,2002,4,SC,7,M,385558
+S22,Chengalpattu,TAMIL NADU,"Moorthy, A.K.",PMK,2002,5,GEN,7,M,330551
+S22,Arakkonam,TAMIL NADU,"Jagathrakshakan, S. Dr.",DMK,2002,6,GEN,7,M,346520
+S22,Vellore,TAMIL NADU,"Shanmugam, N.T.",PMK,2002,7,GEN,7,M,324547
+S22,Tiruppattur,TAMIL NADU,"Venugopal, D.",DMK,2002,8,GEN,7,M,350703
+S22,Vandavasi,TAMIL NADU,"Durai, M.",PMK,2002,9,GEN,7,M,345539
+S22,Tindivanam,TAMIL NADU,Ramachandran N. Gingee.,MDMK,2002,10,GEN,7,M,323234
+S22,Cuddalore,TAMIL NADU,"Sankar, Adhi",DMK,2002,11,GEN,7,M,358367
+S22,Chidambaram,TAMIL NADU,"Ponnuswamy, E.",PMK,2002,12,SC,7,M,345331
+S22,Dharmapuri,TAMIL NADU,"Elangovan, P.D.",PMK,2002,13,GEN,7,M,340162
+S22,Krishnagiri,TAMIL NADU,"Vetriselvan, V.",DMK,2002,14,GEN,7,M,347737
+S22,Rasipuram,TAMIL NADU,"Saroja, V. Dr.",ADMK,2002,15,SC,7,F,304843
+S22,Salem,TAMIL NADU,"Selvaganapathi, T.M.",ADMK,2002,16,GEN,7,M,363689
+S22,Tiruchengode,TAMIL NADU,"Kannappan, M.",MDMK,2002,17,GEN,7,M,409293
+S22,Nilgiris,TAMIL NADU,"Mathan, M. (Alias) Master Mathan, M.",BJP,2002,18,GEN,7,M,369828
+S22,Gobichettipalayam,TAMIL NADU,"Kaliappan, K.K.",ADMK,2002,19,GEN,7,M,299184
+S22,Coimbatore,TAMIL NADU,"Radhakrishnan, C.P.",BJP,2002,20,GEN,7,M,430068
+S22,Pollachi,TAMIL NADU,"Krishnan, Dr.C.",MDMK,2002,21,SC,7,M,293038
+S22,Palani,TAMIL NADU,"Kumarasamy, P.",ADMK,2002,22,GEN,7,M,297850
+S22,Dindigul,TAMIL NADU,"Sreenivaasan, C.",ADMK,2002,23,GEN,7,M,294794
+S22,Madurai,TAMIL NADU,"Mohan, P.",CPM,2002,24,GEN,7,M,328204
+S22,Periyakulam,TAMIL NADU,"Dhinakaran,",ADMK,2002,25,GEN,7,M,303881
+S22,Karur,TAMIL NADU,"Chinnasamy, M.",ADMK,2002,26,GEN,7,M,334407
+S22,Tiruchirappalli,TAMIL NADU,ELUMALAI @ DALIT EZHIMALAI R.,ADMK,2002,27,GEN,7,M,343874
+S22,Perambalur,TAMIL NADU,Raja. A.,DMK,2002,28,SC,7,M,330675
+S22,Mayiladuturai,TAMIL NADU,Manishankar Aiyar,INC,2002,29,GEN,7,M,324384
+S22,Nagapattinam,TAMIL NADU,"Vijayan, A.K.S.",DMK,2002,30,SC,7,M,342237
+S22,Thanjavur,TAMIL NADU,Palanimanickam.S.S.,DMK,2002,31,GEN,7,M,295191
+S22,Pudukkottai,TAMIL NADU,Thirunavukarasu,MADMK,2002,32,GEN,7,M,396216
+S22,Sivaganga,TAMIL NADU,"Sudarsana Natchiappan,E.M.",INC,2002,33,GEN,7,M,246078
+S22,Ramanathapuram,TAMIL NADU,Malaisamy.K.,ADMK,2002,34,GEN,7,M,265253
+S22,Sivakasi,TAMIL NADU,Vaiko,MDMK,2002,35,GEN,7,M,325829
+S22,Tirunelveli,TAMIL NADU,"Pandian, P.H.",ADMK,2002,36,GEN,7,M,249975
+S22,Tenkasi,TAMIL NADU,"Murugesan,S.",ADMK,2002,37,SC,7,M,239241
+S22,Tiruchendur,TAMIL NADU,"Jayaseelan, A.D.K.",DMK,2002,38,GEN,7,M,237630
+S22,Nagercoil,TAMIL NADU,"Radhakrishnan,P.",BJP,2002,39,GEN,7,M,307319
+S24,Tehri Garhwal,UTTAR PRADESH,Manabendra Shah,BJP,2002,1,GEN,7,M,207839
+S24,Garhwal,UTTAR PRADESH,Maj Gen. (Rtd) Bhuwan Chandra Khanduri(A.V.S.M.),BJP,2002,2,GEN,7,M,239745
+S24,Almora,UTTAR PRADESH,Bachi Singh Rawat,BJP,2002,3,GEN,7,M,192388
+S24,Nainital,UTTAR PRADESH,Narayan Datt Tiwari,INC,2002,4,GEN,7,M,350381
+S24,Bijnor,UTTAR PRADESH,Sheeshram Singh Ravi,BJP,2002,5,SC,7,M,214266
+S24,Amroha,UTTAR PRADESH,Rashid Alvi,BSP,2002,6,GEN,7,M,337919
+S24,Moradabad,UTTAR PRADESH,Chandra Vijay Singh Alias Baby Raja,ABLTC,2002,7,GEN,7,M,253321
+S24,Rampur,UTTAR PRADESH,Begum Noor Bano Urf Mahtab Zamani Begum,INC,2002,8,GEN,7,F,338493
+S24,Sambhal,UTTAR PRADESH,Mulayam Singh Yadav,SP,2002,9,GEN,7,M,259430
+S24,Budaun,UTTAR PRADESH,Saleem Iqbal Shervani,SP,2002,10,GEN,7,M,236496
+S24,Aonla,UTTAR PRADESH,Kunwar Sarvraj Singh,SP,2002,11,GEN,7,M,195839
+S24,Bareilly,UTTAR PRADESH,Santosh Gangwar,BJP,2002,12,GEN,7,M,292813
+S24,Pilibhit,UTTAR PRADESH,Maneka Gandhi,IND,2002,13,GEN,7,F,433421
+S24,Shahjahanpur,UTTAR PRADESH,RAMMURTI SINGH VERMA,SP,2002,14,GEN,7,M,152971
+S24,Kheri,UTTAR PRADESH,Ravi Prakash Verma,SP,2002,15,GEN,7,M,202373
+S24,Shahabad,UTTAR PRADESH,Daud Ahmad,BSP,2002,16,GEN,7,M,214146
+S24,Sitapur,UTTAR PRADESH,Rajesh Verma,BSP,2002,17,GEN,7,M,211120
+S24,Misrikh,UTTAR PRADESH,Sushila Saroj,SP,2002,18,SC,7,F,159279
+S24,Hardoi,UTTAR PRADESH,Jai Prakash,ABLTC,2002,19,SC,7,M,206256
+S24,Lucknow,UTTAR PRADESH,Atal Bihari Vajpayee,BJP,2002,20,GEN,7,M,362709
+S24,Mohanlalganj,UTTAR PRADESH,Reena Chowdhary,SP,2002,21,SC,7,F,182034
+S24,Unnao,UTTAR PRADESH,Deepak Kumar,SP,2002,22,GEN,7,M,207242
+S24,Rae Bareli,UTTAR PRADESH,Captain Satish Sharma,INC,2002,23,GEN,7,M,224202
+S24,Pratapgarh,UTTAR PRADESH,Rajkumari Ratna Singh,INC,2002,24,GEN,7,F,202170
+S24,Amethi,UTTAR PRADESH,Sonia Gandhi,INC,2002,25,GEN,7,F,418960
+S24,Sultanpur,UTTAR PRADESH,Jai Bhadra Singh,BSP,2002,26,GEN,7,M,173558
+S24,Akbarpur,UTTAR PRADESH,TRIBHUVAN DUTT,BSP,2002,27,SC,7,M,250405
+S24,Faizabad,UTTAR PRADESH,Vinay Katiyar,BJP,2002,28,GEN,7,M,193191
+S24,Bara Banki,UTTAR PRADESH,Ram Sagar,SP,2002,29,SC,7,M,210958
+S24,Kaiserganj,UTTAR PRADESH,Beni Prasad Verma,SP,2002,30,GEN,7,M,233934
+S24,Bahraich,UTTAR PRADESH,Padamsen Chaudhary,BJP,2002,31,GEN,7,M,223768
+S24,Balrampur,UTTAR PRADESH,Rizvan Zaheer  Alias Rijju Bhaiya,SP,2002,32,GEN,7,M,255267
+S24,Gonda,UTTAR PRADESH,Braj Bhushan Sharan Singh,BJP,2002,33,GEN,7,M,243162
+S24,Basti,UTTAR PRADESH,Shriram Chauhan,BJP,2002,34,SC,7,M,174378
+S24,Domariaganj,UTTAR PRADESH,Ram Pal Singh,BJP,2002,35,GEN,7,M,198263
+S24,Khalilabad,UTTAR PRADESH,Bhal Chandra Yadav,SP,2002,36,GEN,7,M,236837
+S24,Bansgaon,UTTAR PRADESH,Raj Narayan Pasi,BJP,2002,37,SC,7,M,184684
+S24,Gorakhpur,UTTAR PRADESH,Aditya Nath,BJP,2002,38,GEN,7,M,267382
+S24,Maharajganj,UTTAR PRADESH,Akhilesh  Singh,SP,2002,39,GEN,7,M,239826
+S24,Padrauna,UTTAR PRADESH,Ram Nagina Mishra,BJP,2002,40,GEN,7,M,196651
+S24,Deoria,UTTAR PRADESH,Shri Prakash Mani,BJP,2002,41,GEN,7,M,251814
+S24,Salempur,UTTAR PRADESH,Babban Rajbhar,BSP,2002,42,GEN,7,M,170558
+S24,Ballia,UTTAR PRADESH,Chandra Shekhar,SJP(R),2002,43,GEN,7,M,235946
+S24,Ghosi,UTTAR PRADESH,Bal Krishna,BSP,2002,44,GEN,7,M,207105
+S24,Azamgarh,UTTAR PRADESH,Rama Kant Yadav,SP,2002,45,GEN,7,M,227616
+S24,Lalganj,UTTAR PRADESH,Dr. Bali Ram,BSP,2002,46,SC,7,M,229122
+S24,Machhlishahr,UTTAR PRADESH,Chandra Nath Singh,SP,2002,47,GEN,7,M,201509
+S24,Jaunpur,UTTAR PRADESH,Chinmayanand,BJP,2002,48,GEN,7,M,207405
+S24,Saidpur,UTTAR PRADESH,Tufani Saroj,SP,2002,49,SC,7,M,237438
+S24,Ghazipur,UTTAR PRADESH,Manoj,BJP,2002,50,GEN,7,M,240592
+S24,Chandauli,UTTAR PRADESH,Jawahar Lal Jaiswal,SP,2002,51,GEN,7,M,265412
+S24,Varanasi,UTTAR PRADESH,Shankar Prasad Jaiswal,BJP,2002,52,GEN,7,M,211955
+S24,Robertsganj,UTTAR PRADESH,Ram Shakal,BJP,2002,53,SC,7,M,200826
+S24,Mirzapur,UTTAR PRADESH,RAM RATI BIND,SP,2002,54,GEN,7,M,195329
+S24,Phulpur,UTTAR PRADESH,Dharam Raj Singh Patel,SP,2002,55,GEN,7,M,183282
+S24,Allahabad,UTTAR PRADESH,Dr. Murli Manohar Joshi,BJP,2002,56,GEN,7,M,219114
+S24,Chail,UTTAR PRADESH,Suresh Pasi,BSP,2002,57,SC,7,M,151557
+S24,Fatehpur,UTTAR PRADESH,Ashok Patel,BJP,2002,58,GEN,7,M,142911
+S24,Banda,UTTAR PRADESH,Ram Sajiwan,BSP,2002,59,GEN,7,M,209995
+S24,Hamirpur,UTTAR PRADESH,Ashok Kumar Singh Chandel,BSP,2002,60,GEN,7,M,217732
+S24,Jhansi,UTTAR PRADESH,Sujan Singh Bundela,INC,2002,61,GEN,7,M,283387
+S24,Jalaun,UTTAR PRADESH,Brij Lal Khabri,BSP,2002,62,SC,7,M,197705
+S24,Ghatampur,UTTAR PRADESH,Pyare Lal Sankhwar,BSP,2002,63,SC,7,M,156582
+S24,Bilhaur,UTTAR PRADESH,Shyam Bihari Mishra,BJP,2002,64,GEN,7,M,192054
+S24,Kanpur,UTTAR PRADESH,Sriprakash Jaiswal,INC,2002,65,GEN,7,M,293610
+S24,Etawah,UTTAR PRADESH,Raghuraj Singh Shakya,SP,2002,66,GEN,7,M,233065
+S24,Kannauj,UTTAR PRADESH,Akhilesh Yadav,SP,2002,67,GEN,7,M,306054
+S24,Farrukhabad,UTTAR PRADESH,Chandra Bhushan Singh (Munnoo Babu),SP,2002,68,GEN,7,M,222984
+S24,Mainpuri,UTTAR PRADESH,Balram Singh Yadav,SP,2002,69,GEN,7,M,244113
+S24,Jalesar,UTTAR PRADESH,Prof. S.P. Singh Baghel,SP,2002,70,GEN,7,M,217336
+S24,Etah,UTTAR PRADESH,Kr. Devendra Singh Yadav,SP,2002,71,GEN,7,M,226999
+S24,Firozabad,UTTAR PRADESH,Ram Jilal Suman,SP,2002,72,SC,7,M,289459
+S24,Agra,UTTAR PRADESH,Raj Babbar,SP,2002,73,GEN,7,M,288558
+S24,Mathura,UTTAR PRADESH,Ch. Tejvir Singh,BJP,2002,74,GEN,7,M,210212
+S24,Hathras,UTTAR PRADESH,Kishan Lal Diler,BJP,2002,75,SC,7,M,178253
+S24,Aligarh,UTTAR PRADESH,Sheela Gautam,BJP,2002,76,GEN,7,F,219313
+S24,Khurja,UTTAR PRADESH,Ashok Kumar Pradhan,BJP,2002,77,SC,7,M,216011
+S24,Bulandshahr,UTTAR PRADESH,Chhatra Pal,BJP,2002,78,GEN,7,M,180102
+S24,Hapur,UTTAR PRADESH,Ramesh Chand Tomar,BJP,2002,79,GEN,7,M,234525
+S24,Meerut,UTTAR PRADESH,Avtar Singh Bhadana,INC,2002,80,GEN,7,M,258456
+S24,Baghpat,UTTAR PRADESH,Ajit Singh,RLD,2002,81,GEN,7,M,358069
+S24,Muzaffarnagar,UTTAR PRADESH,Saiduzzaman,INC,2002,82,GEN,7,M,196669
+S24,Kairana,UTTAR PRADESH,Amir Alam,RLD,2002,83,GEN,7,M,206345
+S24,Saharanpur,UTTAR PRADESH,Mansoor Ali Khan,BSP,2002,84,GEN,7,M,235659
+S24,Hardwar,UTTAR PRADESH,Harpal Singh Sathi,BJP,2002,85,SC,7,M,236844
+S25,Cooch Behar,WEST BENGAL,Amar Roy Pradhan,FBL,2002,1,SC,7,M,443148
+S25,Alipurduars,WEST BENGAL,Joachim Baxla,RSP,2002,2,ST,7,M,389919
+S25,Jalpaiguri,WEST BENGAL,Minati Sen,CPM,2002,3,GEN,7,F,405785
+S25,Darjeeling,WEST BENGAL,S.P. Lepcha,CPM,2002,4,GEN,7,M,256826
+S25,Raiganj,WEST BENGAL,Priya Ranjan Dasmunsi,INC,2002,5,GEN,7,M,409331
+S25,Balurghat,WEST BENGAL,Barman Ranen,RSP,2002,6,SC,7,M,375669
+S25,Malda,WEST BENGAL,Abul Barkat Ataul Ghani Khan Choudhury,INC,2002,7,GEN,7,M,325833
+S25,Jangipur,WEST BENGAL,Abul Hasnat Khan,CPM,2002,8,GEN,7,M,352580
+S25,Murshidabad,WEST BENGAL,Moinul Hassan,CPM,2002,9,GEN,7,M,391366
+S25,Berhampore,WEST BENGAL,Adhir Ranjan Chowdhury,INC,2002,10,GEN,7,M,434073
+S25,Krishnagar,WEST BENGAL,Satyabrata Mookherjee,BJP,2002,11,GEN,7,M,366954
+S25,Nabadwip,WEST BENGAL,Ananda Mohan Biswas,AITC,2002,12,SC,7,M,459319
+S25,Barasat,WEST BENGAL,Dr.Ranjit Kumar Panja,AITC,2002,13,GEN,7,M,518520
+S25,Basirhat,WEST BENGAL,Ajoy Chakraborty,CPI,2002,14,GEN,7,M,407903
+S25,Joynagar,WEST BENGAL,Sanat Kumar Mondal,RSP,2002,15,SC,7,M,396383
+S25,Mathurapur,WEST BENGAL,Radhika Ranjan Pramanik,CPM,2002,16,SC,7,M,382962
+S25,Diamond Harbour,WEST BENGAL,Samik Lahiri,CPM,2002,17,GEN,7,M,402761
+S25,Jadavpur,WEST BENGAL,Krishna Bose,AITC,2002,18,GEN,7,F,485366
+S25,Barrackpore,WEST BENGAL,Tarit Baran Topdar,CPM,2002,19,GEN,7,M,399269
+S25,Dum Dum,WEST BENGAL,Tapan Sikdar,BJP,2002,20,GEN,7,M,614471
+S25,Calcutta North West,WEST BENGAL,Sudip Bandyopadhyay,AITC,2002,21,GEN,7,M,206684
+S25,Calcutta North East,WEST BENGAL,Ajit Kumar Panja,AITC,2002,22,GEN,7,M,297491
+S25,Calcutta South,WEST BENGAL,Mamata Banerjee,AITC,2002,23,GEN,7,F,469103
+S25,Howrah,WEST BENGAL,Swadesh Chakraborty,CPM,2002,24,GEN,7,M,490537
+S25,Uluberia,WEST BENGAL,Hannan Mollah,CPM,2002,25,GEN,7,M,399397
+S25,Serampore,WEST BENGAL,Akbor Ali Khandoker,AITC,2002,26,GEN,7,M,411406
+S25,Hooghly,WEST BENGAL,Rupchand Pal,CPM,2002,27,GEN,7,M,440674
+S25,Arambagh,WEST BENGAL,Anil Basu,CPM,2002,28,GEN,7,M,503920
+S25,Panskura,WEST BENGAL,Dr. Bikram Sarkar,AITC,2002,29,GEN,7,F,426779
+S25,Tamluk,WEST BENGAL,Lakshman Chandra Seth,CPM,2002,30,GEN,7,M,455168
+S25,Contai,WEST BENGAL,Neetish  Sengupta,AITC,2002,31,GEN,7,M,395048
+S25,Midnapore,WEST BENGAL,PROBODH PANDA,CPI,2002,32,GEN,7,M,448237
+S25,Jhargram,WEST BENGAL,Rupchand Murmu,CPM,2002,33,ST,7,M,402325
+S25,Purulia,WEST BENGAL,Birsingh Mahato,FBL,2002,34,GEN,7,M,351143
+S25,Bankura,WEST BENGAL,Acharia Basudeb,CPM,2002,35,GEN,7,M,381720
+S25,Vishnupur,WEST BENGAL,Sandhya Bauri,CPM,2002,36,SC,7,F,483084
+S25,Durgapur,WEST BENGAL,Sunil Khan,CPM,2002,37,SC,7,M,461940
+S25,Asansol,WEST BENGAL,Bikash Chowdhury,CPM,2002,38,GEN,7,M,377265
+S25,Burdwan,WEST BENGAL,Sar Nikhilananda,CPM,2002,39,GEN,7,M,598170
+S25,Katwa,WEST BENGAL,Mahboob Zahedi,CPM,2002,40,GEN,7,M,461502
+S25,Bolpur,WEST BENGAL,Somnath Chatterjee,CPM,2002,41,GEN,7,M,464199
+S25,Birbhum,WEST BENGAL,Ram Chandra Dome,CPM,2002,42,SC,7,M,373687
+U05,New Delhi,DELHI,Jag Mohan,BJP,2002,1,GEN,7,M,124626
+U05,South Delhi,DELHI,Vijay Kumar Malhotra,BJP,2002,2,GEN,7,M,261230
+U05,Outer Delhi,DELHI,Sahib Singh Verma,BJP,2002,3,GEN,7,M,709692
+U05,East Delhi,DELHI,Lal Bihari Tiwari,BJP,2002,4,GEN,7,M,521434
+U05,Chandni Chowk,DELHI,Vijay Goel,BJP,2002,5,GEN,7,M,74001
+U05,Delhi Sadar,DELHI,Madan Lal Khurana,BJP,2002,6,GEN,7,M,143186
+U05,Karol Bagh,DELHI,Anita Arya,BJP,2002,7,SC,7,F,128956
+S01,Srikakulam,ANDHRA,Yerrannaidu Kinjarapu,TDP,2003,1,GEN,7,M,373851
+S01,Parvathipuram,ANDHRA,Dadichiluka Veera Gouri Sankara Rao,TDP,2003,2,ST,7,M,304000
+S01,Bobbili,ANDHRA,Botcha Satyanarayana,INC,2003,3,GEN,7,M,339768
+S01,Visakhapatnam,ANDHRA,M.V.V.S.Murthy,TDP,2003,4,GEN,7,M,442036
+S01,Bhadrachalam,ANDHRA,Dumpa Mary Vijaya Kumari,TDP,2003,5,ST,7,F,293593
+S01,Anakapalli,ANDHRA,Ganta Srinivasa Rao,TDP,2003,6,GEN,7,M,392984
+S01,Kakinada,ANDHRA,Mudragada Padmanabham,TDP,2003,7,GEN,7,M,435811
+S01,Rajahmundry,ANDHRA,Satyanarayana Rao S.B.P.B.K,BJP,2003,8,GEN,7,M,411956
+S01,Amalapuram,ANDHRA,GANTI VIJAYAKUMARI,TDP,2003,9,SC,7,F,341923
+S01,Narasapur,ANDHRA,Uppalapati Venkata Krishnam Raju,BJP,2003,10,GEN,7,M,421099
+S01,Eluru,ANDHRA,Bolla Bulli Ramaiah,TDP,2003,11,GEN,7,M,435884
+S01,Machilipatnam,ANDHRA,Ambati Brahmanaiah,TDP,2003,12,GEN,7,M,387533
+S01,Vijayawada,ANDHRA,Gadde Rama Mohan,TDP,2003,13,GEN,7,M,482968
+S01,Tenali,ANDHRA,Ummareddy Venkateswarlu,TDP,2003,14,GEN,7,M,339800
+S01,Guntur,ANDHRA,Yemparala Venkateswararao,TDP,2003,15,GEN,7,M,399065
+S01,Bapatla,ANDHRA,D. Rama Naidu,TDP,2003,16,GEN,7,M,399596
+S01,Narasaraopet,ANDHRA,Janardhanareddy Nedurumalli,INC,2003,17,GEN,7,M,432266
+S01,Ongole,ANDHRA,Karanam Balarama Krishna Murthy,TDP,2003,18,GEN,7,M,392840
+S01,Nellore,ANDHRA,Rajeswaramma Vukkala,TDP,2003,19,SC,7,F,381166
+S01,Tirupathi,ANDHRA,Dr.N.Venkataswamy,BJP,2003,20,SC,7,M,386478
+S01,Chittoor,ANDHRA,Noothana Kalva Ramakrishna Reddy,TDP,2003,21,GEN,7,M,419208
+S01,Rajampet,ANDHRA,Gunipati Ramaiah,TDP,2003,22,GEN,7,M,322107
+S01,Cuddapah,ANDHRA,Vivekananda Reddy  Y.S.,INC,2003,23,GEN,7,M,367833
+S01,Hindupur,ANDHRA,B.K. Parthasarathi,TDP,2003,24,GEN,7,M,432575
+S01,Anantapur,ANDHRA,Kalava Srinivasulu,TDP,2003,25,GEN,7,M,378488
+S01,Kurnool,ANDHRA,Kambhalapati E. Krishna Murthy,TDP,2003,26,GEN,7,M,385688
+S01,Nandyal,ANDHRA,Bhuma  Nagi Reddy,TDP,2003,27,GEN,7,M,391655
+S01,Nagarkurnool,ANDHRA,Dr.Manda Jagannath,TDP,2003,28,SC,7,M,431095
+S01,Mahabubnagar,ANDHRA,A.P.Jitender Reddy,BJP,2003,29,GEN,7,M,391588
+S01,Hyderabad,ANDHRA,Sultan Salahuddin Owaisi,AIMIM,2003,30,GEN,7,M,448165
+S01,Secunderabad,ANDHRA,Bandaru Dattatraya,BJP,2003,31,GEN,7,M,506626
+S01,Siddipet,ANDHRA,M. Rajaiah,TDP,2003,32,SC,7,M,583346
+S01,Medak,ANDHRA,A. Narendra,BJP,2003,33,GEN,7,M,400244
+S01,Nizamabad,ANDHRA,Ganga Reddy Gaddam,TDP,2003,34,GEN,7,M,373260
+S01,Adilabad,ANDHRA,Dr. S. Venugopal Chary,TDP,2003,35,GEN,7,M,390308
+S01,Peddapalli,ANDHRA,Dr.Smt.C. Suguna Kumari,TDP,2003,36,SC,7,F,406529
+S01,Karimnagar,ANDHRA,Chennamaneni Vidyasagar Rao,BJP,2003,37,GEN,7,M,398437
+S01,Hanamkonda,ANDHRA,Chada Suresh Reddy,TDP,2003,38,GEN,7,M,375285
+S01,Warangal,ANDHRA,Bodakunti Venkateshwarlu,TDP,2003,39,GEN,7,M,385593
+S01,Khammam,ANDHRA,Renuka Chowdhury,INC,2003,40,GEN,7,F,328596
+S01,Nalgonda,ANDHRA,Gutha Sukender Reddy,TDP,2003,41,GEN,7,M,427505
+S01,Miryalguda,ANDHRA,Jaipal Reddy Sudini,INC,2003,42,GEN,7,M,401437
+S04,Bagaha,BIHAR,Mahendra Baitha,JD(U),2003,1,SC,7,M,261498
+S04,Bettiah,BIHAR,Dr Madan Prasad Jaiswal,BJP,2003,2,GEN,7,M,343027
+S04,Motihari,BIHAR,Radha Mohan Singh,BJP,2003,3,GEN,7,M,338696
+S04,Gopalganj,BIHAR,Raghunath Jha,JD(U),2003,4,GEN,7,M,365107
+S04,Siwan,BIHAR,M  Sahabuddin,RJD,2003,5,GEN,7,M,385069
+S04,Maharajganj,BIHAR,Prabhunath Singh,JD(U),2003,6,GEN,7,M,398475
+S04,Chapra,BIHAR,Rajiv Pratap Rudi,BJP,2003,7,GEN,7,M,390477
+S04,Hajipur,BIHAR,Ram Vilas Paswan,JD(U),2003,8,SC,7,M,434609
+S04,Vaishali,BIHAR,Raghuvansh Prasad Singh,RJD,2003,9,GEN,7,M,308458
+S04,Muzaffarpur,BIHAR,Captain Jai Na. Pd. Nishad,JD(U),2003,10,GEN,7,M,363820
+S04,Sitamarhi,BIHAR,Nawal Kishore Rai,JD(U),2003,11,GEN,7,M,410557
+S04,Sheohar,BIHAR,Md Anwarul Haque,RJD,2003,12,GEN,7,M,347279
+S04,Madhubani,BIHAR,Hukumdeo Narayan Yadav,BJP,2003,13,GEN,7,M,328616
+S04,Jhanjharpur,BIHAR,Devendra Prasad Yadav,JD(U),2003,14,GEN,7,M,375852
+S04,Darbhanga,BIHAR,Kirti Azad,BJP,2003,15,GEN,7,M,395549
+S04,Rosera,BIHAR,Ram Chandra Paswan,JD(U),2003,16,SC,7,M,420564
+S04,Samastipur,BIHAR,Manjay Lal,JD(U),2003,17,GEN,7,M,368776
+S04,Barh,BIHAR,Nitish Kumar,JD(U),2003,18,GEN,7,M,362016
+S04,Balia,BIHAR,Ramjivan Singh,JD(U),2003,19,GEN,7,M,169443
+S04,Saharsa,BIHAR,Dinesh Chandra Yadav,JD(U),2003,20,GEN,7,M,392926
+S04,Madhepura,BIHAR,Sharad Yadav,JD(U),2003,21,GEN,7,M,328761
+S04,Araria,BIHAR,Sukdeo Paswan,RJD,2003,22,SC,7,M,308579
+S04,Kishanganj,BIHAR,Syed Shahnawaz Hussain,BJP,2003,23,GEN,7,M,258035
+S04,Purnea,BIHAR,Rajesh Ranjan,IND,2003,24,GEN,7,M,438193
+S04,Katihar,BIHAR,Nikhil Kumar Choudhary,BJP,2003,25,GEN,7,M,280911
+S04,Rajmahal,BIHAR,Thomas Hansda,INC,2003,26,ST,7,M,250298
+S04,Dumka,BIHAR,SHIBU SOREN,JMM,2003,27,ST,7,M,256360
+S04,Godda,BIHAR,PRADEEP YADAV,BJP,2003,28,GEN,7,M,235939
+S04,Banka,BIHAR,Digvijay Singh,JD(U),2003,29,GEN,7,M,233453
+S04,Bhagalpur,BIHAR,Subodh Ray,CPM,2003,30,GEN,7,M,321159
+S04,Khagaria,BIHAR,Renu Kumari,JD(U),2003,31,GEN,7,F,293412
+S04,Monghyr,BIHAR,Brahma Nand Mandal,JD(U),2003,32,GEN,7,M,346615
+S04,Begusarai,BIHAR,Rajo Singh,INC,2003,33,GEN,7,M,318244
+S04,Nalanda,BIHAR,George Fernandes,JD(U),2003,34,GEN,7,M,464458
+S04,Patna,BIHAR,C P Thakur,BJP,2003,35,GEN,7,M,379370
+S04,Arrah,BIHAR,Ram Prasad Singh,RJD,2003,36,GEN,7,M,264140
+S04,Buxar,BIHAR,Lal Muni Choubey,BJP,2003,37,GEN,7,M,235968
+S04,Sasaram,BIHAR,Muni Lall,BJP,2003,38,SC,7,M,257223
+S04,Bikramganj,BIHAR,Kanti Singh,RJD,2003,39,GEN,7,F,346259
+S04,Aurangabad,BIHAR,Shyama Singh,INC,2003,40,GEN,7,F,317418
+S04,Jahanabad,BIHAR,Arun Kumar,JD(U),2003,41,GEN,7,M,333332
+S04,Nawada,BIHAR,Sanjay Paswan,BJP,2003,42,SC,7,M,453943
+S04,Gaya,BIHAR,Ramji Manjhi,BJP,2003,43,SC,7,M,319530
+S04,Chatra,BIHAR,Nagmani,RJD,2003,44,GEN,7,M,219783
+S04,Kodarma,BIHAR,Tilakdhari Pd Singh,INC,2003,45,GEN,7,M,273808
+S04,Giridih,BIHAR,Ravindra Kumar Pandey,BJP,2003,46,GEN,7,M,248454
+S04,Dhanbad,BIHAR,Rita Verma,BJP,2003,47,GEN,7,F,366065
+S04,Hazaribagh,BIHAR,Yashwant Sinha,BJP,2003,48,GEN,7,M,283956
+S04,Ranchi,BIHAR,Ram Tahal Choudhary,BJP,2003,49,GEN,7,M,379261
+S04,Jamshedpur,BIHAR,Abha Mahato,BJP,2003,50,GEN,7,F,285232
+S04,Singhbhum,BIHAR,Laxman Gilua,BJP,2003,51,ST,7,M,231237
+S04,Khunti,BIHAR,Kariya Munda,BJP,2003,52,ST,7,M,187484
+S04,Lohardaga,BIHAR,Dukha Bhagat,BJP,2003,53,ST,7,M,163658
+S04,Palamau,BIHAR,Braj Mohan Ram,BJP,2003,54,SC,7,M,271657
+S06,Kutch,GUJARAT,Gadhvi Pushpadan Sambhudan,BJP,2003,1,GEN,7,M,191533
+S06,Surendranagar,GUJARAT,Makwana Savshibhai Kanjibhai,INC,2003,2,GEN,7,M,244368
+S06,Jamnagar,GUJARAT,Koradiya Chandreshbhai Valjibhai (Chandresh Patel),BJP,2003,3,GEN,7,M,190726
+S06,Rajkot,GUJARAT,Dr Kathiriya Vallabhbhai Ramjibhai,BJP,2003,4,GEN,7,M,312941
+S06,Porbandar,GUJARAT,Javiya Gordhanbhai Jadavbhai,BJP,2003,5,GEN,7,M,210627
+S06,Junagadh,GUJARAT,Chikhaliya Bhavnaben Devrajbhai,BJP,2003,6,GEN,7,F,266809
+S06,Amreli,GUJARAT,Dileep Sanghani,BJP,2003,7,GEN,7,M,217670
+S06,Bhavnagar,GUJARAT,Rana Rajendrasinh Ghanshyamsinh (Rajubhai Rana),BJP,2003,8,GEN,7,M,265446
+S06,Dhandhuka,GUJARAT,Varma Ratilal Kalidas,BJP,2003,9,SC,7,M,229754
+S06,Ahmedabad,GUJARAT,Harin Pathak,BJP,2003,10,GEN,7,M,280696
+S06,Gandhinagar,GUJARAT,Lal Krishna Advani (L K Advani),BJP,2003,11,GEN,7,M,453229
+S06,Mehsana,GUJARAT,THAKOR PUNJAJI SADAJI,BJP,2003,12,GEN,7,M,485558
+S06,Patan,GUJARAT,Rashtrapal Pravinchandra Somabhai,INC,2003,13,SC,7,M,246798
+S06,Banaskantha,GUJARAT,Chaudhary Haribhai Parthibhai,BJP,2003,14,GEN,7,M,308313
+S06,Sabarkantha,GUJARAT,Nisha Amarsinh Chaudhary,INC,2003,15,GEN,7,F,334565
+S06,Kapadvanj,GUJARAT,Vaghela Shankarsinh Laxmansinh,INC,2003,16,GEN,7,M,413193
+S06,Dohad,GUJARAT,Katara Babubhai Khimabhai,BJP,2003,17,ST,7,M,232288
+S06,Godhra,GUJARAT,Solanki Bhupendrasinh Prabhatsinh,BJP,2003,18,GEN,7,M,280684
+S06,Kaira,GUJARAT,Dinsha Patel,INC,2003,19,GEN,7,M,258024
+S06,Anand,GUJARAT,Patel Dipakbhai Chimanbhai   (Sathi),BJP,2003,20,GEN,7,M,273683
+S06,Chhota Udaipur,GUJARAT,Ramsinh Rathawa,BJP,2003,21,ST,7,M,248970
+S06,Baroda,GUJARAT,Jayaben Thakkar,BJP,2003,22,GEN,7,F,322758
+S06,Broach,GUJARAT,Mansukhbhai Vasava,BJP,2003,23,GEN,7,M,290195
+S06,Surat,GUJARAT,Kashiram Rana,BJP,2003,24,GEN,7,M,423773
+S06,Mandvi,GUJARAT,Patel Mansinhbhai Kalyanji,BJP,2003,25,ST,7,M,320172
+S06,Bulsar,GUJARAT,Manibhai Ramjibhai Chaudhari,BJP,2003,26,ST,7,M,300195
+S07,Ambala,HARYANA,Rattan Lal Kataria,BJP,2003,1,SC,7,M,357460
+S07,Kurukshetra,HARYANA,Prof Kailasho Devi,INLD,2003,2,GEN,7,F,438701
+S07,Karnal,HARYANA,I.D. Swami,BJP,2003,3,GEN,7,M,433733
+S07,Sonepat,HARYANA,Kishan Singh Sangwan,BJP,2003,4,GEN,7,M,457056
+S07,Rohtak,HARYANA,Inder Singh,INLD,2003,5,GEN,7,M,366926
+S07,Faridabad,HARYANA,Ram Chander Bainda,BJP,2003,6,GEN,7,M,367842
+S07,Mahendragarh,HARYANA,Dr. Sudha Yadav,BJP,2003,7,GEN,7,F,420706
+S07,Bhiwani,HARYANA,Ajay Singh Chautala,INLD,2003,8,GEN,7,M,381255
+S07,Hissar,HARYANA,Surender Singh Barwala,INLD,2003,9,GEN,7,M,396540
+S07,Sirsa,HARYANA,Dr. Sushil Kumar Indora,INLD,2003,10,SC,7,M,419278
+S08,Simla,HIMACHAL PRADESH,Lt. Col. Dhani Ram Shandil,HVC,2003,1,SC,7,M,264002
+S08,Mandi,HIMACHAL PRADESH,Maheshwar Singh,BJP,2003,2,GEN,7,M,325929
+S08,Kangra,HIMACHAL PRADESH,Shanta Kumar,BJP,2003,3,GEN,7,M,325066
+S08,Hamirpur,HIMACHAL PRADESH,Suresh Chandel,BJP,2003,4,GEN,7,M,336172
+S10,Bidar,KARNATAKA,Ramchandra Veerappa,BJP,2003,1,SC,7,M,350221
+S10,Gulbarga,KARNATAKA,Iqbal Ahemed Saradgi,INC,2003,2,GEN,7,M,352359
+S10,Raichur,KARNATAKA,A. Venkatesh Naik,INC,2003,3,GEN,7,M,359946
+S10,Koppal,KARNATAKA,H.G.Ramulu,INC,2003,4,GEN,7,M,350599
+S10,Bellary,KARNATAKA,Kolur Basavanagoud,INC,2003,5,GEN,7,M,259851
+S10,Davangere,KARNATAKA,G.Mallikarjunappa,BJP,2003,6,GEN,7,M,398969
+S10,Chitradurga,KARNATAKA,Shashi Kumar,JD(U),2003,7,GEN,7,M,370793
+S10,Tumkur,KARNATAKA,G.S.Basavaraj,INC,2003,8,GEN,7,M,318922
+S10,Chikballapur,KARNATAKA,R.L. Jalappa,INC,2003,9,GEN,7,M,422587
+S10,Kolar,KARNATAKA,K.H. Muniyappa,INC,2003,10,SC,7,M,321964
+S10,Kanakapura,KARNATAKA,H.D.DEVEGOWDA,JD(U),2003,11,GEN,7,M,581709
+S10,Bangalore North,KARNATAKA,C.K Jaffar Sharief,INC,2003,12,GEN,7,M,525523
+S10,Bangalore South,KARNATAKA,Ananth Kumar,BJP,2003,13,GEN,7,M,410161
+S10,Mandya,KARNATAKA,Ambareesh @ Amaranatha .M.H,INC,2003,14,GEN,7,M,418110
+S10,Chamarajanagar,KARNATAKA,V.Sreenivasaprasad,JD(U),2003,15,SC,7,M,311547
+S10,Mysore,KARNATAKA,Srikantadatta Narasimharaja Wadiyar,INC,2003,16,GEN,7,M,338051
+S10,Mangalore,KARNATAKA,V.Dhananjaya Kumar,BJP,2003,17,GEN,7,M,353536
+S10,Udupi,KARNATAKA,Vinay Kumar Sorake,INC,2003,18,GEN,7,M,352326
+S10,Hassan,KARNATAKA,G.Putta Swamy Gowda,INC,2003,19,GEN,7,M,398344
+S10,Chikmagalur,KARNATAKA,D.C.Srikantappa,BJP,2003,20,GEN,7,M,324470
+S10,Shimoga,KARNATAKA,S.Bangarappa,INC,2003,21,GEN,7,M,427870
+S10,Kanara,KARNATAKA,Alva Margaret,INC,2003,22,GEN,7,F,356246
+S10,Dharwad South,KARNATAKA,Prof. I.G. Sanadi,INC,2003,23,GEN,7,M,355523
+S10,Dharwad North,KARNATAKA,Vijay Sankeshwar,BJP,2003,24,GEN,7,M,345197
+S10,Belgaum,KARNATAKA,Amarsinh Vasantarao Patil,INC,2003,25,GEN,7,M,383444
+S10,Chikkodi,KARNATAKA,Jigajinagi Rameshchandappa,JD(U),2003,26,SC,7,M,392450
+S10,Bagalkot,KARNATAKA,R.S. Patil,INC,2003,27,GEN,7,M,378488
+S10,Bijapur,KARNATAKA,Basangouda Ramangouda Patil(Yatnal),BJP,2003,28,GEN,7,M,348816
+S11,Kasaragod,KERALA,T. Govindan,CPM,2003,1,GEN,7,M,423564
+S11,Cannanore,KERALA,A.P. Abdullakkutty,CPM,2003,2,GEN,7,M,428390
+S11,Badagara,KERALA,A.K. Premajam,CPM,2003,3,GEN,7,F,404355
+S11,Calicut,KERALA,K. Muraleedharan,INC,2003,4,GEN,7,M,383425
+S11,Manjeri,KERALA,E. Ahamed,MUL,2003,5,GEN,7,M,437563
+S11,Ponnani,KERALA,G.M. Banatwalla,MUL,2003,6,GEN,7,M,372572
+S11,Palghat,KERALA,N.N.Krishnadas,CPM,2003,7,GEN,7,M,372536
+S11,Ottapalam,KERALA,S. Ajayakumar,CPM,2003,8,SC,7,M,359758
+S11,Trichur,KERALA,A.C. Jose,INC,2003,9,GEN,7,M,343793
+S11,Mukundapuram,KERALA,K. Karunakaran,INC,2003,10,GEN,7,M,397156
+S11,Ernakulam,KERALA,Dr.Sebastian Paul,IND,2003,11,GEN,7,M,335308
+S11,Muvattupuzha,KERALA,Adv. P.C. Thomas,KEC(M),2003,12,GEN,7,M,357402
+S11,Kottayam,KERALA,Suresh Kurup,CPM,2003,13,GEN,7,M,344296
+S11,Idukki,KERALA,K. Francis George,KEC,2003,14,GEN,7,M,365313
+S11,Alleppey,KERALA,V.M. Sudheeran,INC,2003,15,GEN,7,M,392700
+S11,Mavelikara,KERALA,Ramesh Chennithala,INC,2003,16,GEN,7,M,310455
+S11,Adoor,KERALA,Kodikunnil Suresh,INC,2003,17,SC,7,M,337003
+S11,Quilon,KERALA,P. Rajendran,CPM,2003,18,GEN,7,M,351869
+S11,Chirayinkil,KERALA,Varkala Radhakrishnan,CPM,2003,19,GEN,7,M,309304
+S11,Trivandrum,KERALA,Advocate V.S. Sivakumar,INC,2003,20,GEN,7,M,288390
+S12,Morena,MADHYA PRADESH,Ashok Chhaviram  Argal,BJP,2003,1,SC,7,M,210790
+S12,Bhind,MADHYA PRADESH,Dr. Ramlakhan Singh,BJP,2003,2,GEN,7,M,270766
+S12,Gwalior,MADHYA PRADESH,Jaibhan Singh Pavaiya,BJP,2003,3,GEN,7,M,254486
+S12,Guna,MADHYA PRADESH,JYOTIRADITYA MADHAVRAO SCINDIA,INC,2003,4,GEN,7,M,535728
+S12,Sagar,MADHYA PRADESH,Virendra Kumar,BJP,2003,5,SC,7,M,293357
+S12,Khajuraho,MADHYA PRADESH,Satyavrat Chaturvedi ( Vinod Bhaiya ),INC,2003,6,GEN,7,M,335861
+S12,Damoh,MADHYA PRADESH,Dr. Ramkrishna Kusmaria,BJP,2003,7,GEN,7,M,246909
+S12,Satna,MADHYA PRADESH,Ramanand Singh,BJP,2003,8,GEN,7,M,217932
+S12,Rewa,MADHYA PRADESH,Sunder Lal Tiwari,INC,2003,9,GEN,7,M,275115
+S12,Sidhi,MADHYA PRADESH,Chandra Pratap Singh ( Baba Sahab),BJP,2003,10,ST,7,M,264981
+S12,Shahdol,MADHYA PRADESH,Dalpat Singh,BJP,2003,11,ST,7,M,262229
+S12,Surguja,MADHYA PRADESH,Khel Sai Singh,INC,2003,12,ST,7,M,297778
+S12,Raigarh,MADHYA PRADESH,Vishnudeo Sai,BJP,2003,13,ST,7,M,276244
+S12,Janjgir,MADHYA PRADESH,Dr. Charandas Mahant,INC,2003,14,GEN,7,M,278931
+S12,Bilaspur,MADHYA PRADESH,Punnulal Mohale,BJP,2003,15,SC,7,M,274860
+S12,Sarangarh,MADHYA PRADESH,P. R. Khute,BJP,2003,16,SC,7,M,281769
+S12,Raipur,MADHYA PRADESH,Ramesh Bais,BJP,2003,17,GEN,7,M,354736
+S12,Mahasamund,MADHYA PRADESH,Shyama Charan Shukla,INC,2003,18,GEN,7,M,340635
+S12,Kanker,MADHYA PRADESH,Sohan Potai,BJP,2003,19,ST,7,M,318040
+S12,Bastar,MADHYA PRADESH,Baliram Kashyap,BJP,2003,20,ST,7,M,155421
+S12,Durg,MADHYA PRADESH,Tara Chand Sahu,BJP,2003,21,GEN,7,M,389777
+S12,Rajnandgaon,MADHYA PRADESH,Dr. Raman,BJP,2003,22,GEN,7,M,304611
+S12,Balaghat,MADHYA PRADESH,Prahladsingh Patel,BJP,2003,23,GEN,7,M,251308
+S12,Mandla,MADHYA PRADESH,Faggan Singh Kulaste,BJP,2003,24,ST,7,M,232042
+S12,Jabalpur,MADHYA PRADESH,Jaishree Banerjee ( Bhabhi Ji),BJP,2003,25,GEN,7,F,300648
+S12,Seoni,MADHYA PRADESH,Ram Naresh Tripathi,BJP,2003,26,GEN,7,M,282891
+S12,Chhindwara,MADHYA PRADESH,Kamal Nath,INC,2003,27,GEN,7,M,399904
+S12,Betul,MADHYA PRADESH,"Vijay Kumar Khandelwal "" Munni Bhaiya""",BJP,2003,28,GEN,7,M,272512
+S12,Hoshangabad,MADHYA PRADESH,Sundar Lal Patwa,BJP,2003,29,GEN,7,M,353760
+S12,Bhopal,MADHYA PRADESH,Uma Bharti,BJP,2003,30,GEN,7,F,537905
+S12,Vidisha,MADHYA PRADESH,Shivraj Singh,BJP,2003,31,GEN,7,M,360421
+S12,Rajgarh,MADHYA PRADESH,Laxman Singh,INC,2003,32,GEN,7,M,354234
+S12,Shajapur,MADHYA PRADESH,Thavarchand Gehlot,BJP,2003,33,SC,7,M,387607
+S12,Khandwa,MADHYA PRADESH,Nandkumarsingh Chouhan ( Nandu Bhaiya ),BJP,2003,34,GEN,7,M,364161
+S12,Khargone,MADHYA PRADESH,Tarachand Patel,INC,2003,35,GEN,7,M,354133
+S12,Dhar,MADHYA PRADESH,Gajendra Singh Rajukhedi,INC,2003,36,ST,7,M,355482
+S12,Indore,MADHYA PRADESH,Sumitra Mahajan,BJP,2003,37,GEN,7,F,474167
+S12,Ujjain,MADHYA PRADESH,Dr. Satyanarayan Jatiya,BJP,2003,38,SC,7,M,360103
+S12,Jhabua,MADHYA PRADESH,Kantilal Bhuriya,INC,2003,39,ST,7,M,371842
+S12,Mandsaur,MADHYA PRADESH,Dr. Lakshaminarayan Pandey,BJP,2003,40,GEN,7,M,395928
+S13,Rajapur,MAHARASHTRA,Suresh Prabhakar Prabhu,SHS,2003,1,GEN,7,M,221523
+S13,Ratnagiri,MAHARASHTRA,Anant Gangaram Geete,SHS,2003,2,GEN,7,M,293834
+S13,Kolaba,MAHARASHTRA,Ramsheth Thakur,PWPI,2003,3,GEN,7,M,274361
+S13,Mumbai South,MAHARASHTRA,Jayawanti Mehta,BJP,2003,4,GEN,7,F,144945
+S13,Mumbai South Central,MAHARASHTRA,Mohan Vishnu Rawale,SHS,2003,5,GEN,7,M,176323
+S13,Mumbai North Central,MAHARASHTRA,Manohar Gajanan Joshi,SHS,2003,6,GEN,7,M,294935
+S13,Mumbai North East,MAHARASHTRA,Kirit Somaiya,BJP,2003,7,GEN,7,M,400436
+S13,Mumbai North West,MAHARASHTRA,Sunil Dutt,INC,2003,8,GEN,7,M,366669
+S13,Mumbai North,MAHARASHTRA,Ram Naik,BJP,2003,9,GEN,7,M,517941
+S13,Thane,MAHARASHTRA,Prakash Paranjpe,SHS,2003,10,GEN,7,M,391446
+S13,Dahanu,MAHARASHTRA,Adv Chintaman Wanaga,BJP,2003,11,ST,7,M,240866
+S13,Nashik,MAHARASHTRA,Dhikale Uttamrao Nathuji,SHS,2003,12,GEN,7,M,303084
+S13,Malegaon,MAHARASHTRA,Mahale Haribahu Shankar,JD(S),2003,13,ST,7,M,191643
+S13,Dhule,MAHARASHTRA,Ramdas Rupla Gavit,BJP,2003,14,ST,7,M,211904
+S13,Nandurbar,MAHARASHTRA,Gavit Manikrao Hodlya,INC,2003,15,ST,7,M,318338
+S13,Erandol,MAHARASHTRA,Annasaheb M K Patil,BJP,2003,16,GEN,7,M,297867
+S13,Jalgaon,MAHARASHTRA,Y G Mahajan Sir,BJP,2003,17,GEN,7,M,334020
+S13,Buldhana,MAHARASHTRA,Adsul Anandrao Vithoba,SHS,2003,18,SC,7,M,294922
+S13,Akola,MAHARASHTRA,Ambedkar Prakash Yashwant,BBM,2003,19,GEN,7,M,272243
+S13,Washim,MAHARASHTRA,Bhawana Pundlikrao Gawali,SHS,2003,20,GEN,7,F,244820
+S13,Amravati,MAHARASHTRA,Gudhe Anant Mahadeoappa,SHS,2003,21,GEN,7,M,319916
+S13,Ramtek,MAHARASHTRA,Subodh Mohite,SHS,2003,22,GEN,7,M,242454
+S13,Nagpur,MAHARASHTRA,Vilas Muttemwar,INC,2003,23,GEN,7,M,424450
+S13,Bhandara,MAHARASHTRA,Chunnilalbhau Thakur,BJP,2003,24,GEN,7,M,291355
+S13,Chimur,MAHARASHTRA,Diwathe Namdeo Harbaji,BJP,2003,25,GEN,7,M,300601
+S13,Chandrapur,MAHARASHTRA,Puglia Nareshkumar Chunnalal,INC,2003,26,GEN,7,M,328522
+S13,Wardha,MAHARASHTRA,Prabha Rao,INC,2003,27,GEN,7,F,249564
+S13,Yavatmal,MAHARASHTRA,Uttamrao Deorao Patil,INC,2003,28,GEN,7,M,258535
+S13,Hingoli,MAHARASHTRA,Mane Shivaji Gyanbarao,SHS,2003,29,GEN,7,M,297284
+S13,Nanded,MAHARASHTRA,Khatgaonkar Bhaskarrao Bapurao,INC,2003,30,GEN,7,M,327293
+S13,Parbhani,MAHARASHTRA,Jadhav Suresh Ramrao,SHS,2003,31,GEN,7,M,254019
+S13,Jalna,MAHARASHTRA,Danve Raosaheb Dadarao Patil,BJP,2003,32,GEN,7,M,332620
+S13,Aurangabad,MAHARASHTRA,Chandrakant Khaire,SHS,2003,33,GEN,7,M,383144
+S13,Beed,MAHARASHTRA,Jaysingrao Gaikwad Patil,BJP,2003,34,GEN,7,M,332946
+S13,Latur,MAHARASHTRA,Patil Shivraj Vishwanath,INC,2003,35,GEN,7,M,314213
+S13,Osmanabad,MAHARASHTRA,Kamble Shivaji Vithalrao,SHS,2003,36,SC,7,M,252135
+S13,Sholapur,MAHARASHTRA,Mohite P.P.Shankarrao,BJP,2003,37,GEN,7,M,352360
+S13,Pandharpur,MAHARASHTRA,Athawale Ramdas Bandu,IND,2003,38,SC,7,M,413115
+S13,Ahmednagar,MAHARASHTRA,Dilipkumar Mansukhlal Gandhi,BJP,2003,39,GEN,7,M,278508
+S13,Kopargaon,MAHARASHTRA,E V Alias Balasaheb Vikhe Patil,SHS,2003,40,GEN,7,M,253498
+S13,Khed,MAHARASHTRA,Ashok Namdeorao Mohol,NCP,2003,41,GEN,7,M,284476
+S13,Pune,MAHARASHTRA,Pradeep Rawat,BJP,2003,42,GEN,7,M,304955
+S13,Baramati,MAHARASHTRA,Pawar Sharadchandra Govindrao,NCP,2003,43,GEN,7,M,510928
+S13,Satara,MAHARASHTRA,Laxmanrao Pandurang Jadhav Patil,NCP,2003,44,GEN,7,M,313325
+S13,Karad,MAHARASHTRA,Shriniwas Dadasaheb Patil (Marulkar),NCP,2003,45,GEN,7,M,350504
+S13,Sangli,MAHARASHTRA,Prakash (Bapu) Vasantrao Patil,INC,2003,46,GEN,7,M,381162
+S13,Ichalkaranji,MAHARASHTRA,Mane Nivedita Sambhajirao,NCP,2003,47,GEN,7,F,337657
+S13,Kolhapur,MAHARASHTRA,Mandlik Sadashivrao Dadoba,NCP,2003,48,GEN,7,M,346459
+S18,Mayurbhanj,ORISSA,Salkhan Murmu,BJP,2003,1,ST,7,M,300902
+S18,Balasore,ORISSA,Mahameghabahan Aira Kharabela Swain,BJP,2003,2,GEN,7,M,428070
+S18,Bhadrak,ORISSA,Arjun Charan Sethi,BJD,2003,3,SC,7,M,397450
+S18,Jajpur,ORISSA,Jagannath Mallik,BJD,2003,4,SC,7,M,351442
+S18,Kendrapara,ORISSA,Prabhat Kumar Samantray,BJD,2003,5,GEN,7,M,359314
+S18,Cuttack,ORISSA,Bhartruhari Mahtab,BJD,2003,6,GEN,7,M,407603
+S18,Jagatsinghpur,ORISSA,Trilochan Kanungo,BJD,2003,7,GEN,7,M,439888
+S18,Puri,ORISSA,Braja Kishore Tripathy,BJD,2003,8,GEN,7,M,383060
+S18,Bhubaneswar,ORISSA,Prasanna Kumar Patasani,BJD,2003,9,GEN,7,M,414429
+S18,Aska,ORISSA,Kumudini Patnaik,BJD,2003,10,GEN,7,F,288240
+S18,Berhampur,ORISSA,Anadicharan Sahu,BJP,2003,11,GEN,7,M,310704
+S18,Koraput,ORISSA,Hema Gamang,INC,2003,12,ST,7,F,277555
+S18,Nowrangpur,ORISSA,Parsuram Majhi,BJP,2003,13,ST,7,M,331863
+S18,Kalahandi,ORISSA,Bikram Keshari Deo,BJP,2003,14,GEN,7,M,371911
+S18,Phulbani,ORISSA,Padmanava Behera,BJD,2003,15,SC,7,M,357024
+S18,Bolangir,ORISSA,Sangeeta Kumari Singh Deo,BJP,2003,16,GEN,7,F,404988
+S18,Sambalpur,ORISSA,Prasanna Acharya,BJD,2003,17,GEN,7,M,398597
+S18,Deogarh,ORISSA,Debendra Pradhan,BJP,2003,18,GEN,7,M,376412
+S18,Dhenkanal,ORISSA,Kamakhya Prasad Singh Deo,INC,2003,19,GEN,7,M,248824
+S18,Sundargarh,ORISSA,Jual Oram,BJP,2003,20,ST,7,M,326395
+S18,Keonjhar,ORISSA,Ananta Nayak,BJP,2003,21,ST,7,M,416956
+S19,Gurdaspur,PUNJAB,Vinod Khanna,BJP,2003,1,GEN,7,M,315267
+S19,Amritsar,PUNJAB,Raghunandan Lal  Bhatia,INC,2003,2,GEN,7,M,296533
+S19,Tarn Taran,PUNJAB,Tarlochan Singh  Tur,SAD,2003,3,GEN,7,M,305899
+S19,Jullundur,PUNJAB,Balbir Singh,INC,2003,4,GEN,7,M,267209
+S19,Phillaur,PUNJAB,Santosh  Chowdhary,INC,2003,5,SC,7,F,263540
+S19,Hoshiarpur,PUNJAB,Charanjit Singh Channi,INC,2003,6,GEN,7,M,256211
+S19,Ropar,PUNJAB,Shamsher Singh,INC,2003,7,SC,7,M,326651
+S19,Patiala,PUNJAB,Preneet Kaur,INC,2003,8,GEN,7,F,360125
+S19,Ludhiana,PUNJAB,Gurcharan Singh Galib,INC,2003,9,GEN,7,M,346928
+S19,Sangrur,PUNJAB,Simranjit Singh Mann,SAD(M),2003,10,GEN,7,M,298846
+S19,Bhatinda,PUNJAB,Bhan Singh Bhaura,CPI,2003,11,SC,7,M,327484
+S19,Faridkot,PUNJAB,Jagmeet Singh  Brar,INC,2003,12,GEN,7,M,418454
+S19,Ferozepur,PUNJAB,Zora Singh,SAD,2003,13,GEN,7,M,300236
+S20,Ganganagar,RAJASTHAN,Nihal Chand,BJP,2003,1,SC,7,M,358104
+S20,Bikaner,RAJASTHAN,Rameshwar Lal Dudi,INC,2003,2,GEN,7,M,493638
+S20,Churu,RAJASTHAN,Ram Singh Kaswan,BJP,2003,3,GEN,7,M,351485
+S20,Jhunjhunu,RAJASTHAN,Sisram Ola,INC,2003,4,GEN,7,M,330198
+S20,Sikar,RAJASTHAN,Subhash Maharia,BJP,2003,5,GEN,7,M,341445
+S20,Jaipur,RAJASTHAN,Girdhari Lal Bhargava,BJP,2003,6,GEN,7,M,456720
+S20,Dausa,RAJASTHAN,Rama Pilot,INC,2003,7,GEN,7,M,349439
+S20,Alwar,RAJASTHAN,Dr. Jaswant Singh Yadav,BJP,2003,8,GEN,7,M,325556
+S20,Bharatpur,RAJASTHAN,Vishvendra Singh,BJP,2003,9,GEN,7,M,277460
+S20,Bayana,RAJASTHAN,Bahadur Singh,BJP,2003,10,SC,7,M,234881
+S20,Sawai Madhopur,RAJASTHAN,Jaskaur,BJP,2003,11,ST,7,F,277014
+S20,Ajmer,RAJASTHAN,Rasa Singh Rawat,BJP,2003,12,GEN,7,M,332130
+S20,Tonk,RAJASTHAN,Shyam Lal Bansiwal,BJP,2003,13,SC,7,M,287265
+S20,Kota,RAJASTHAN,Raghuveer Singh Koushal,BJP,2003,14,GEN,7,M,320205
+S20,Jhalawar,RAJASTHAN,Vansundhara Raje,BJP,2003,15,GEN,7,F,409574
+S20,Banswara,RAJASTHAN,Tara Chand Bhagora,INC,2003,16,ST,7,M,379775
+S20,Salumber,RAJASTHAN,Bheru Lal Meena,INC,2003,17,ST,7,M,290976
+S20,Udaipur,RAJASTHAN,Girija Vyas,INC,2003,18,GEN,7,F,372645
+S20,Chittorgarh,RAJASTHAN,Shrichand Kriplani,BJP,2003,19,GEN,7,M,411275
+S20,Bhilwara,RAJASTHAN,Vijayendra Pal Singh,BJP,2003,20,GEN,7,M,287858
+S20,Pali,RAJASTHAN,Pusp Jain,BJP,2003,21,GEN,7,M,316844
+S20,Jalore,RAJASTHAN,Buta Singh,INC,2003,22,SC,7,M,330652
+S20,Barmer,RAJASTHAN,Col. Sonaram Choudhary,INC,2003,23,GEN,7,M,424150
+S20,Jodhpur,RAJASTHAN,Jaswant Singh Vishnoi,BJP,2003,24,GEN,7,M,368463
+S20,Nagaur,RAJASTHAN,Ram Raghunath Choudhary,INC,2003,25,GEN,7,M,267914
+S22,Madras North,TAMIL NADU,"Kuppusamy, C.",DMK,2003,1,GEN,7,M,471101
+S22,Madras Central,TAMIL NADU,Murasoli Maran,DMK,2003,2,GEN,7,M,364565
+S22,Madras South,TAMIL NADU,"Baalu, T.R.",DMK,2003,3,GEN,7,M,562221
+S22,Sriperumbudur,TAMIL NADU,"Krishnaswamy,   A.",DMK,2003,4,SC,7,M,385558
+S22,Chengalpattu,TAMIL NADU,"Moorthy, A.K.",PMK,2003,5,GEN,7,M,330551
+S22,Arakkonam,TAMIL NADU,"Jagathrakshakan, S. Dr.",DMK,2003,6,GEN,7,M,346520
+S22,Vellore,TAMIL NADU,"Shanmugam, N.T.",PMK,2003,7,GEN,7,M,324547
+S22,Tiruppattur,TAMIL NADU,"Venugopal, D.",DMK,2003,8,GEN,7,M,350703
+S22,Vandavasi,TAMIL NADU,"Durai, M.",PMK,2003,9,GEN,7,M,345539
+S22,Tindivanam,TAMIL NADU,Ramachandran N. Gingee.,MDMK,2003,10,GEN,7,M,323234
+S22,Cuddalore,TAMIL NADU,"Sankar, Adhi",DMK,2003,11,GEN,7,M,358367
+S22,Chidambaram,TAMIL NADU,"Ponnuswamy, E.",PMK,2003,12,SC,7,M,345331
+S22,Dharmapuri,TAMIL NADU,"Elangovan, P.D.",PMK,2003,13,GEN,7,M,340162
+S22,Krishnagiri,TAMIL NADU,"Vetriselvan, V.",DMK,2003,14,GEN,7,M,347737
+S22,Rasipuram,TAMIL NADU,"Saroja, V. Dr.",ADMK,2003,15,SC,7,F,304843
+S22,Salem,TAMIL NADU,"Selvaganapathi, T.M.",ADMK,2003,16,GEN,7,M,363689
+S22,Tiruchengode,TAMIL NADU,"Kannappan, M.",MDMK,2003,17,GEN,7,M,409293
+S22,Nilgiris,TAMIL NADU,"Mathan, M. (Alias) Master Mathan, M.",BJP,2003,18,GEN,7,M,369828
+S22,Gobichettipalayam,TAMIL NADU,"Kaliappan, K.K.",ADMK,2003,19,GEN,7,M,299184
+S22,Coimbatore,TAMIL NADU,"Radhakrishnan, C.P.",BJP,2003,20,GEN,7,M,430068
+S22,Pollachi,TAMIL NADU,"Krishnan, Dr.C.",MDMK,2003,21,SC,7,M,293038
+S22,Palani,TAMIL NADU,"Kumarasamy, P.",ADMK,2003,22,GEN,7,M,297850
+S22,Dindigul,TAMIL NADU,"Sreenivaasan, C.",ADMK,2003,23,GEN,7,M,294794
+S22,Madurai,TAMIL NADU,"Mohan, P.",CPM,2003,24,GEN,7,M,328204
+S22,Periyakulam,TAMIL NADU,"Dhinakaran,",ADMK,2003,25,GEN,7,M,303881
+S22,Karur,TAMIL NADU,"Chinnasamy, M.",ADMK,2003,26,GEN,7,M,334407
+S22,Tiruchirappalli,TAMIL NADU,ELUMALAI @ DALIT EZHIMALAI R.,ADMK,2003,27,GEN,7,M,343874
+S22,Perambalur,TAMIL NADU,Raja. A.,DMK,2003,28,SC,7,M,330675
+S22,Mayiladuturai,TAMIL NADU,Manishankar Aiyar,INC,2003,29,GEN,7,M,324384
+S22,Nagapattinam,TAMIL NADU,"Vijayan, A.K.S.",DMK,2003,30,SC,7,M,342237
+S22,Thanjavur,TAMIL NADU,Palanimanickam.S.S.,DMK,2003,31,GEN,7,M,295191
+S22,Pudukkottai,TAMIL NADU,Thirunavukarasu,MADMK,2003,32,GEN,7,M,396216
+S22,Sivaganga,TAMIL NADU,"Sudarsana Natchiappan,E.M.",INC,2003,33,GEN,7,M,246078
+S22,Ramanathapuram,TAMIL NADU,Malaisamy.K.,ADMK,2003,34,GEN,7,M,265253
+S22,Sivakasi,TAMIL NADU,Vaiko,MDMK,2003,35,GEN,7,M,325829
+S22,Tirunelveli,TAMIL NADU,"Pandian, P.H.",ADMK,2003,36,GEN,7,M,249975
+S22,Tenkasi,TAMIL NADU,"Murugesan,S.",ADMK,2003,37,SC,7,M,239241
+S22,Tiruchendur,TAMIL NADU,"Jayaseelan, A.D.K.",DMK,2003,38,GEN,7,M,237630
+S22,Nagercoil,TAMIL NADU,"Radhakrishnan,P.",BJP,2003,39,GEN,7,M,307319
+S24,Tehri Garhwal,UTTAR PRADESH,Manabendra Shah,BJP,2003,1,GEN,7,M,207839
+S24,Garhwal,UTTAR PRADESH,Maj Gen. (Rtd) Bhuwan Chandra Khanduri(A.V.S.M.),BJP,2003,2,GEN,7,M,239745
+S24,Almora,UTTAR PRADESH,Bachi Singh Rawat,BJP,2003,3,GEN,7,M,192388
+S24,Nainital,UTTAR PRADESH,MAHENDRA SINGH PAL,INC,2003,4,GEN,7,M,200146
+S24,Bijnor,UTTAR PRADESH,Sheeshram Singh Ravi,BJP,2003,5,SC,7,M,214266
+S24,Amroha,UTTAR PRADESH,Rashid Alvi,BSP,2003,6,GEN,7,M,337919
+S24,Moradabad,UTTAR PRADESH,Chandra Vijay Singh Alias Baby Raja,ABLTC,2003,7,GEN,7,M,253321
+S24,Rampur,UTTAR PRADESH,Begum Noor Bano Urf Mahtab Zamani Begum,INC,2003,8,GEN,7,F,338493
+S24,Sambhal,UTTAR PRADESH,Mulayam Singh Yadav,SP,2003,9,GEN,7,M,259430
+S24,Budaun,UTTAR PRADESH,Saleem Iqbal Shervani,SP,2003,10,GEN,7,M,236496
+S24,Aonla,UTTAR PRADESH,Kunwar Sarvraj Singh,SP,2003,11,GEN,7,M,195839
+S24,Bareilly,UTTAR PRADESH,Santosh Gangwar,BJP,2003,12,GEN,7,M,292813
+S24,Pilibhit,UTTAR PRADESH,Maneka Gandhi,IND,2003,13,GEN,7,F,433421
+S24,Shahjahanpur,UTTAR PRADESH,RAMMURTI SINGH VERMA,SP,2003,14,GEN,7,M,152971
+S24,Kheri,UTTAR PRADESH,Ravi Prakash Verma,SP,2003,15,GEN,7,M,202373
+S24,Shahabad,UTTAR PRADESH,Daud Ahmad,BSP,2003,16,GEN,7,M,214146
+S24,Sitapur,UTTAR PRADESH,Rajesh Verma,BSP,2003,17,GEN,7,M,211120
+S24,Misrikh,UTTAR PRADESH,Sushila Saroj,SP,2003,18,SC,7,F,159279
+S24,Hardoi,UTTAR PRADESH,Jai Prakash,ABLTC,2003,19,SC,7,M,206256
+S24,Lucknow,UTTAR PRADESH,Atal Bihari Vajpayee,BJP,2003,20,GEN,7,M,362709
+S24,Mohanlalganj,UTTAR PRADESH,Reena Chowdhary,SP,2003,21,SC,7,F,182034
+S24,Unnao,UTTAR PRADESH,Deepak Kumar,SP,2003,22,GEN,7,M,207242
+S24,Rae Bareli,UTTAR PRADESH,Captain Satish Sharma,INC,2003,23,GEN,7,M,224202
+S24,Pratapgarh,UTTAR PRADESH,Rajkumari Ratna Singh,INC,2003,24,GEN,7,F,202170
+S24,Amethi,UTTAR PRADESH,Sonia Gandhi,INC,2003,25,GEN,7,F,418960
+S24,Sultanpur,UTTAR PRADESH,Jai Bhadra Singh,BSP,2003,26,GEN,7,M,173558
+S24,Akbarpur,UTTAR PRADESH,TRIBHUVAN DUTT,BSP,2003,27,SC,7,M,250405
+S24,Faizabad,UTTAR PRADESH,Vinay Katiyar,BJP,2003,28,GEN,7,M,193191
+S24,Bara Banki,UTTAR PRADESH,Ram Sagar,SP,2003,29,SC,7,M,210958
+S24,Kaiserganj,UTTAR PRADESH,Beni Prasad Verma,SP,2003,30,GEN,7,M,233934
+S24,Bahraich,UTTAR PRADESH,Padamsen Chaudhary,BJP,2003,31,GEN,7,M,223768
+S24,Balrampur,UTTAR PRADESH,Rizvan Zaheer  Alias Rijju Bhaiya,SP,2003,32,GEN,7,M,255267
+S24,Gonda,UTTAR PRADESH,Braj Bhushan Sharan Singh,BJP,2003,33,GEN,7,M,243162
+S24,Basti,UTTAR PRADESH,Shriram Chauhan,BJP,2003,34,SC,7,M,174378
+S24,Domariaganj,UTTAR PRADESH,Ram Pal Singh,BJP,2003,35,GEN,7,M,198263
+S24,Khalilabad,UTTAR PRADESH,Bhal Chandra Yadav,SP,2003,36,GEN,7,M,236837
+S24,Bansgaon,UTTAR PRADESH,Raj Narayan Pasi,BJP,2003,37,SC,7,M,184684
+S24,Gorakhpur,UTTAR PRADESH,Aditya Nath,BJP,2003,38,GEN,7,M,267382
+S24,Maharajganj,UTTAR PRADESH,Akhilesh  Singh,SP,2003,39,GEN,7,M,239826
+S24,Padrauna,UTTAR PRADESH,Ram Nagina Mishra,BJP,2003,40,GEN,7,M,196651
+S24,Deoria,UTTAR PRADESH,Shri Prakash Mani,BJP,2003,41,GEN,7,M,251814
+S24,Salempur,UTTAR PRADESH,Babban Rajbhar,BSP,2003,42,GEN,7,M,170558
+S24,Ballia,UTTAR PRADESH,Chandra Shekhar,SJP(R),2003,43,GEN,7,M,235946
+S24,Ghosi,UTTAR PRADESH,Bal Krishna,BSP,2003,44,GEN,7,M,207105
+S24,Azamgarh,UTTAR PRADESH,Rama Kant Yadav,SP,2003,45,GEN,7,M,227616
+S24,Lalganj,UTTAR PRADESH,Dr. Bali Ram,BSP,2003,46,SC,7,M,229122
+S24,Machhlishahr,UTTAR PRADESH,Chandra Nath Singh,SP,2003,47,GEN,7,M,201509
+S24,Jaunpur,UTTAR PRADESH,Chinmayanand,BJP,2003,48,GEN,7,M,207405
+S24,Saidpur,UTTAR PRADESH,Tufani Saroj,SP,2003,49,SC,7,M,237438
+S24,Ghazipur,UTTAR PRADESH,Manoj,BJP,2003,50,GEN,7,M,240592
+S24,Chandauli,UTTAR PRADESH,Jawahar Lal Jaiswal,SP,2003,51,GEN,7,M,265412
+S24,Varanasi,UTTAR PRADESH,Shankar Prasad Jaiswal,BJP,2003,52,GEN,7,M,211955
+S24,Robertsganj,UTTAR PRADESH,Ram Shakal,BJP,2003,53,SC,7,M,200826
+S24,Mirzapur,UTTAR PRADESH,RAM RATI BIND,SP,2003,54,GEN,7,M,195329
+S24,Phulpur,UTTAR PRADESH,Dharam Raj Singh Patel,SP,2003,55,GEN,7,M,183282
+S24,Allahabad,UTTAR PRADESH,Dr. Murli Manohar Joshi,BJP,2003,56,GEN,7,M,219114
+S24,Chail,UTTAR PRADESH,Suresh Pasi,BSP,2003,57,SC,7,M,151557
+S24,Fatehpur,UTTAR PRADESH,Ashok Patel,BJP,2003,58,GEN,7,M,142911
+S24,Banda,UTTAR PRADESH,Ram Sajiwan,BSP,2003,59,GEN,7,M,209995
+S24,Hamirpur,UTTAR PRADESH,Ashok Kumar Singh Chandel,BSP,2003,60,GEN,7,M,217732
+S24,Jhansi,UTTAR PRADESH,Sujan Singh Bundela,INC,2003,61,GEN,7,M,283387
+S24,Jalaun,UTTAR PRADESH,Brij Lal Khabri,BSP,2003,62,SC,7,M,197705
+S24,Ghatampur,UTTAR PRADESH,Pyare Lal Sankhwar,BSP,2003,63,SC,7,M,156582
+S24,Bilhaur,UTTAR PRADESH,Shyam Bihari Mishra,BJP,2003,64,GEN,7,M,192054
+S24,Kanpur,UTTAR PRADESH,Sriprakash Jaiswal,INC,2003,65,GEN,7,M,293610
+S24,Etawah,UTTAR PRADESH,Raghuraj Singh Shakya,SP,2003,66,GEN,7,M,233065
+S24,Kannauj,UTTAR PRADESH,Akhilesh Yadav,SP,2003,67,GEN,7,M,306054
+S24,Farrukhabad,UTTAR PRADESH,Chandra Bhushan Singh (Munnoo Babu),SP,2003,68,GEN,7,M,222984
+S24,Mainpuri,UTTAR PRADESH,Balram Singh Yadav,SP,2003,69,GEN,7,M,244113
+S24,Jalesar,UTTAR PRADESH,Prof. S.P. Singh Baghel,SP,2003,70,GEN,7,M,217336
+S24,Etah,UTTAR PRADESH,Kr. Devendra Singh Yadav,SP,2003,71,GEN,7,M,226999
+S24,Firozabad,UTTAR PRADESH,Ram Jilal Suman,SP,2003,72,SC,7,M,289459
+S24,Agra,UTTAR PRADESH,Raj Babbar,SP,2003,73,GEN,7,M,288558
+S24,Mathura,UTTAR PRADESH,Ch. Tejvir Singh,BJP,2003,74,GEN,7,M,210212
+S24,Hathras,UTTAR PRADESH,Kishan Lal Diler,BJP,2003,75,SC,7,M,178253
+S24,Aligarh,UTTAR PRADESH,Sheela Gautam,BJP,2003,76,GEN,7,F,219313
+S24,Khurja,UTTAR PRADESH,Ashok Kumar Pradhan,BJP,2003,77,SC,7,M,216011
+S24,Bulandshahr,UTTAR PRADESH,Chhatra Pal,BJP,2003,78,GEN,7,M,180102
+S24,Hapur,UTTAR PRADESH,Ramesh Chand Tomar,BJP,2003,79,GEN,7,M,234525
+S24,Meerut,UTTAR PRADESH,Avtar Singh Bhadana,INC,2003,80,GEN,7,M,258456
+S24,Baghpat,UTTAR PRADESH,Ajit Singh,RLD,2003,81,GEN,7,M,358069
+S24,Muzaffarnagar,UTTAR PRADESH,Saiduzzaman,INC,2003,82,GEN,7,M,196669
+S24,Kairana,UTTAR PRADESH,Amir Alam,RLD,2003,83,GEN,7,M,206345
+S24,Saharanpur,UTTAR PRADESH,Mansoor Ali Khan,BSP,2003,84,GEN,7,M,235659
+S24,Hardwar,UTTAR PRADESH,Harpal Singh Sathi,BJP,2003,85,SC,7,M,236844
+S25,Cooch Behar,WEST BENGAL,Amar Roy Pradhan,FBL,2003,1,SC,7,M,443148
+S25,Alipurduars,WEST BENGAL,Joachim Baxla,RSP,2003,2,ST,7,M,389919
+S25,Jalpaiguri,WEST BENGAL,Minati Sen,CPM,2003,3,GEN,7,F,405785
+S25,Darjeeling,WEST BENGAL,S.P. Lepcha,CPM,2003,4,GEN,7,M,256826
+S25,Raiganj,WEST BENGAL,Priya Ranjan Dasmunsi,INC,2003,5,GEN,7,M,409331
+S25,Balurghat,WEST BENGAL,Barman Ranen,RSP,2003,6,SC,7,M,375669
+S25,Malda,WEST BENGAL,Abul Barkat Ataul Ghani Khan Choudhury,INC,2003,7,GEN,7,M,325833
+S25,Jangipur,WEST BENGAL,Abul Hasnat Khan,CPM,2003,8,GEN,7,M,352580
+S25,Murshidabad,WEST BENGAL,Moinul Hassan,CPM,2003,9,GEN,7,M,391366
+S25,Berhampore,WEST BENGAL,Adhir Ranjan Chowdhury,INC,2003,10,GEN,7,M,434073
+S25,Krishnagar,WEST BENGAL,Satyabrata Mookherjee,BJP,2003,11,GEN,7,M,366954
+S25,Nabadwip,WEST BENGAL,ALAKESH DAS,CPM,2003,12,SC,7,M,520630
+S25,Barasat,WEST BENGAL,Dr.Ranjit Kumar Panja,AITC,2003,13,GEN,7,M,518520
+S25,Basirhat,WEST BENGAL,Ajoy Chakraborty,CPI,2003,14,GEN,7,M,407903
+S25,Joynagar,WEST BENGAL,Sanat Kumar Mondal,RSP,2003,15,SC,7,M,396383
+S25,Mathurapur,WEST BENGAL,Radhika Ranjan Pramanik,CPM,2003,16,SC,7,M,382962
+S25,Diamond Harbour,WEST BENGAL,Samik Lahiri,CPM,2003,17,GEN,7,M,402761
+S25,Jadavpur,WEST BENGAL,Krishna Bose,AITC,2003,18,GEN,7,F,485366
+S25,Barrackpore,WEST BENGAL,Tarit Baran Topdar,CPM,2003,19,GEN,7,M,399269
+S25,Dum Dum,WEST BENGAL,Tapan Sikdar,BJP,2003,20,GEN,7,M,614471
+S25,Calcutta North West,WEST BENGAL,Sudip Bandyopadhyay,AITC,2003,21,GEN,7,M,206684
+S25,Calcutta North East,WEST BENGAL,Ajit Kumar Panja,AITC,2003,22,GEN,7,M,297491
+S25,Calcutta South,WEST BENGAL,Mamata Banerjee,AITC,2003,23,GEN,7,F,469103
+S25,Howrah,WEST BENGAL,Swadesh Chakraborty,CPM,2003,24,GEN,7,M,490537
+S25,Uluberia,WEST BENGAL,Hannan Mollah,CPM,2003,25,GEN,7,M,399397
+S25,Serampore,WEST BENGAL,Akbor Ali Khandoker,AITC,2003,26,GEN,7,M,411406
+S25,Hooghly,WEST BENGAL,Rupchand Pal,CPM,2003,27,GEN,7,M,440674
+S25,Arambagh,WEST BENGAL,Anil Basu,CPM,2003,28,GEN,7,M,503920
+S25,Panskura,WEST BENGAL,Dr. Bikram Sarkar,AITC,2003,29,GEN,7,F,426779
+S25,Tamluk,WEST BENGAL,Lakshman Chandra Seth,CPM,2003,30,GEN,7,M,455168
+S25,Contai,WEST BENGAL,Neetish  Sengupta,AITC,2003,31,GEN,7,M,395048
+S25,Midnapore,WEST BENGAL,PROBODH PANDA,CPI,2003,32,GEN,7,M,448237
+S25,Jhargram,WEST BENGAL,Rupchand Murmu,CPM,2003,33,ST,7,M,402325
+S25,Purulia,WEST BENGAL,Birsingh Mahato,FBL,2003,34,GEN,7,M,351143
+S25,Bankura,WEST BENGAL,Acharia Basudeb,CPM,2003,35,GEN,7,M,381720
+S25,Vishnupur,WEST BENGAL,Sandhya Bauri,CPM,2003,36,SC,7,F,483084
+S25,Durgapur,WEST BENGAL,Sunil Khan,CPM,2003,37,SC,7,M,461940
+S25,Asansol,WEST BENGAL,Bikash Chowdhury,CPM,2003,38,GEN,7,M,377265
+S25,Burdwan,WEST BENGAL,Sar Nikhilananda,CPM,2003,39,GEN,7,M,598170
+S25,Katwa,WEST BENGAL,Mahboob Zahedi,CPM,2003,40,GEN,7,M,461502
+S25,Bolpur,WEST BENGAL,Somnath Chatterjee,CPM,2003,41,GEN,7,M,464199
+S25,Birbhum,WEST BENGAL,Ram Chandra Dome,CPM,2003,42,SC,7,M,373687
+U05,New Delhi,DELHI,Jag Mohan,BJP,2003,1,GEN,7,M,124626
+U05,South Delhi,DELHI,Vijay Kumar Malhotra,BJP,2003,2,GEN,7,M,261230
+U05,Outer Delhi,DELHI,Sahib Singh Verma,BJP,2003,3,GEN,7,M,709692
+U05,East Delhi,DELHI,Lal Bihari Tiwari,BJP,2003,4,GEN,7,M,521434
+U05,Chandni Chowk,DELHI,Vijay Goel,BJP,2003,5,GEN,7,M,74001
+U05,Delhi Sadar,DELHI,Madan Lal Khurana,BJP,2003,6,GEN,7,M,143186
+U05,Karol Bagh,DELHI,Anita Arya,BJP,2003,7,SC,7,F,128956

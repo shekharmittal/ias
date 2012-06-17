@@ -1,0 +1,14 @@
+RAJMAHAL (ST),Jharkhand
+DUMKA (ST),Jharkhand
+GODDA,Jharkhand
+CHATRA,Jharkhand
+KODARMA,Jharkhand
+GIRIDIH,Jharkhand
+DHANBAD,Jharkhand
+RANCHI,Jharkhand
+JAMSHEDPUR,Jharkhand
+SINGHBHUM (ST),Jharkhand
+KHUNTI (ST),Jharkhand
+LOHARDAGA (ST),Jharkhand
+PALAMU (SC),Jharkhand
+HAZARIBAGH,Jharkhand

@@ -1,0 +1,42 @@
+SRIKAKULAM,Andhra Pradesh
+PARVATHIPURAM (ST),Andhra Pradesh
+BOBBILI,Andhra Pradesh
+VISAKHAPATNAM,Andhra Pradesh
+BHADRACHALAM (ST),Andhra Pradesh
+ANAKAPALLI,Andhra Pradesh
+KAKINADA,Andhra Pradesh
+RAJAHMUNDRY,Andhra Pradesh
+AMALAPURAM (SC),Andhra Pradesh
+NARASAPUR,Andhra Pradesh
+ELURU,Andhra Pradesh
+MACHILIPATNAM,Andhra Pradesh
+VIJAYAWADA,Andhra Pradesh
+TENALI,Andhra Pradesh
+GUNTUR,Andhra Pradesh
+BAPATLA,Andhra Pradesh
+NARASARAOPET,Andhra Pradesh
+ONGOLE,Andhra Pradesh
+NELLORE (SC),Andhra Pradesh
+TIRUPATHI (SC),Andhra Pradesh
+CHITTOOR,Andhra Pradesh
+RAJAMPET,Andhra Pradesh
+CUDDAPAH,Andhra Pradesh
+HINDUPUR,Andhra Pradesh
+ANANTAPUR,Andhra Pradesh
+KURNOOL,Andhra Pradesh
+NANDYAL,Andhra Pradesh
+NAGARKURNOOL (SC),Andhra Pradesh
+MAHABUBNAGAR,Andhra Pradesh
+HYDERABAD,Andhra Pradesh
+SECUNDERABAD,Andhra Pradesh
+SIDDIPET (SC),Andhra Pradesh
+MEDAK,Andhra Pradesh
+NIZAMABAD,Andhra Pradesh
+ADILABAD,Andhra Pradesh
+PEDDAPALLI (SC),Andhra Pradesh
+KARIMNAGAR,Andhra Pradesh
+HANAMKONDA,Andhra Pradesh
+WARANGAL,Andhra Pradesh
+KHAMMAM,Andhra Pradesh
+NALGONDA,Andhra Pradesh
+MIRYALGUDA,Andhra Pradesh
